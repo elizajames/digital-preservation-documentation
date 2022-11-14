@@ -1,0 +1,1 @@
+"exiftool.exe" -csv -k -r -ext * "%~dp0\Files" > "%~dp0filelistoutput.csv"
