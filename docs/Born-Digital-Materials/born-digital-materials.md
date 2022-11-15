@@ -6,8 +6,7 @@ has_children: true
 permalink: /born-digital-materials
 ---
 
-{: .fs-6 .fw-300 }
-
+{: .no_toc }
 
 - Introduction
     - Characteristics of Born Digital Materials

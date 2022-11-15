@@ -6,6 +6,6 @@ has_children: true
 permalink: /audiovisual-materials
 ---
 
-{: .fs-6 .fw-300 }
+{: .no_toc }
 
 # Introduction
