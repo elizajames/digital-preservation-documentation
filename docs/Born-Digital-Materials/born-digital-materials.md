@@ -31,3 +31,19 @@ Questions to aid in this discussion may be found in the [Digital Materials Donor
 Please note that this form is intended primarily for significant born digital material donations in which the donor works extensively to create content in a digital environment. If a donor is intending to donate a few CDs, DVDs, memory cards, floppy disks, or similar material, this form may not be needed. 
 
 Guidance for small transfers of born digital materials via email or OneDrive (or similar service) can be found in the Donor Guidance section of the [Imaging and Born Digital Content Acquisition Procedures](https://elizajames.github.io/digital-preservation-documentation/assets/files/ImagingAndBornDigitalContentAcquisitionProcedures.docx). 
+
+# Preferred File Formats
+
+Donors may request information about preferred file formats for materials they are considering donating to the WVRHC. The following file format guidance outlines the preferred and acceptable formats for donors, though materials will be accepted in any format and converted upon receipt to the relevant preferred format if necessary, as in the case of proprietary file formats. Some materials in non-preferred formats may have information lost in the conversion process to a preferred format. All efforts to identify file format normalization paths that minimize information loss will be taken.  
+
+|       Type            |                       Preferred Format(s)                   |      Acceptable Format(s)   |       Access Format    |
+|-----------------------|:-----------------------------------------------------------:|:---------------------------:|:----------------------:|
+|     Images            |   .tif                                                      |   .png, .jpg                |   .jpg                 |
+|     Audio             |   .wav                                                      |   .mp3                      |   .mp3                 |
+|     Video             |   .mov                                                      |   .mp4                      |   .mp4                 |
+|     Email             |   .mbox                                                     |   .txt, .xml                |   .txt                 |
+|     Text documents    |   PDF, PDF/A, PDF/UA (.pdf)                                 |   .rtf, .txt., .doc, .docx  |   .pdf                 |
+|     Spreadsheets      |   .csv, .xml                                                |   .xls, .xlsx               |   .csv                 |
+|     Presentations     |   PDF/A                                                     |   .odf, .ppt                |   PDF/A                |
+|     Databases         |   .csv, .xml, .json (with documentation for relationships)  |   .xls, .xlsx               |   .csv                 |
+|     Web/social media  |   .warc                                                     |   Same as preferred.        |   Same as preferred.   |

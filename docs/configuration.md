@@ -1,9 +1,3 @@
----
-layout: default
-title: Configuration
-nav_order: 7
----
-
 # Configuration
 {: .no_toc }
 
