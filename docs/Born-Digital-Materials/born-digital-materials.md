@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Born Digital Materials
-nav_order: 1
+nav_order: 2
 has_children: true
 permalink: /born-digital-materials
 ---
-
+# Introduction
 {: .no_toc }
 
 - Introduction
