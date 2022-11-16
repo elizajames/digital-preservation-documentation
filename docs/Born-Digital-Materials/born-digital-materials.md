@@ -9,7 +9,7 @@ permalink: /born-digital-materials
 # Born Digital Materials
 {: .fs-6 .fw-300 }
 
-## Table of contents
+## On this page
 {: .no_toc .text-delta }
 
 1. TOC
