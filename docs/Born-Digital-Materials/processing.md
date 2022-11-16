@@ -34,3 +34,18 @@ All processing work must be completed on a copy of the files to mitigate the pos
 
 Open the [PREMIS Spreadsheet](https://elizajames.github.io/digital-preservation-documentation/assets/files/PREMISSpreadsheet.xlsx) for the collection and review the Appraisal events. Follow the general set of principles for each level outlined in the following table: 
 
+|       __Level of Processing and Description__  |                                                                                                        __Principles__                                                                                                    |
+|--------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|     Minimal                                |   Restrict processing actions to the media item level or actions that can be easily conducted in bulk.                                                                                                               |
+|     Enhanced                               |   Restrict processing actions to folder level within the media item, ideally the top-level folder within the media item, or actions that can be easily conducted in bulk with minimal manual intervention (if any).  |
+|     Intensive                              |   Processing actions may be conducted at the item level using manual intervention.                                                                                                                                   |
+
+## Create Access Copies of Disk Images 
+
+If disk imaging was required for an item, you will need to extract a copy of the files for user access. Within the folder for an item in the Born Digital_Content folder for the collection, retain the disk image in the folder named for the item’s identifier but create a new folder titled with the identifier followed by _DIP. The _DIP folder is where the extracted content will be stored. 
+
+<img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_main_manual/image10.png" alt="Comparison of folder containing AIP and folder containing DIP in file explorer">
+
+To extract the content, follow the FTK Imager instructions for Extracting Content from a Disk Image or Media Item in the [Imaging and Born Digital Content Acquisition Procedures document](https://elizajames.github.io/digital-preservation-documentation/assets/files/ImagingAndBornDigitalContentAcquisitionProcedures.docx). Note: any disk images containing Mac file systems, such as Hierarchical File System  Plus (HFS+), Hierarchical File System (HFS), or Macintosh File System (MFS), cannot be extracted this way. Forward the Digital Archivist the identifier for the item containing those file systems.  
+
+Any processing activities that involve modifying the files in the _DIP in any way must be recorded in the PREMIS Spreadsheet.  
