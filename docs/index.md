@@ -9,9 +9,9 @@ permalink: /
 # West Virginia and Regional History Center Documentation
 ## For all things digital and audiovisual at the WVRHC
 
-This site contains documentation for the West Virginia and Regional History Center (WVRHC) related to born digital materials, digitization, digital preservation, and audiovisual materials. It is used as a manual by WVRHC employees and was first completed in October 2022 by Elizabeth James, Digital Archivist at the WVRHC, and added to Github in November 2022. 
+This site contains documentation for the West Virginia and Regional History Center (WVRHC) related to born digital materials, digitization, digital preservation, and audiovisual materials. It is used as a manual by various WVRHC employees and was first completed in October 2022 by Elizabeth James, Digital Archivist at the WVRHC, and added to Github in November 2022. 
 
-This site is meant to be a living document--please feel free to [email Elizabeth James](mailto:elizabeth.james1@mail.wvu.edu) or [open an issue on Github](https://github.com/elizajames/digital-preservation-documentation).
+This site is meant to be a living document--please feel free to [email Elizabeth James](mailto:elizabeth.james1@mail.wvu.edu) or [open an issue on Github](https://github.com/elizajames/digital-preservation-documentation) if you notice any inaccuracies, typos, or have thoughts on how this documntation can be improved. If you've used this documentation in your work or it has been helpful to you, please send that along as well! 
 
 
 
