@@ -36,6 +36,7 @@ Guidance for small transfers of born digital materials via email or OneDrive (or
 
 Donors may request information about preferred file formats for materials they are considering donating to the WVRHC. The following file format guidance outlines the preferred and acceptable formats for donors, though materials will be accepted in any format and converted upon receipt to the relevant preferred format if necessary, as in the case of proprietary file formats. Some materials in non-preferred formats may have information lost in the conversion process to a preferred format. All efforts to identify file format normalization paths that minimize information loss will be taken.  
 
+
 |       Type            |                       Preferred Format(s)                   |      Acceptable Format(s)   |       Access Format    |
 |-----------------------|:-----------------------------------------------------------:|:---------------------------:|:----------------------:|
 |     Images            |   .tif                                                      |   .png, .jpg                |   .jpg                 |
