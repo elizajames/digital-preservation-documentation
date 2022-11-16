@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Docs
-description: A Jekyll theme for documentation
+title: WVRHC Documentation
+description: Documentation for digital and audiovisual work at the WVRHC
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://github.com/elizajames/digital-preservation-documentation" # the base hostname & protocol for your site, e.g. http://example.com
 remote_theme: just-the-docs/just-the-docs
