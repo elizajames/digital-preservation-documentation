@@ -18,16 +18,16 @@ Digital archives work is done through a series of decisions and actions, made by
 - _Responsibility_ for materials and the individuals documented within our collections.
 - _Usability_ of our materials by people in the short and long term. 
 
-In addition to these more abstract working principles, we also seek to adhere to the following principles for efficient processing and management of material, as recommended by the now ubiquitous [_Guidelines for Efficient Archival Processing in the University of California Libraries_](https://escholarship.org/uc/item/4b81g01z)
+In addition to these more abstract working principles, we also seek to adhere to the following principles for efficient processing and management of material, as recommended by the now ubiquitous [_Guidelines for Efficient Archival Processing in the University of California Libraries_](https://escholarship.org/uc/item/4b81g01z):
 
 - Aim to provide access to all holdings. 
 - Always look for the “golden minimum.” 
 - Analyze the work necessary for every collection and be flexible in the amount of work applied. 
--  Arrange, describe, and preserve materials in harmony. 
+- Arrange, describe, and preserve materials in harmony. 
 - Measure and compare processing rates to ensure processing is carried out efficiently. 
 
 
-This site is meant to be a living document--please feel free to [email Elizabeth James](mailto:elizabeth.james1@mail.wvu.edu) or [open an issue on Github](https://github.com/elizajames/digital-preservation-documentation) if you notice any inaccuracies, typos, or have thoughts on how this documntation can be improved. If you've used this documentation in your work or it has been helpful to you, please send that along as well! 
+This site is meant to be a living document--please feel free to [email Elizabeth James](mailto:elizabeth.james1@mail.wvu.edu) or [open an issue on Github](https://github.com/elizajames/digital-preservation-documentation) if you notice any inaccuracies, typos, or have thoughts on how this documentation can be improved. If you've used this documentation in your work or it has been helpful to you, please send that along as well! 
 
 
 
