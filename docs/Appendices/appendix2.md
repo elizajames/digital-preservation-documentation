@@ -5,7 +5,7 @@ parent: Appendices
 nav_order: 2
 ---
 
-# Appendix 2
+# Appendix 2: Links to Forms, Important Working Files, Equipment Operating Procedures, and Software Operating Procedures
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -39,3 +39,29 @@ This form is used internally at the WVRHC to flag materials for reformatting and
 - Relevant deadlines for reformatting
 - Person who needs to be notified once reformatting is completed
 - Person who needs to receive a copy of the submitted form
+
+## Digital Archives Work Tasks Board
+This board is used internally at the WVRHC primarily by the Digital Archivist to track reformatting work for all formats. The software used is Microsoft Lists (similar to a very simplified version of AirTable) embedded into a Microsoft Team and supports comments, attachments, filtering, etc. It is shared with processing staff. For reference, the fields included are as follows: 
+- Work item - typically collection identifier and title
+- Description - description of work to be done, formats, locations, etc. 
+- Category - controlled list
+    - Born digital processing
+    - Audiovisual processing
+    - Digitization 
+    - Digital repository
+    - Digital preservation
+- Progress - controlled list
+    - Not started
+    - In progress
+    - Completed
+    - Blocked
+- Priority - controlled list
+    - Low 
+    - Medium
+    - High 
+    - Critical
+- Assigned to - person working on the task
+- Date added - date an item was added to the list
+- Due date - date an item is due
+- Completion date - date an item was completed 
+- Notes - anything else that doesn't fit elsewhere

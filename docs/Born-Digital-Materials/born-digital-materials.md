@@ -5,8 +5,17 @@ nav_order: 2
 has_children: true
 permalink: /born-digital-materials
 ---
-# Introduction
-{: .no_toc }
+
+# Born Digital Materials
+{: .fs-6 .fw-300 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+## Introduction
 
 According to the Society of American Archivists Dictionary of Archives Terminology, [born digital materials](https://dictionary.archivists.org/entry/born-digital.html) can be described as materials that “originat[ed] in a computer environment.” Born digital materials can be on many formats, including: CDs, DVDs, hard drives, flash drives, memory cards, and Zip disks, among others.  
 
@@ -16,13 +25,13 @@ This manual concerns both types of materials, and understanding the distinction 
 
 A [Born Digital Processing Checklist](https://elizajames.github.io/digital-preservation-documentation/assets/files/BornDigitalProcessingChecklist.docx) is used to guide the overall actions taken when processing born digital collections. 
 
-# Characteristics of Born Digital Materials
+## Characteristics of Born Digital Materials
 
 Born digital materials, due to their inherent complexity, technical dependencies, volume, and variety, require different treatment than traditional physical archival materials. In the context of the WVRHC, these materials may include digital photographs, digital documents, audio and video files, mobile communications, e-mail, harvested web and social media content, data sets, and more.   
 
 Unlike many analog materials which may be fine after more than a decade of storage in good environmental conditions, digital materials require early intervention to minimize loss of information and context. It is critical that the individuals who care for these collections work to ensure the authenticity, preservation, and availability of the born digital materials in the long term by preventing damage and deterioration; reversing damage where possible; and mitigating the risks of media, hardware, and software obsolescence.  
 
-# Working with Donors to Acquire Materials
+## Working with Donors to Acquire Materials
 
 Whenever possible, the individual coordinating a donation should discuss born digital materials with the prospective donor and conduct a survey to learn about the computing environment and coordinate a method of transfer of born digital materials to the repository.  
 
@@ -32,7 +41,7 @@ Please note that this form is intended primarily for significant born digital ma
 
 Guidance for small transfers of born digital materials via email or OneDrive (or similar service) can be found in the Donor Guidance section of the [Imaging and Born Digital Content Acquisition Procedures](https://elizajames.github.io/digital-preservation-documentation/assets/files/ImagingAndBornDigitalContentAcquisitionProcedures.docx). 
 
-# Preferred File Formats
+## Preferred File Formats
 
 Donors may request information about preferred file formats for materials they are considering donating to the WVRHC. The following file format guidance outlines the preferred and acceptable formats for donors, though materials will be accepted in any format and converted upon receipt to the relevant preferred format if necessary, as in the case of proprietary file formats. Some materials in non-preferred formats may have information lost in the conversion process to a preferred format. All efforts to identify file format normalization paths that minimize information loss will be taken.  
 
