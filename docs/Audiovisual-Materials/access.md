@@ -17,8 +17,8 @@ Digitized audiovisual materials in collections will, by default, be made accessi
 - Permission is secured from the copyright holder 
 - Copyright has been transferred to the WVRHC 
 - Materials may be made accessible via Section 108 of copyright law 
-- The items have no determinable copyright holder and the works are “orphaned” 
-    - Copyright evaluations for materials determined to be “orphaned” should be saved on the Z: drive in the folder for a collection. Copyright evaluations should be conducted by the Digital Archivist or an authorized entity. 
+- The items have no determinable copyright holder and the works are "orphaned" 
+    - Copyright evaluations for materials determined to be "orphaned" should be saved on the Z: drive in the folder for a collection. Copyright evaluations should be conducted by the Digital Archivist or an authorized entity. 
 
 Materials will only be made available to all individuals who are logged in to the repository and have completed a digital content usage agreement if:  
 

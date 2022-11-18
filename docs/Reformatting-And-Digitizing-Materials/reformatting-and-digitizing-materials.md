@@ -10,7 +10,7 @@ permalink: /reformatting-and-digitizing-materials
 
 # Reformatting and Digitizing Materials
 
-The goal of digitization within the WVRHC, at its core, is access and preservation of materials. In-house digitization work follows the maxim “do it once and do it right,” as much as possible given available equipment and digitization type. This means that, varyingly, “right” may involve the creation of access copies by reference staff or preservation copies created in the Digitization Lab that are then preserved over time to minimize duplication of efforts.  
+The goal of digitization within the WVRHC, at its core, is access and preservation of materials. In-house digitization work follows the maxim "do it once and do it right," as much as possible given available equipment and digitization type. This means that, varyingly, "right" may involve the creation of access copies by reference staff or preservation copies created in the Digitization Lab that are then preserved over time to minimize duplication of efforts.  
 
 Materials of all formats in the WVRHC are candidates for systematic and planned digitization work. Materials are more likely to be digitized in-house as part of systematic digitization efforts if they:  
 

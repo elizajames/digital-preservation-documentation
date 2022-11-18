@@ -21,7 +21,7 @@ Digital archives work is done through a series of decisions and actions, made by
 In addition to these more abstract working principles, we also seek to adhere to the following principles for efficient processing and management of material, as recommended by the now ubiquitous [_Guidelines for Efficient Archival Processing in the University of California Libraries_](https://escholarship.org/uc/item/4b81g01z):
 
 - Aim to provide access to all holdings. 
-- Always look for the “golden minimum.” 
+- Always look for the "golden minimum." 
 - Analyze the work necessary for every collection and be flexible in the amount of work applied. 
 - Arrange, describe, and preserve materials in harmony. 
 - Measure and compare processing rates to ensure processing is carried out efficiently. 

@@ -48,7 +48,7 @@ In addition to standard collection descriptive practices, the following audiovis
 
 Cannot complete the upload portion of this section yet as the digital repository is still in development by Systems Development. 
 
-Once an item has been added to the digital repository it must be linked to ArchivesSpace—cannot do this portion of the workflow yet as the digital repository is not operational. Example of process here: Creating digital objects in ArchivesSpace and Islandora - ArchivesSpace Online Forum 2021 
+Once an item has been added to the digital repository it must be linked to ArchivesSpace—cannot do this portion of the workflow yet as the digital repository is not operational. Example of process here: [Creating digital objects in ArchivesSpace and Islandora - ArchivesSpace Online Forum 2021](https://www.youtube.com/watch?v=1eX3ryz6TxU&t=2s)
 
 Initial ArchivesSpace instructions so that users know what items we have digitized: 
 
@@ -56,8 +56,8 @@ For audiovisual materials with digitized versions, create a digital object in Ar
 
 1. Navigate to the appropriate Resource record for the collection and Archival Object (folder or item).  
 2. Click Edit.  
-3. Under Instances, click “Add Digital Object.” 
-4. In the Digital Object tab, click “Create.”  
+3. Under Instances, click "Add Digital Object." 
+4. In the Digital Object tab, click "Create."  
 5. In the Digital Object screen, enter the following (bolded fields are mandatory):  
     * __Title__: use the same title as the Archival Object 
     * __Identifier__: Use the file name minus the file extension (e.g., 4050_vhs_001) 

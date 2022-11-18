@@ -80,24 +80,24 @@ The Digital Archivist will create the directory structure for the accession to h
 The output of appraisal will consist of a total numeric score from 0-9, with each factor outlined below being given a rating from 1-3. Appraisal for audiovisual materials may be conducted at the item, series, or collection level as appropriate for the type of materials. For instance, homogenous materials of the same format and subject in a collection may be appraised together. Higher totals indicate a higher priority for digitization. The following criteria and ranking system is substantially based on Indiana University’s MediaRIVERS (Media Research and Instructional Value Evaluation and Ranking System).  
 
 - Technical/format risk – The format of an audiovisual item can indicate who the original user was, the likelihood of uniqueness of an item, and the risk level of an item. 
-    - 3 (highest risk): These media formats are nearing their “end of life”, that is, the period in which content on the media will be able to be retrieved accurately and completely. This rating is “highest risk.” Formats given this rating include:  
+    - 3 (highest risk): These media formats are nearing their "end of life", that is, the period in which content on the media will be able to be retrieved accurately and completely. This rating is "highest risk." Formats given this rating include:  
         - U-matic 
         - Acetate / lacquer disc 
         - Betamax  
         - 16mm film 
         - Super 8 
         - Materials of all formats with significant damage 
-    - 2: These media formats are higher risk but less critical. This rating is “high risk.” Those formats include: 
+    - 2: These media formats are higher risk but less critical. This rating is "high risk." Those formats include: 
         - 1/4-inch audio tape 
         - VHS 
         - Microcassette 
         - Minicassette 
-    - 1: These formats are at a moderate risk for loss. This rating is “moderate risk.” Formats given this rating include:   
+    - 1: These formats are at a moderate risk for loss. This rating is "moderate risk." Formats given this rating include:   
         - Compact audio cassette 
         - Betacam 
         - Optical media (CDs, DVDs) 
         - Digital Audio Tape (DAT) 
-    - 0 (lowest risk): These formats are at little risk of loss. This rating is “low risk.” 
+    - 0 (lowest risk): These formats are at little risk of loss. This rating is "low risk." 
         - 78 rpm records 
         - 12-inch LP 
         - 7-inch single 

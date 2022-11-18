@@ -61,7 +61,7 @@ Planned vendor digitization actions are outlined in the External Vendor Digitiza
 
 This section contains additional information on the approach to copyright, digitization, and digital access of materials. It is intended to augment the copyright section of the Digitization Project Planning document for collections undergoing digitization with the intention of submission to a digital repository.  
 
-To determine whether materials are in the public domain, use Cornell’s “Copyright Term and the Public Domain in the United States,” page. For materials that will be digitized and made availableunder a fair use argument, complete the Cornell Fair Use Checklist and save the Checklist in the folder for the relevant collection on the Z: drive. Include the name of the individual completing the checklist and the date in the file name along with the string “FairUseChecklist.”  
+To determine whether materials are in the public domain, use Cornell’s "Copyright Term and the Public Domain in the United States," page. For materials that will be digitized and made availableunder a fair use argument, complete the Cornell Fair Use Checklist and save the Checklist in the folder for the relevant collection on the Z: drive. Include the name of the individual completing the checklist and the date in the file name along with the string "FairUseChecklist."  
 
 To determine which RightsStatements.org statement to use for upload into the digital repository, use the Rights Review: An approach to applying Rights Statements from RightsStatements.org document from the University of Minnesota.  
 
