@@ -7,7 +7,7 @@ permalink: /
 ---
 
 # West Virginia and Regional History Center Documentation
-## For all things digital and audiovisual at the WVRHC
+## For all things digital and audiovisual at the WVRHC.
 
 This site contains documentation for the West Virginia and Regional History Center (WVRHC) related to born digital materials, digitization, digital preservation, and audiovisual materials. It is used as a manual by various WVRHC employees and was first completed in October 2022 by Elizabeth James, Digital Archivist at the WVRHC, and added to Github in November 2022. 
 

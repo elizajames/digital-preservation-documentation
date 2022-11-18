@@ -78,10 +78,10 @@ To manually create a digital object in ArchivesSpace attached to the existing ar
 3. Under Instances, click “Add Digital Object.” 
 4. In the Digital Object tab, click “Create.”  
 5. In the Digital Object screen, enter the following:  
-    * Title: use the same title as the Archival Object 
-    * Identifier: Use the identifier for the item (e.g., 4050_disc_001) 
-    * Conditions Governing Access: Researchers may access born digital materials by requesting to view the materials in person by appointment or remotely by contacting the West Virginia & Regional History Center reference department at wvrhcref@mail.wvu.edu. (This is for temporary use until we get a digital repository up and running)  
-    * Extent:  
+    * __Title__: use the same title as the Archival Object 
+    * __Identifier__: Use the identifier for the item (e.g., 4050_disc_001) 
+    * __Conditions Governing Access__: Researchers may access born digital materials by requesting to view the materials in person by appointment or remotely by contacting the West Virginia & Regional History Center reference department at wvrhcref@mail.wvu.edu. (This is for temporary use until we get a digital repository up and running)  
+    * __Extent__:  
         * Portion, select: Whole 
         * Number: Numeric value for quantity of files in GB 
         * Type, select: Gigabytes 
