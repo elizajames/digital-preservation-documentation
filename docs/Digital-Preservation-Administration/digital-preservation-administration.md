@@ -8,4 +8,6 @@ permalink: /digital-preservation-administration
 
 {: .no_toc }
 
-# Introduction
+# Digital Preservation Administration
+
+Digital preservation is not a project-based endeavor that has a discrete beginning and end: it is a core service that requires staffing, infrastructure, and resources that match the scope of the desired program.   
