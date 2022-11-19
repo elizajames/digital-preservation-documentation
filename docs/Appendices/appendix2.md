@@ -14,79 +14,69 @@ nav_order: 2
 1. TOC
 {:toc}
 
- 
+## Audiovisual Media Inventory Template
+[Audiovisual Media Inventory Template](https://elizajames.github.io/digital-preservation-documentation/assets/files/AudiovisualMediaInventoryTemplate.xlsx)
+- Spreadsheet to document audiovisual materials in collections.  
 
-Audiovisual Media Inventory Template 
+## Born Digital Processing Checklist
+[Born Digital Processing Checklist](https://elizajames.github.io/digital-preservation-documentation/assets/files/BornDigitalProcessingChecklist.docx)
+- Checklist for tracking and coordinating processing activities for born digital materials. 
 
-Spreadsheet to document audiovisual materials in collections.  
+## Born Digital Processing Spreadsheet
+[Born Digital Processing Spreadsheet](https://elizajames.github.io/digital-preservation-documentation/assets/files/BornDigitalProcessingSpreadsheet.xlsx) 
+- Spreadsheet for coordinating description of born digital materials for batch upload into ArchivesSpace. 
 
-Born Digital Processing Checklist 
+## Deed of Gift
+[Deed of Gift](https://elizajames.github.io/digital-preservation-documentation/assets/files/Deed_of_Gift.pdf) 
+- Document used for transfer of ownership of materials that are given to the WVRHC. 
 
-Checklist for tracking and coordinating processing activities for born digital materials. 
+## Deed of Loan
+[Deed of Loan](https://elizajames.github.io/digital-preservation-documentation/assets/files/Deed_of_Loan.docx) 
+- Documentation for materials that are loaned for exhibit or digitization. Materials loaned for digitization may include materials where the physical items remain with the donor while the WVRHC creates and maintains digital files. 
 
-Born Digital Processing Spreadsheet 
+## Digital Material Donor Survey
+[Digital Material Donor Survey](https://elizajames.github.io/digital-preservation-documentation/assets/files/  
+- Pre-donation screening form for large or complex born digital ingests. 
 
-Spreadsheet for coordinating description of born digital materials for batch upload into ArchivesSpace. 
+## Digital Media Inventory Template
+[Digital Media Inventory Template](https://elizajames.github.io/digital-preservation-documentation/assets/files/DigitalMediaInventoryTemplate.xlsx) 
+- Spreadsheet to document born digital media and file transfers in collections.  
 
-Deed of Gift 
+## Digital Preservation Policy
+[Digital Preservation Policy](https://elizajames.github.io/digital-preservation-documentation/assets/files/Digital_Preservation_Policy.docx) 
+- Policy outlining the framework for digital preservation at WVU, including roles and responsibilities, principles, and areas of work. 
 
-Document used for transfer of ownership of materials that are given to the WVRHC. 
+## Digital Repository Metadata Template
+[Digital Repository Metadata Template](https://elizajames.github.io/digital-preservation-documentation/assets/files/Digital_Repository_Metadata_Template.xlsx) 
+- Form for metadata for items to upload to the digital repository.  
 
-Deed of Loan 
+## Digitization Equipment Operation
+Digitization Equipment Operation
+- Procedures for operating equipment related to digitization. Available for internal use only.
 
-Documentation for materials that are loaned for exhibit or digitization. Materials loaned for digitization may include materials where the physical items remain with the donor while the WVRHC creates and maintains digital files. 
+## Digitization Planning Form
+[Digitization Planning Form](https://elizajames.github.io/digital-preservation-documentation/assets/files/DigitizationPlanningForm.docx)
+- Form to walk through various considerations related to large-scale digitization project planning. 
 
-Digital Archives Work Tasks 
+## Digitization Standards Document
+[Digitization Standards Document](https://elizajames.github.io/digital-preservation-documentation/assets/files/DigitzationStandards.docx)  
+- Standards for preservation and access level digitization of various formats of materials.  
 
-Board to track reformatting and digitization tasks. 
+## Imaging and Born Digital Content Acquisition Procedures
+[Imaging and Born Digital Content Acquisition Procedures](https://elizajames.github.io/digital-preservation-documentation/assets/files/ImagingAndBornDigitalContentAcquisitionProcedures.docx) 
+- Procedures to image or extract content from digital media items.  
 
-Digital Material Donor Survey  
+## Permissions List 
+Permissions List
+- Internal access only. Contains a list of access permissions for file locations on the Z: drive.  
 
-Pre-donation screening form for large or complex born digital ingests. 
+## PREMIS Spreadsheet
+[PREMIS Spreadsheet](https://elizajames.github.io/digital-preservation-documentation/assets/files/PREMISSpreadsheet.xlsx)
+- Spreadsheet to record PREMIS events taken on born digital collection materials.  
 
-Digital Media Inventory Template 
-
-Spreadsheet to document born digital media and file transfers in collections.  
-
-Digital Preservation Policy 
-
-Policy outlining the framework for digital preservation at WVU, including roles and responsibilities, principles, and areas of work. 
-
-Digital Repository Metadata Template 
-
-Form for metadata for items to upload to the digital repository.  
-
-Digitization Equipment Operation 
-
-Procedures for operating equipment related to digitization.  
-
-Digitization Planning Form 
-
-Form to walk through various considerations related to large-scale digitization project planning. 
-
-Digitization Standards Document  
-
-Standards for preservation and access level digitization of various formats of materials.  
-
-Imaging and Born Digital Content Acquisition Procedures 
-
-Procedures to image or extract content from digital media items.  
-
-Permissions List 
-
-Contains a list of access permissions for file locations on the Z: drive.  
-
-PREMIS Spreadsheet 
-
-Spreadsheet to record PREMIS events taken on born digital collection materials.  
-
-Reformatting Request Form 
-
-Form to flag materials that require reformatting, such as digital materials on physical media, or digitization, such as audiovisual materials and other analog formats. 
-
-Removal Sheet 
-
-Form to manage and track the location of materials removed from a collection for reformatting.  
+## Removal Sheet
+[Removal Sheet](https://elizajames.github.io/digital-preservation-documentation/assets/files/RemovalSheet.docx)
+- Form to manage and track the location of materials removed from a collection for reformatting.  
 
 ## Reformatting Request Form
 This form is used internally at the WVRHC to flag materials for reformatting and tracking by the Digital Archivist. Materials to be flagged for reformatting include born digital media and analog audiovisual materials as well as serving as a way of nominating materials for "traditional" digitization of 2-D items that WVRHC employees think merit inclusion in the digital repository. Ideally, for incoming collections, this form is used during accessioning, but this form might also be used during processing as materials are encountered. For reference, this form includes the following fields: 
