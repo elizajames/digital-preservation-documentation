@@ -173,17 +173,17 @@ The [NDSA Levels of Digital Preservation](https://ndsa.org/publications/levels-o
   <tr>
     <td>Storage </td>
     <td>Track the obsolescence of storage and media </td>
-    <td style="background-color:  lightgreen">>Server hardware migrations and management is maintained by Systems Infrastructure. Changes, such as migrating to new servers and refreshing server hardware, are conveyed to the Digital Archivist and addressed in tandem according to a predetermined schedule. Collections content is extracted from all unstable storage media where possible in-house; media that cannot be transferred is documented and used to advocate for additional equipment. </td>
+    <td style="background-color:  lightgreen">Server hardware migrations and management is maintained by Systems Infrastructure. Changes, such as migrating to new servers and refreshing server hardware, are conveyed to the Digital Archivist and addressed in tandem according to a predetermined schedule. Collections content is extracted from all unstable storage media where possible in-house; media that cannot be transferred is documented and used to advocate for additional equipment. </td>
   </tr>
   <tr>
     <td>Integrity </td>
     <td>Verify integrity information of content at fixed intervals </td>
-    <td style="background-color: lightcoral">>Action will be implemented in the future—currently, collection processing and generation of checksums must occur before verifying integrity information.  </td>
+    <td style="background-color: lightcoral">Action will be implemented in the future—currently, collection processing and generation of checksums must occur before verifying integrity information.  </td>
   </tr>
   <tr>
     <td>Integrity </td>
     <td>Document integrity information verification processes and outcomes </td>
-    <td style="background-color: lightcoral">>Action will be implemented in the future—currently, collection processing and generation of checksums must occur before verifying integrity information. </td>
+    <td style="background-color: lightcoral">Action will be implemented in the future—currently, collection processing and generation of checksums must occur before verifying integrity information. </td>
   </tr>
   <tr>
     <td>Integrity </td>
@@ -193,7 +193,7 @@ The [NDSA Levels of Digital Preservation](https://ndsa.org/publications/levels-o
   <tr>
     <td>Control </td>
     <td>Maintain logs and identify the human and software agents that performed actions on content </td>
-    <td style="background-color: lightcoral">>Action will be implemented in the future—this information is currently held by Systems Infrastructure. </td>
+    <td style="background-color: lightcoral">Action will be implemented in the future—this information is currently held by Systems Infrastructure. </td>
   </tr>
   <tr>
     <td>Metadata </td>
@@ -273,6 +273,10 @@ The [NDSA Levels of Digital Preservation](https://ndsa.org/publications/levels-o
 </table>
 
 ## Digital Preservation Coalition Rapid Assessment Model 
+
+While the NDSA Levels of Digital Preservation outlines specific actions, it does not include organizational and service characteristics of an archive. In [DPC RAM](https://www.dpconline.org/digipres/dpc-ram), a digital preservation program has organizational and service capabilities that are assessed at the following levels: minimal awareness, awareness, basic, managed, and optimized.  
+
+The below table outlines steps to get to the subsequent level as progress toward the desired level. These steps will be incorporated into the WVRHC Digital Preservation Strategic Priorities document. The first instance of this document will be created in 2023.  
 
 <table>
 <thead>
@@ -366,12 +370,15 @@ The [NDSA Levels of Digital Preservation](https://ndsa.org/publications/levels-o
     <td>K. Discovery and Access: Processes to enable discovery of digital content and provide access for users. </td>
     <td>Awareness </td>
     <td>Optimized </td>
-    <td>Awareness-&gt;Basic <br>Completed: Basic resource discovery exists for some digital content.  <br>Completed: Users can view or access digital content and metadata either remotely or on-site.  <br>To do: Users’ access to digital content is recorded.  <br>To do (in progress, procedures created): Information on the accessibility of digital content is provided to users.  <br>Basic-&gt;Managed <br>Will be outlined once a Basic level is achieved. <br>Managed-&gt;Optimized <br>Will be outlined once a Managed level is achieved. <br> </td>
+    <td><ol><li>Awareness-&gt;Basic</li>
+    <ul><li>Completed: Basic resource discovery exists for some digital content.</li><li>Completed: Users can view or access digital content and metadata either remotely or on-site.</li><li>To do: Users’ access to digital content is recorded.</li><li>To do (in progress, procedures created): Information on the accessibility of digital content is provided to users.</li></ul><li>Basic-&gt;Managed</li><ul><li>Will be outlined once a Basic level is achieved.</li></ul><li>Managed-&gt;Optimized</li><ul><li>Will be outlined once a Managed level is achieved.</li></ul></ol></td>
   </tr>
 </tbody>
 </table>
 
 ## Reference Model for an Open Archival Information System (OAIS) 
+
+To demonstrate OAIS compliance, it is critical to directly map our workflows to the functional entities and archival information package (AIP) as outlined in OAIS. Figures in this section are taken directly from the [Reference Model for an Open Archival Information System (OAIS)](https://public.ccsds.org/pubs/650x0m2.pdf). David Giaretta has also [written and created visualizations](https://wiki.dpconline.org/index.php?title=Visualizing_OAIS) that link the discrete functional entities outlined below together in a way that is helpful for envisioning OAIS as a whole system. Images of the functional entity or package overview will come before a description of WVRHC adherence. Italicized areas are areas of improvement to meet OAIS standards. 
 
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_main_manual/image22.png" alt="Overview of OAIS functional entities">
 
