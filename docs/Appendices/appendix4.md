@@ -299,19 +299,19 @@ The below table outlines steps to get to the subsequent level as progress toward
     <td> Awareness </td>
     <td>Optimized </td>
     <td>
-    <ol>
-    <li>Awareness-&gt;Basic<li>
-    <ul>
-    <li>To do: Demonstrate some engagement by administration.</li>
-    <li>To do: Ensure staff have assigned responsibilities and the time to undertake them.</li>
-    <li>To do: Allocate a budget for digital preservation.</li> 
-    <li>To do: Identify staff development requirements.</li>
-    </ul>
-    <li>Basic-&gt;Managed</li>
-    <ul><li>Will be outlined once a Basic level is achieved.</li></ul>
-    <li>Managed-&gt;Optimized</li>
-    <ul><li>Will be outlined once a Managed level is achieved.</li></ul>
-    </ol>
+        <ol>
+        <li>Awareness-&gt;Basic<li>
+        <ul>
+        <li>To do: Demonstrate some engagement by administration.</li>
+        <li>To do: Ensure staff have assigned responsibilities and the time to undertake them.</li>
+        <li>To do: Allocate a budget for digital preservation.</li> 
+        <li>To do: Identify staff development requirements.</li>
+        </ul>
+        <li>Basic-&gt;Managed</li>
+        <ul><li>Will be outlined once a Basic level is achieved.</li></ul>
+        <li>Managed-&gt;Optimized</li>
+        <ul><li>Will be outlined once a Managed level is achieved.</li></ul>
+        </ol>
     </td>
   </tr>
   <tr>
@@ -354,15 +354,17 @@ The below table outlines steps to get to the subsequent level as progress toward
     <td>Managed </td>
     <td>
     <ol>
-    <li>Basic-&gt;Managed</li>
-    <ul><li>Completed (by Systems Infrastructure, Systems Development, and the Digital Archivist where applicable): IT systems are regularly patched and updated.</li>
-    <li>Completed (current practice, processes can be improved): New tools and systems are deployed when required.</li>
-    <li>To do: Adequate IT support is available to the digital archive.</li>
-    <li>To do: IT roles and responsibilities are documented and regularly reviewed.</li>
-    <li>To do (done via this manual for software and some systems, needs improvement): IT systems are comprehensively documented.</li>
-    <li>To do: contracts and services with third party service providers are well managed and documented.</li></ul>
-    <li>Managed-&gt;Optimized</li>
-    <ul><li>Will be outlined once a Managed level is achieved.</li></ul>
+        <li>Basic-&gt;Managed</li>
+        <ul>
+            <li>Completed (by Systems Infrastructure, Systems Development, and the Digital Archivist where applicable): IT systems are regularly patched and updated.</li>
+            <li>Completed (current practice, processes can be improved): New tools and systems are deployed when required.</li>
+            <li>To do: Adequate IT support is available to the digital archive.</li>
+            <li>To do: IT roles and responsibilities are documented and regularly reviewed.</li>
+            <li>To do (done via this manual for software and some systems, needs improvement): IT systems are comprehensively documented.</li>
+            <li>To do: contracts and services with third party service providers are well managed and documented.</li>
+        </ul>
+        <li>Managed-&gt;Optimized</li>
+        <ul><li>Will be outlined once a Managed level is achieved.</li></ul>
     </ol> 
     </td>
   </tr>
@@ -371,14 +373,22 @@ The below table outlines steps to get to the subsequent level as progress toward
     <td> Awareness </td>
     <td>Optimized </td>
     <td>
-    Awareness-&gt;Basic
-    To do: An initial benchmarking exercise has been carried out.
-    To do: Gaps in digital preservation capability have been identified.
-    To do: There is an understanding of where the organization is relative to peers.
-    Basic-&gt;Managed
-    Will be outlined once a Basic level is achieved.
-    Managed-&gt;Optimized
-    Will be outlined once a Managed level is achieved.
+        <ol>
+            <li>Awareness-&gt;Basic</li>
+                <ul>
+                    <li>To do: An initial benchmarking exercise has been carried out.</li>
+                    <li>To do: Gaps in digital preservation capability have been identified.</li>
+                    <li>To do: There is an understanding of where the organization is relative to peers.</li>
+                </ul>
+        <li>Basic-&gt;Managed</li>
+            <ul>
+                <li>Will be outlined once a Basic level is achieved.</li>
+            </ul>
+        <li>Managed-&gt;Optimized</li>
+            <ul>
+                <li>Will be outlined once a Managed level is achieved.<li>
+            </ul>
+        </ol>
     </td>
   </tr>
   <tr>
@@ -386,14 +396,22 @@ The below table outlines steps to get to the subsequent level as progress toward
     <td> Awareness </td>
     <td>Managed </td>
     <td>
-    Awareness-&gt;Basic 
-    To do: Networks of relevant contacts have been established.
-    To do: Relevant community events can be accessed.
-    To do: There is commitment to learn from the experience of others.
-    Basic-&gt;Managed 
-    Will be outlined once a Basic level is achieved. 
-    Managed-&gt;Optimized 
-    Will be outlined once a Managed level is achieved. 
+        <ol>
+            <li>Awareness-&gt;Basic</li>
+                <ul>
+                    <li>To do: Networks of relevant contacts have been established.</li>
+                    <li>To do: Relevant community events can be accessed.</li>
+                    <li>To do: There is commitment to learn from the experience of others.</li>
+                </ul>
+            <li>Basic-&gt;Managed</li> 
+                <ul>
+                    <li>Will be outlined once a Basic level is achieved.</li>
+                </ul> 
+            <li>Managed-&gt;Optimized</li> 
+                <ul>
+                    <li>Will be outlined once a Managed level is achieved.</li>
+                </ul>
+        </ol>
     </td>
   </tr>
   <tr>
@@ -413,17 +431,25 @@ The below table outlines steps to get to the subsequent level as progress toward
     <td> Awareness </td>
     <td>Optimized </td>
     <td>
-    Awareness-&gt;Basic 
-    Completed (this document): A documented ingest process exists.
-    Completed (this and ingest document): Basic guidance for donors, depositors, and record creators is available where appropriate.  
-    Completed (this and ingest document): Documentation and metadata is sometimes received or captured as part of the acquisition or transfer process.  
-    Completed (accession portion of this document): Some content is appraised as part of a manual process in line with relevant policies.  
-    To do: A documented process exists for selecting and capturing digital content where appropriate (for example, web archives, email archives, digitized content, etc.) 
-    To do (in progress, 10/2022): A working area (physical or virtual) is available for pre-ingest and ingest activities.  
-    Basic-&gt;Managed 
-    Will be outlined once a Basic level is achieved. 
-    Managed-&gt;Optimized 
-    Will be outlined once a Managed level is achieved. 
+        <ol>
+            <li>Awareness-&gt;Basic</li> 
+                <ul>
+                    <li>Completed (this document): A documented ingest process exists.</li>
+                    <li>Completed (this and ingest document): Basic guidance for donors, depositors, and record creators is available where appropriate.</li>  
+                    <li>Completed (this and ingest document): Documentation and metadata is sometimes received or captured as part of the acquisition or transfer process.</li>  
+                    <li>Completed (accession portion of this document): Some content is appraised as part of a manual process in line with relevant policies.</li>  
+                    <li>To do: A documented process exists for selecting and capturing digital content where appropriate (for example, web archives, email archives, digitized content, etc.)</li> 
+                    <li>To do (in progress, 10/2022): A working area (physical or virtual) is available for pre-ingest and ingest activities.</li> 
+                </ul> 
+            <li>Basic-&gt;Managed</li> 
+                <ul>
+                    <li>Will be outlined once a Basic level is achieved.</li>
+                </ul> 
+            <li>Managed-&gt;Optimized</li> 
+                <ul>
+                    <li>Will be outlined once a Managed level is achieved.</li>
+                </ul> 
+        </ol>
     </td>
   </tr>
   <tr>
@@ -431,16 +457,24 @@ The below table outlines steps to get to the subsequent level as progress toward
     <td> Awareness </td>
     <td>Optimized </td>
     <td>
-    Awareness-&gt;Basic
-    Completed (see this manual): Dedicated storage is available to meet current preservation needs.  
-    Completed (see this manual): Staff know where content is stored.  
-    Completed (see this manual): Replication is based on simple backup regimes.    
-    Completed (see permissions document): There is an understanding of which staff members should be authorized to access the content.  
-    To do (in progress, procedures completed): Checksums are generated for all content. 
-    Basic-&gt;Managed 
-    Will be outlined once a Basic level is achieved. 
-    Managed-&gt;Optimized 
-    Will be outlined once a Managed level is achieved. 
+        <ol>
+            <li>Awareness-&gt;Basic<li>
+                <ul>
+                    <li>Completed (see this manual): Dedicated storage is available to meet current preservation needs.</li>  
+                    <li>Completed (see this manual): Staff know where content is stored.</li>  
+                    <li>Completed (see this manual): Replication is based on simple backup regimes.</li>    
+                    <li>Completed (see permissions document): There is an understanding of which staff members should be authorized to access the content.</li>  
+                    <li>To do (in progress, procedures completed): Checksums are generated for all content.</li> 
+                </ul>
+            <li>Basic-&gt;Managed</li> 
+                <ul>
+                    <li>Will be outlined once a Basic level is achieved.</li>
+                </ul>  
+            <li>Managed-&gt;Optimized<li> 
+                <ul>
+                    <li>Will be outlined once a Managed level is achieved.</li>
+                </ul> 
+        </ol>
     </td>
   </tr>
   <tr>
@@ -451,17 +485,17 @@ The below table outlines steps to get to the subsequent level as progress toward
         <ol>
         <li>Awareness-&gt;Basic</li>
             <ul>
-            <li>To do (in progress, procedures completed): File formats are identified.</li>
-            <li>To do (in progress, procedures completed): Content is characterized and assessed for preservation and quality issues such as encrypted, broken, or incomplete content and invalid files.</li>
-            <li>To do: There is a basic understanding of current and future users and use cases for the content.</li>
+                <li>To do (in progress, procedures completed): File formats are identified.</li>
+                <li>To do (in progress, procedures completed): Content is characterized and assessed for preservation and quality issues such as encrypted, broken, or incomplete content and invalid files.</li>
+                <li>To do: There is a basic understanding of current and future users and use cases for the content.</li>
             </ul>
         <li>Basic-&gt;Managed</li>
             <ul>
-            <li>Will be outlined once a Basic level is achieved.</li>
+                <li>Will be outlined once a Basic level is achieved.</li>
             </ul>
         <li>Managed-&gt;Optimized</li>
             <ul>
-            <li>Will be outlined once a Managed level is achieved.</li>
+                <li>Will be outlined once a Managed level is achieved.</li>
             </ul>
         </ol>
     </td>
@@ -474,10 +508,10 @@ The below table outlines steps to get to the subsequent level as progress toward
         <ol>
             <li>Awareness-&gt;Basic</li>
                 <ul>
-                <li>Completed (this document): An appropriate minimum descriptive metadata requirement exists.</li>
-                <li>Completed (this document): Metadata and documentation acquired with content is retained and preserved.</li>
-                <li>To do (in progress, procedures created): Content is described at collection level in a digital asset register.  </li>
-                <li>To do (in progress, procedures created): Basic preservation metadata is captured at item level.</li>
+                    <li>Completed (this document): An appropriate minimum descriptive metadata requirement exists.</li>
+                    <li>Completed (this document): Metadata and documentation acquired with content is retained and preserved.</li>
+                    <li>To do (in progress, procedures created): Content is described at collection level in a digital asset register.  </li>
+                    <li>To do (in progress, procedures created): Basic preservation metadata is captured at item level.</li>
                 </ul>
         <li>Basic-&gt;Managed</li>
             <ul>
