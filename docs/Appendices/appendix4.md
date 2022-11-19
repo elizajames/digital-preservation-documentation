@@ -173,17 +173,17 @@ The [NDSA Levels of Digital Preservation](https://ndsa.org/publications/levels-o
   <tr>
     <td>Storage </td>
     <td>Track the obsolescence of storage and media </td>
-    <td style="background-color:  lightgreen">Server hardware migrations and management is maintained by Systems Infrastructure. Changes, such as migrating to new servers and refreshing server hardware, are conveyed to the Digital Archivist and addressed in tandem according to a predetermined schedule. Collections content is extracted from all unstable storage media where possible in-house; media that cannot be transferred is documented and used to advocate for additional equipment. </td>
+    <td style="background-color: #c6f5cc">Server hardware migrations and management is maintained by Systems Infrastructure. Changes, such as migrating to new servers and refreshing server hardware, are conveyed to the Digital Archivist and addressed in tandem according to a predetermined schedule. Collections content is extracted from all unstable storage media where possible in-house; media that cannot be transferred is documented and used to advocate for additional equipment. </td>
   </tr>
   <tr>
     <td>Integrity </td>
     <td>Verify integrity information of content at fixed intervals </td>
-    <td style="background-color: #f79c9d">Action will be implemented in the future—currently, collection processing and generation of checksums must occur before verifying integrity information.  </td>
+    <td style="background-color: #FFCCCB">Action will be implemented in the future—currently, collection processing and generation of checksums must occur before verifying integrity information.  </td>
   </tr>
   <tr>
     <td>Integrity </td>
     <td>Document integrity information verification processes and outcomes </td>
-    <td style="background-color: #f79c9d">Action will be implemented in the future—currently, collection processing and generation of checksums must occur before verifying integrity information. </td>
+    <td style="background-color: #FFCCCB">Action will be implemented in the future—currently, collection processing and generation of checksums must occur before verifying integrity information. </td>
   </tr>
   <tr>
     <td>Integrity </td>
@@ -193,12 +193,12 @@ The [NDSA Levels of Digital Preservation](https://ndsa.org/publications/levels-o
   <tr>
     <td>Control </td>
     <td>Maintain logs and identify the human and software agents that performed actions on content </td>
-    <td style="background-color: #f79c9d">Action will be implemented in the future—this information is currently held by Systems Infrastructure. </td>
+    <td style="background-color: #FFCCCB">Action will be implemented in the future—this information is currently held by Systems Infrastructure. </td>
   </tr>
   <tr>
     <td>Metadata </td>
     <td>Determine what metadata standards to apply  </td>
-    <td style="background-color:  lightgreen">Metadata standards and implementations are outlined in the <a href="https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/description/">Description section</a> for born digital materials in this document. </td>
+    <td style="background-color: #c6f5cc">Metadata standards and implementations are outlined in the <a href="https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/description/">Description section</a> for born digital materials in this document. </td>
   </tr>
   <tr>
     <td>Metadata </td>
@@ -208,7 +208,7 @@ The [NDSA Levels of Digital Preservation](https://ndsa.org/publications/levels-o
   <tr>
     <td>Content </td>
     <td>Monitor for obsolescence, and changes in technologies on which content is dependent </td>
-    <td style="background-color: #f79c9d">Action will be implemented in the future. </td>
+    <td style="background-color: #FFCCCB">Action will be implemented in the future. </td>
   </tr>
 </tbody>
 </table>
@@ -227,47 +227,47 @@ The [NDSA Levels of Digital Preservation](https://ndsa.org/publications/levels-o
   <tr>
     <td>Storage </td>
     <td>Have at least three copies in geographic locations, each with a different disaster threat </td>
-    <td style="background-color: #f79c9d">Implementation toward Level 2 and Level 3 Storage actions will occur before Level 4. </td>
+    <td style="background-color: #FFCCCB">Implementation toward Level 2 and Level 3 Storage actions will occur before Level 4. </td>
   </tr>
   <tr>
     <td>Storage </td>
     <td>Maximize storage diversification to avoid single points of failure </td>
-    <td style="background-color: #f79c9d">Implementation toward Level 2 and Level 3 Storage actions will occur before Level 4. </td>
+    <td style="background-color: #FFCCCB">Implementation toward Level 2 and Level 3 Storage actions will occur before Level 4. </td>
   </tr>
   <tr>
     <td>Storage </td>
     <td>Have a plan and execute actions to address obsolescence of storage hardware, software, and media </td>
-    <td style="background-color:  lightgreen">Server hardware migrations and management is maintained by Systems Infrastructure. Changes, such as migrating to new servers and refreshing server hardware, are conveyed to the Digital Archivist and addressed in tandem according to a predetermined schedule. Collections content is extracted from all unstable storage media where possible in-house; media that cannot be transferred is documented and used to advocate for additional equipment.  </td>
+    <td style="background-color: #c6f5cc">Server hardware migrations and management is maintained by Systems Infrastructure. Changes, such as migrating to new servers and refreshing server hardware, are conveyed to the Digital Archivist and addressed in tandem according to a predetermined schedule. Collections content is extracted from all unstable storage media where possible in-house; media that cannot be transferred is documented and used to advocate for additional equipment.  </td>
   </tr>
   <tr>
     <td>Integrity </td>
     <td>Verify integrity information in response to specific events or activities </td>
-    <td style="background-color:  lightgreen">Integrity information is verified on demand using Teracopy. A record of the verified checksums is stored in the logs folder for a collection. </td>
+    <td style="background-color: #c6f5cc">Integrity information is verified on demand using Teracopy. A record of the verified checksums is stored in the logs folder for a collection. </td>
   </tr>
   <tr>
     <td>Integrity </td>
     <td>Replace or repair corrupted content as necessary </td>
-    <td style="background-color: #f79c9d">Action will be implemented in the future. </td>
+    <td style="background-color: #FFCCCB">Action will be implemented in the future. </td>
   </tr>
   <tr>
     <td>Control </td>
     <td>Perform periodic review of actions/access logs  </td>
-    <td style="background-color: #f79c9d">Action will be implemented in the future.  </td>
+    <td style="background-color: #FFCCCB">Action will be implemented in the future.  </td>
   </tr>
   <tr>
     <td>Metadata </td>
     <td>Record preservation actions associated with content and when those actions occur </td>
-    <td style="background-color:  lightgreen">Preservation actions are documented in the <a href="https://elizajames.github.io/digital-preservation-documentation/assets/files/PREMISSpreadsheet.xlsx">PREMIS Spreadsheet</a> for a collection, stored in the administration folder for that collection.  </td>
+    <td style="background-color: #c6f5cc">Preservation actions are documented in the <a href="https://elizajames.github.io/digital-preservation-documentation/assets/files/PREMISSpreadsheet.xlsx">PREMIS Spreadsheet</a> for a collection, stored in the administration folder for that collection.  </td>
   </tr>
   <tr>
     <td>Metadata </td>
     <td>Implement metadata standards chosen </td>
-    <td style="background-color:  lightgreen">Metadata standards and implementations are outlined in the <a href="https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/description/">Description section</a> for born digital materials in this document.  </td>
+    <td style="background-color: #c6f5cc">Metadata standards and implementations are outlined in the <a href="https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/description/">Description section</a> for born digital materials in this document.  </td>
   </tr>
   <tr>
     <td>Content </td>
     <td>Perform migrations, normalizations, emulation, and similar activities that ensure content can be accessed </td>
-    <td style="background-color:  lightgreen">Migrations, normalizations, emulations, and similar activities are primarily addressed at the time of scheduled access by a user. Typically, original files are retained to minimize irreversible interventions and support changing standards in providing access to file formats. </td>
+    <td style="background-color: #c6f5cc">Migrations, normalizations, emulations, and similar activities are primarily addressed at the time of scheduled access by a user. Typically, original files are retained to minimize irreversible interventions and support changing standards in providing access to file formats. </td>
   </tr>
 </tbody>
 </table>
