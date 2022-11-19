@@ -31,7 +31,7 @@ The [NDSA Levels of Digital Preservation](https://ndsa.org/publications/levels-o
 <table>
 <thead>
   <tr>
-    <th>Functional Area </th>
+    <th><b>Functional Area</b></th>
     <th>Action </th>
     <th>Notes </th>
   </tr>
