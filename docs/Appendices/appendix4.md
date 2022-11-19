@@ -298,37 +298,103 @@ The below table outlines steps to get to the subsequent level as progress toward
     <td>A. Organizational viability: Governance, organizational structure, staffing and resourcing of digital  <br>preservation activities. </td>
     <td> Awareness </td>
     <td>Optimized </td>
-    <td>Awareness-&gt;Basic <br>To do: Demonstrate some engagement by administration. <br>To do: Ensure staff have assigned responsibilities and the time to undertake them. <br>To do: Allocate a budget for digital preservation. <br>To do: Identify staff development requirements.   <br>Basic-&gt;Managed <br>Will be outlined once a Basic level is achieved.  <br>Managed-&gt;Optimized <br>Will be outlined once a Managed level is achieved. </td>
+    <td>
+    <ol>
+    <li>Awareness-&gt;Basic<li>
+    <ul>
+    <li>To do: Demonstrate some engagement by administration.</li>
+    <li>To do: Ensure staff have assigned responsibilities and the time to undertake them.</li>
+    <li>To do: Allocate a budget for digital preservation.</li> 
+    <li>To do: Identify staff development requirements.</li>
+    </ul>
+    <li>Basic-&gt;Managed</li>
+    <ul><li>Will be outlined once a Basic level is achieved.</li></ul>
+    <li>Managed-&gt;Optimized</li>
+    <ul><li>Will be outlined once a Managed level is achieved.</li></ul>
+    </ol>
+    </td>
   </tr>
   <tr>
     <td>B. Policy and strategy: Policies, strategies, and procedures which govern the operation and management of the digital archive. </td>
     <td> Basic </td>
     <td>Optimized </td>
-    <td>Basic-&gt;Managed <br>Completed: A digital preservation policy is aligned to organizational policies and is reviewed on an agreed upon schedule.  <br>Completed: A suite of documented processes and procedures for managing, and providing access to, content within the digital archive exists. <br>To do (in progress): Policy and procedure takes into account any relevant ethical issues.  <br>To do (in progress): All relevant staff are aware of digital preservation policies, strategies, and procedures. <br>To do (in progress): Knowledge of current and future use cases for content informs policy and procedure (for example on collecting, preservation approaches, metadata and access). <br>Managed-&gt;Optimized <br>Will be outlined once a Managed level is achieved. <br> </td>
+    <td>
+    <ol>
+    <li>Basic-&gt;Managed
+    <ul><li>Completed: A digital preservation policy is aligned to organizational policies and is reviewed on an agreed upon schedule.</li>  
+    <li>Completed: A suite of documented processes and procedures for managing, and providing access to, content within the digital archive exists.</li>
+    <li>To do (in progress): Policy and procedure takes into account any relevant ethical issues.</li>  
+    <li>To do (in progress): All relevant staff are aware of digital preservation policies, strategies, and procedures.</li> 
+    <li>To do (in progress): Knowledge of current and future use cases for content informs policy and procedure (for example on collecting, preservation approaches, metadata and access).</li></ul>  
+    <li>Managed-&gt;Optimized</li>
+    <ul><li>Will be outlined once a Managed level is achieved.</li></ul> 
+    </ol>
+    </td>
   </tr>
   <tr>
     <td>C. Legal basis: Management of legal rights and responsibilities, compliance with relevant regulation and adherence to ethical codes related to acquiring, preserving and providing access to digital content. </td>
     <td> Awareness </td>
     <td>Optimized </td>
-    <td>Awareness-&gt;Basic <br>To do: Key legal rights and responsibilities, together with their owners, have been identified and documented.  <br>To do: Templates exist for necessary legal agreements and licenses.  <br>To do: Relevant codes of conduct related to professional ethics are adhered to.  <br>Basic-&gt;Managed <br>Will be outlined once a Basic level is achieved. <br>Managed-&gt;Optimized <br>Will be outlined once a Managed level is achieved. </td>
+    <td>
+    <ol>
+    <li>Awareness-&gt;Basic</li>
+    <ul><li>To do: Key legal rights and responsibilities, together with their owners, have been identified and documented.</li>  
+    <li>To do: Templates exist for necessary legal agreements and licenses.</li>
+    <li>To do: Relevant codes of conduct related to professional ethics are adhered to.</li></ul>
+    <li>Basic-&gt;Managed</li>
+    <ul><li>Will be outlined once a Basic level is achieved.</li></ul>
+    <li>Managed-&gt;Optimized</li>
+    <ul><li>Will be outlined once a Managed level is achieved.</li></ul> 
+    </ol>
+    </td>
   </tr>
   <tr>
     <td>D. IT capability: Information Technology capabilities for supporting digital preservation activities. </td>
     <td> Basic </td>
     <td>Managed </td>
-    <td>Basic-&gt;Managed <br>Completed (by Systems Infrastructure, Systems Development, and the Digital Archivist where applicable): IT systems are regularly patched and updated. <br>Completed (current practice, processes can be improved): New tools and systems are deployed when required.  <br>To do: Adequate IT support is available to the digital archive.  <br>To do: IT roles and responsibilities are documented and regularly reviewed.  <br>To do (done via this manual for software and some systems, needs improvement): IT systems are comprehensively documented.  <br>To do: contracts and services with third party service providers are well managed and documented. <br>Managed-&gt;Optimized <br>Will be outlined once a Managed level is achieved. </td>
+    <td>
+    <ol>
+    <li>Basic-&gt;Managed</li>
+    <ul><li>Completed (by Systems Infrastructure, Systems Development, and the Digital Archivist where applicable): IT systems are regularly patched and updated.</li>
+    <li>Completed (current practice, processes can be improved): New tools and systems are deployed when required.</li>
+    <li>To do: Adequate IT support is available to the digital archive.</li>
+    <li>To do: IT roles and responsibilities are documented and regularly reviewed.</li>
+    <li>To do (done via this manual for software and some systems, needs improvement): IT systems are comprehensively documented.</li>
+    <li>To do: contracts and services with third party service providers are well managed and documented.</li></ul>
+    <li>Managed-&gt;Optimized</li>
+    <ul><li>Will be outlined once a Managed level is achieved.</li></ul>
+    </ol> 
+    </td>
   </tr>
   <tr>
     <td>E. Continuous Improvement: Processes for the assessment of current digital preservation capabilities, the definition of goals and the monitoring of progress </td>
     <td> Awareness </td>
     <td>Optimized </td>
-    <td>Awareness-&gt;Basic <br>To do: An initial benchmarking exercise has been carried out.  <br>To do: Gaps in digital preservation capability have been identified.  <br>To do: There is an understanding of where the organization is relative to peers.  <br>Basic-&gt;Managed <br>Will be outlined once a Basic level is achieved. <br>Managed-&gt;Optimized <br>Will be outlined once a Managed level is achieved. </td>
+    <td>
+    Awareness-&gt;Basic
+    To do: An initial benchmarking exercise has been carried out.
+    To do: Gaps in digital preservation capability have been identified.
+    To do: There is an understanding of where the organization is relative to peers.
+    Basic-&gt;Managed
+    Will be outlined once a Basic level is achieved.
+    Managed-&gt;Optimized
+    Will be outlined once a Managed level is achieved.
+    </td>
   </tr>
   <tr>
     <td>F. Community: Engagement with and contribution to the wider digital preservation community. </td>
     <td> Awareness </td>
     <td>Managed </td>
-    <td>Awareness-&gt;Basic <br>To do: Networks of relevant contacts have been established.  <br>To do: Relevant community events can be accessed.  <br>To do: There is commitment to learn from the experience of others.  <br>Basic-&gt;Managed <br>Will be outlined once a Basic level is achieved. <br>Managed-&gt;Optimized <br>Will be outlined once a Managed level is achieved. </td>
+    <td>
+    Awareness-&gt;Basic 
+    To do: Networks of relevant contacts have been established.
+    To do: Relevant community events can be accessed.
+    To do: There is commitment to learn from the experience of others.
+    Basic-&gt;Managed 
+    Will be outlined once a Basic level is achieved. 
+    Managed-&gt;Optimized 
+    Will be outlined once a Managed level is achieved. 
+    </td>
   </tr>
   <tr>
     <td>Service Capabilities </td>
@@ -346,32 +412,107 @@ The below table outlines steps to get to the subsequent level as progress toward
     <td>G. Acquisition, Transfer and Ingest: Processes to acquire or transfer content and ingest it into a digital archive. </td>
     <td> Awareness </td>
     <td>Optimized </td>
-    <td>Awareness-&gt;Basic <br>Completed (this document): A documented ingest process exists.  <br>Completed (this and ingest document): Basic guidance for donors, depositors, and record creators is available where appropriate.  <br>Completed (this and ingest document): Documentation and metadata is sometimes received or captured as part of the acquisition or transfer process.  <br>Completed (accession portion of this document): Some content is appraised as part of a manual process in line with relevant policies.  <br>To do: A documented process exists for selecting and capturing digital content where appropriate (for example, web archives, email archives, digitized content, etc.) <br>To do (in progress, 10/2022): A working area (physical or virtual) is available for pre-ingest and ingest activities.  <br>Basic-&gt;Managed <br>Will be outlined once a Basic level is achieved. <br>Managed-&gt;Optimized <br>Will be outlined once a Managed level is achieved. </td>
+    <td>
+    Awareness-&gt;Basic 
+    Completed (this document): A documented ingest process exists.
+    Completed (this and ingest document): Basic guidance for donors, depositors, and record creators is available where appropriate.  
+    Completed (this and ingest document): Documentation and metadata is sometimes received or captured as part of the acquisition or transfer process.  
+    Completed (accession portion of this document): Some content is appraised as part of a manual process in line with relevant policies.  
+    To do: A documented process exists for selecting and capturing digital content where appropriate (for example, web archives, email archives, digitized content, etc.) 
+    To do (in progress, 10/2022): A working area (physical or virtual) is available for pre-ingest and ingest activities.  
+    Basic-&gt;Managed 
+    Will be outlined once a Basic level is achieved. 
+    Managed-&gt;Optimized 
+    Will be outlined once a Managed level is achieved. 
+    </td>
   </tr>
   <tr>
     <td>H. Bitstream Preservation: Processes to ensure the storage and integrity of digital content to be preserved. </td>
     <td> Awareness </td>
     <td>Optimized </td>
-    <td>Awareness-&gt;Basic <br>Completed (see this manual): Dedicated storage is available to meet current preservation needs.  <br>Completed (see this manual): Staff know where content is stored.  <br>Completed (see this manual): Replication is based on simple backup regimes.    <br>Completed (see permissions document): There is an understanding of which staff members should be authorized to access the content.  <br>To do (in progress, procedures completed): Checksums are generated for all content. <br>Basic-&gt;Managed <br>Will be outlined once a Basic level is achieved. <br>Managed-&gt;Optimized <br>Will be outlined once a Managed level is achieved. </td>
+    <td>
+    Awareness-&gt;Basic
+    Completed (see this manual): Dedicated storage is available to meet current preservation needs.  
+    Completed (see this manual): Staff know where content is stored.  
+    Completed (see this manual): Replication is based on simple backup regimes.    
+    Completed (see permissions document): There is an understanding of which staff members should be authorized to access the content.  
+    To do (in progress, procedures completed): Checksums are generated for all content. 
+    Basic-&gt;Managed 
+    Will be outlined once a Basic level is achieved. 
+    Managed-&gt;Optimized 
+    Will be outlined once a Managed level is achieved. 
+    </td>
   </tr>
   <tr>
     <td>I. Content Preservation: Processes to preserve the meaning or functionality of the digital content and ensure its continued accessibility and usability over time. </td>
     <td> Awareness </td>
     <td>Optimized </td>
-    <td>Awareness-&gt;Basic <br>To do (in progress, procedures completed): File formats are identified.  <br>To do (in progress, procedures completed): Content is characterized and assessed for preservation and quality issues such as encrypted, broken, or incomplete content and invalid files.  <br>To do: There is a basic understanding of current and future users and use cases for the content. <br>Basic-&gt;Managed <br>Will be outlined once a Basic level is achieved. <br>Managed-&gt;Optimized <br>Will be outlined once a Managed level is achieved. </td>
+    <td>
+        <ol>
+        <li>Awareness-&gt;Basic</li>
+            <ul>
+            <li>To do (in progress, procedures completed): File formats are identified.</li>
+            <li>To do (in progress, procedures completed): Content is characterized and assessed for preservation and quality issues such as encrypted, broken, or incomplete content and invalid files.</li>
+            <li>To do: There is a basic understanding of current and future users and use cases for the content.</li>
+            </ul>
+        <li>Basic-&gt;Managed</li>
+            <ul>
+            <li>Will be outlined once a Basic level is achieved.</li>
+            </ul>
+        <li>Managed-&gt;Optimized</li>
+            <ul>
+            <li>Will be outlined once a Managed level is achieved.</li>
+            </ul>
+        </ol>
+    </td>
   </tr>
   <tr>
     <td>J. Metadata Management: Processes to create and maintain sufficient metadata to support preservation, discovery and use of preserved digital content. </td>
     <td> Awareness </td>
     <td>Optimized </td>
-    <td><ol><li>Awareness-&gt;Basic</li><ul><li>Completed (this document): An appropriate minimum descriptive metadata requirement exists.</li><li>Completed (this document): Metadata and documentation acquired with content is retained and preserved.</li><li>To do (in progress, procedures created): Content is described at collection level in a digital asset register.  </li><li>To do (in progress, procedures created): Basic preservation metadata is captured at item level.  </li></ul><li>Basic-&gt;Managed</li><ul><li>Will be outlined once a Basic level is achieved.</li></ul><li>Managed-&gt;Optimized</li><ul><li>Will be outlined once a Managed level is achieved.</li></ol></td>
+    <td>
+        <ol>
+            <li>Awareness-&gt;Basic</li>
+                <ul>
+                <li>Completed (this document): An appropriate minimum descriptive metadata requirement exists.</li>
+                <li>Completed (this document): Metadata and documentation acquired with content is retained and preserved.</li>
+                <li>To do (in progress, procedures created): Content is described at collection level in a digital asset register.  </li>
+                <li>To do (in progress, procedures created): Basic preservation metadata is captured at item level.</li>
+                </ul>
+        <li>Basic-&gt;Managed</li>
+            <ul>
+            <li>Will be outlined once a Basic level is achieved.</li>
+            </ul>
+        <li>Managed-&gt;Optimized</li>
+            <ul>
+            <li>Will be outlined once a Managed level is achieved.</li>
+            </ul>
+        </ol>
+    </td>
   </tr>
   <tr>
     <td>K. Discovery and Access: Processes to enable discovery of digital content and provide access for users. </td>
     <td>Awareness </td>
     <td>Optimized </td>
-    <td><ol><li>Awareness-&gt;Basic</li>
-    <ul><li>Completed: Basic resource discovery exists for some digital content.</li><li>Completed: Users can view or access digital content and metadata either remotely or on-site.</li><li>To do: Users’ access to digital content is recorded.</li><li>To do (in progress, procedures created): Information on the accessibility of digital content is provided to users.</li></ul><li>Basic-&gt;Managed</li><ul><li>Will be outlined once a Basic level is achieved.</li></ul><li>Managed-&gt;Optimized</li><ul><li>Will be outlined once a Managed level is achieved.</li></ul></ol></td>
+    <td>
+        <ol>
+            <li>Awareness-&gt;Basic</li>
+                <ul>
+                <li>Completed: Basic resource discovery exists for some digital content.</li>
+                <li>Completed: Users can view or access digital content and metadata either remotely or on-site.</li>
+                <li>To do: Users’ access to digital content is recorded.</li>
+                <li>To do (in progress, procedures created): Information on the accessibility of digital content is provided to users.</li>
+                </ul>
+            <li>Basic-&gt;Managed</li>
+                <ul>
+                <li>Will be outlined once a Basic level is achieved.</li>
+                </ul>
+            <li>Managed-&gt;Optimized</li>
+                <ul>
+                <li>Will be outlined once a Managed level is achieved.</li>
+                </ul>
+        </ol>
+    </td>
   </tr>
 </tbody>
 </table>
