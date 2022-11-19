@@ -16,7 +16,7 @@ nav_order: 1
 
 ## Archival Processing 
 
-### General principles and specific case studies:  
+### General principles and specific case studies 
 
 [University of California, “Guidelines for Efficient Archival Processing in the University of California Libraries”](https://libraries.universityofcalifornia.edu/groups/files/hosc/docs/_Efficient_Archival_Processing_Guidelines_v3-1.pdf)  
 
@@ -28,22 +28,22 @@ nav_order: 1
 
 ## Metadata Creation 
 
-### Finding aids: 
+### Finding aids 
 
 [Society of American Archivists, “Describing Archives: A Content Standard”](https://saa-ts-dacs.github.io/) 
 
 [Society of American Archivists, “Encoded Archival Description (EAD)”](https://www2.archivists.org/groups/technical-subcommittee-on-encoded-archival-standards-ts-eas/encoded-archival-description-ead)  
 
-### Digitized materials:  
+### Digitized materials  
 [Digital Public Library of America, “Metadata Application Profile”](https://pro.dp.la/hubs/metadata-application-profile)  
 
 ## Digitization and Preservation 
 
-### Still images, document, and object digitization: 
+### Still images, document, and object digitization 
 
 [Federal Agencies Digital Guidelines Initiative, “Guidelines: Technical Guidelines for Digitizing Cultural Heritage Materials”](http://www.digitizationguidelines.gov/guidelines/digitize-technical.html) 
 
-### Audiovisual digitization: 
+### Audiovisual digitization 
 
 [Indiana University Media Digitization and Preservation Initiative, “White Paper: Encoding and Wrapper Decisions and Implementation for Video Preservation Master Files”](https://mdpi.iu.edu/doc/MDPIwhitepaperrev.pdf)  
 
@@ -51,11 +51,11 @@ nav_order: 1
 
 [Association for Recorded Sound Collections, “ARSC Guide to Audio Preservation”](https://www.clir.org/wp-content/uploads/sites/6/pub164.pdf)  
 
-### Recommended file formats for digital materials for long-term use: 
+### Recommended file formats for digital materials for long-term use 
 
 [National Archives and Records Administration, “Appendix A: Tables of File Formats”](https://www.archives.gov/records-mgmt/policy/transfer-guidance-tables.html) 
 
-### Digital preservation frameworks and standards: 
+### Digital preservation frameworks and standards 
 
 [National Digital Stewardship Alliance (NDSA), “Levels of Digital Preservation”](https://ndsa.org/publications/levels-of-digital-preservation/)  
 
