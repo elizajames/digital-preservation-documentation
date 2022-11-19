@@ -48,74 +48,161 @@ The [NDSA Levels of Digital Preservation](https://ndsa.org/publications/levels-o
 ### Level 4 – Sustain your content 
 
 ## Digital Preservation Coalition Rapid Assessment Model 
+|       Organizational Capabilities                                                                                                                                                                                  |                  |                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------:|:----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                                                                                                                                                                                    |   Current Level  |   Desired Level  |   Steps to Get to Desired Level                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|     A. Organizational viability: Governance, organizational structure, staffing and resourcing of digital   preservation activities.                                                                               |    Awareness     |   Optimized      |   Awareness->Basic  To do: Demonstrate some engagement by administration.  To do: Ensure staff have assigned responsibilities and the time to undertake them.  To do: Allocate a budget for digital preservation.  To do: Identify staff development requirements.    Basic->Managed  Will be outlined once a Basic level is achieved.   Managed->Optimized  Will be outlined once a Managed level is achieved.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|     B. Policy and strategy: Policies, strategies, and procedures which govern the operation and management of the digital archive.                                                                                 |    Basic         |   Optimized      |   Basic->Managed  Completed: A digital preservation policy is aligned to organizational policies and is reviewed on an agreed upon schedule.   Completed: A suite of documented processes and procedures for managing, and providing access to, content within the digital archive exists.  To do (in progress): Policy and procedure takes into account any relevant ethical issues.   To do (in progress): All relevant staff are aware of digital preservation policies, strategies, and procedures.  To do (in progress): Knowledge of current and future use cases for content informs policy and procedure (for example on collecting, preservation approaches, metadata and access).  Managed->Optimized  Will be outlined once a Managed level is achieved.                                                                                                                                                                                           |
+|     C. Legal basis: Management of legal rights and responsibilities, compliance with relevant regulation and adherence to ethical codes related to acquiring, preserving and providing access to digital content.  |    Awareness     |   Optimized      |   Awareness->Basic  To do: Key legal rights and responsibilities, together with their owners, have been identified and documented.   To do: Templates exist for necessary legal agreements and licenses.   To do: Relevant codes of conduct related to professional ethics are adhered to.   Basic->Managed  Will be outlined once a Basic level is achieved.  Managed->Optimized  Will be outlined once a Managed level is achieved.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|     D. IT capability: Information Technology capabilities for supporting digital preservation activities.                                                                                                          |    Basic         |   Managed        |   Basic->Managed  Completed (by Systems Infrastructure, Systems Development, and the Digital Archivist where applicable): IT systems are regularly patched and updated.  Completed (current practice, processes can be improved): New tools and systems are deployed when required.   To do: Adequate IT support is available to the digital archive.   To do: IT roles and responsibilities are documented and regularly reviewed.   To do (done via this manual for software and some systems, needs improvement): IT systems are comprehensively documented.   To do: contracts and services with third party service providers are well managed and documented.  Managed->Optimized  Will be outlined once a Managed level is achieved.                                                                                                                                                                                                                   |
+|     E. Continuous Improvement: Processes for the assessment of current digital preservation capabilities, the definition of goals and the monitoring of progress                                                   |    Awareness     |   Optimized      |   Awareness->Basic  To do: An initial benchmarking exercise has been carried out.   To do: Gaps in digital preservation capability have been identified.   To do: There is an understanding of where the organization is relative to peers.   Basic->Managed  Will be outlined once a Basic level is achieved.  Managed->Optimized  Will be outlined once a Managed level is achieved.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|     F. Community: Engagement with and contribution to the wider digital preservation community.                                                                                                                    |    Awareness     |   Managed        |   Awareness->Basic  To do: Networks of relevant contacts have been established.   To do: Relevant community events can be accessed.   To do: There is commitment to learn from the experience of others.   Basic->Managed  Will be outlined once a Basic level is achieved.  Managed->Optimized  Will be outlined once a Managed level is achieved.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|     Service Capabilities                                                                                                                                                                                           |                  |                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                    |   Current Level  |   Desired Level  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|     G. Acquisition, Transfer and Ingest: Processes to acquire or transfer content and ingest it into a digital archive.                                                                                            |    Awareness     |   Optimized      |   Awareness->Basic  Completed (this document): A documented ingest process exists.   Completed (this and ingest document): Basic guidance for donors, depositors, and record creators is available where appropriate.   Completed (this and ingest document): Documentation and metadata is sometimes received or captured as part of the acquisition or transfer process.   Completed (accession portion of this document): Some content is appraised as part of a manual process in line with relevant policies.   To do: A documented process exists for selecting and capturing digital content where appropriate (for example, web archives, email archives, digitized content, etc.)  To do (in progress, 10/2022): A working area (physical or virtual) is available for pre-ingest and ingest activities.   Basic->Managed  Will be outlined once a Basic level is achieved.  Managed->Optimized  Will be outlined once a Managed level is achieved.  |
+|     H. Bitstream Preservation: Processes to ensure the storage and integrity of digital content to be preserved.                                                                                                   |    Awareness     |   Optimized      |   Awareness->Basic  Completed (see this manual): Dedicated storage is available to meet current preservation needs.   Completed (see this manual): Staff know where content is stored.   Completed (see this manual): Replication is based on simple backup regimes.     Completed (see permissions document): There is an understanding of which staff members should be authorized to access the content.   To do (in progress, procedures completed): Checksums are generated for all content.  Basic->Managed  Will be outlined once a Basic level is achieved.  Managed->Optimized  Will be outlined once a Managed level is achieved.                                                                                                                                                                                                                                                                                                                   |
+|     I. Content Preservation: Processes to preserve the meaning or functionality of the digital content and ensure its continued accessibility and usability over time.                                             |    Awareness     |   Optimized      |   Awareness->Basic  To do (in progress, procedures completed): File formats are identified.   To do (in progress, procedures completed): Content is characterized and assessed for preservation and quality issues such as encrypted, broken, or incomplete content and invalid files.   To do: There is a basic understanding of current and future users and use cases for the content.  Basic->Managed  Will be outlined once a Basic level is achieved.  Managed->Optimized  Will be outlined once a Managed level is achieved.                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|     J. Metadata Management: Processes to create and maintain sufficient metadata to support preservation, discovery and use of preserved digital content.                                                          |    Awareness     |   Optimized      |   Awareness->Basic  Completed (this document): An appropriate minimum descriptive metadata requirement exists.  Completed (this document): Metadata and documentation acquired with content is retained and preserved.   To do (in progress, procedures created): Content is described at collection level in a digital asset register.   To do (in progress, procedures created): Basic preservation metadata is captured at item level.   Basic->Managed  Will be outlined once a Basic level is achieved.  Managed->Optimized  Will be outlined once a Managed level is achieved.                                                                                                                                                                                                                                                                                                                                                                          |
+|     K. Discovery and Access: Processes to enable discovery of digital content and provide access for users.                                                                                                        |   Awareness      |   Optimized      |   Awareness->Basic  Completed: Basic resource discovery exists for some digital content.   Completed: Users can view or access digital content and metadata either remotely or on-site.   To do: Users’ access to digital content is recorded.   To do (in progress, procedures created): Information on the accessibility of digital content is provided to users.   Basic->Managed  Will be outlined once a Basic level is achieved.  Managed->Optimized  Will be outlined once a Managed level is achieved.                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 ## Reference Model for an Open Archival Information System (OAIS) 
 
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_main_manual/image22.png" alt="Overview of OAIS functional entities">
 
+Figure 4-1 has been included to demonstrate a simplified visual representation of how figures 4-2, 4-3, 4-4, 4-5, 4-6, and 4-7 link together.  
+
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_main_manual/image23.png" alt="OAIS ingest functional entity">
+
+The Ingest functional entity concerns actions related to formally accepting Submission Information Packages (SIPs) and generating Archival Information Packages (AIPs). Broadly, these areas map to the accession, appraisal, processing, and description portions of the born digital archival processing cycle outlined in this manual. Below is a detailed mapping of actions taken to adhere to these OAIS areas.  
+
+- Receive SIPs 
+    - Documented in [Imaging and Born Digital Content Acquisition Procedures](https://elizajames.github.io/digital-preservation-documentation/assets/files/ImagingAndBornDigitalContentAcquisitionProcedures.docx). 
+- Quality assurance on SIPs 
+    - _Still establishing documentation for well-formed SIPs; currently SIPs are accepted as a simple file transfer of zipped materials to maintain as much file metadata as possible with minimal donor expertise required._ 
+- Generate compliant AIP 
+    - Documented in [Processing workflow](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/processing/). 
+- Extract descriptive information from AIP 
+    - Documented in [Description workflow](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/description/). 
+- Update information and content in Archival Storage and Data Management 
+    - Documented in ArchivesSpace and in the [Digital Media Inventory Template](https://elizajames.github.io/digital-preservation-documentation/assets/files/DigitalMediaInventoryTemplate.xlsx) and [PREMIS Spreadsheet](https://elizajames.github.io/digital-preservation-documentation/assets/files/PREMISSpreadsheet.xlsx) for all media item and digital transfer SIPs. 
 
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_main_manual/image16.png" alt="OAIS archival storage functional entity">
 
+The Archival Storage functional entity concerns actions related to storage, maintenance of content and storage infrastructure, and retrieval of AIPs. Broadly, these areas map to the access portion of the born digital archival processing cycle and the Digital Preservation Administration section in this manual. Below is a detailed mapping of actions taken to adhere to these OAIS areas. 
+
+- Receive AIPs from the Ingest entity 
+    - AIPs are not auto-generated but are created by a SIP undergoing the [Processing workflow](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/processing/). 
+- Add the AIP to permanent storage 
+    - SIPs and AIPs are automatically added to permanent storage.   
+- Managing the storage hierarchy 
+    - Conducted as part of [Digital Preservation Administration processes](https://elizajames.github.io/digital-preservation-documentation/digital-preservation-administration). 
+- Refreshing the media on which AIPs are stored 
+    - Conducted as part of [Digital Preservation Administration processes](https://elizajames.github.io/digital-preservation-documentation/digital-preservation-administration) in conjunction with Systems Infrastructure. 
+- Performing routine and special error checking 
+    - Routine error checking is conducted annually as part of [Digital Preservation Administration processes](https://elizajames.github.io/digital-preservation-documentation/digital-preservation-administration). 
+- Providing disaster recovery capabilities 
+    - Conducted as part of [Digital Preservation Administration processes](https://elizajames.github.io/digital-preservation-documentation/digital-preservation-administration) in conjunction with Systems Infrastructure.  
+- Providing AIPs to the Access entity 
+    - Completed as part of the [Access workflow](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/access/). 
+
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_main_manual/image25.png" alt="OAIS data management functional entity">
+
+The Data Management functional entity concerns actions related to populating, maintaining, and accessing Descriptive Information which identifies and documents Archive holdings and administrative data used to manage the archive. Broadly, these areas map to the accession, appraisal, processing, and description portions of the born digital archival processing cycle and the Digital Preservation Administration section in this manual. Below is a detailed mapping of actions taken to adhere to these OAIS areas. 
+
+- Administering the Archive database functions (maintaining schema and view definitions, and referential integrity) 
+    - Completed by the Digital Archivist as part of the annual review process for this document. 
+- Performing database updates (loading new descriptive information or Archive administrative data) 
+    - Completed by the Digital Archivist or designated processor as part of the [Processing workflow](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/processing/). 
+- Performing queries on the data management data to generate query responses 
+    - Completed by the Digital Archivist in response to requests/needs using ArchivesSpace and other structured data generated as part of the full born digital workflow. 
+- Producing reports from these query responses 
+    - Completed by the Digital Archivist in response to requests/needs using ArchivesSpace and other structured data generated as part of the full born digital workflow. 
 
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_main_manual/image17.png" alt="OAIS administration functional entity">
 
+The Administration functional entity concerns actions related to providing the services and functions for the overall operation of the archive system. Broadly, these areas map to the accession and access portions of the born digital archival processing cycle and the Digital Preservation Administration section in this manual. Below is a detailed mapping of actions taken to adhere to these OAIS areas. 
+
+- Soliciting and negotiating submission agreements with producers/donors 
+    - Conducted as part of the pre-accessioning process.  
+- Auditing submissions to ensure that they meet Archive standards 
+    - _Still establishing documentation for well-formed SIPs; currently SIPs are accepted as a simple file transfer of zipped materials to maintain as much file metadata as possible with minimal donor expertise required._
+    - Submissions are audited at the point of Accession and Appraised for whether they merit inclusion in the archive.  
+- Maintaining configuration management of system hardware and software 
+    - Completed in coordination with Systems Infrastructure by the Digital Archivist.  
+- System engineering functions to monitor and improve Archive operations 
+    - Completed by the Digital Archivist and, in terms of hardware, by the Digital Archivist in coordination with Systems Infrastructure. 
+- To inventory, report on, and migrate/update the contents of the Archive 
+    - Completed by the Digital Archivist in coordination with relevant WVRHC employees.  
+- Establishing and maintaining Archive standards and policies 
+    - Completed by the Digital Archivist in coordination with other WVRHC employees as needed. 
+- Providing customer support 
+    - Completed by the Digital Archivist or authorized person.  
+- Activating stored requests 
+    - Completed by the Digital Archivist or authorized person.  
+
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_main_manual/image18.png" alt="OAIS preservation planning functional entity">
+
+The Preservation Planning functional entity concerns actions related to monitoring the environment of the OAIS, providing recommendations and preservation plans to ensure that the information stored in the OAIS remains accessible to, and understandable by, the Designated Community over time. Broadly, these areas map to the processing portions of the born digital archival processing cycle and the Digital Preservation Administration section in this manual. Below is a detailed mapping of actions taken to adhere to these OAIS areas.  
+
+- Evaluating the contents of the archive and periodically recommending archival information updates 
+    - Accomplished by Digital Archivist as part of daily work.  
+- Recommending the migration of current archive holdings 
+    - For file formats: accomplished by the Digital Archivist in response to changing needs. For hardware: accomplished by Systems Infrastructure in coordination with the Digital Archivist.  
+- Developing recommendations for Archive standards and policies 
+    - Accomplished by the Digital Archivist in coordination with relevant WVRHC employees.  
+- Providing periodic risk analysis reports 
+    - Accomplished by the Digital Archivist as part of [Digital Preservation Administration](https://elizajames.github.io/digital-preservation-documentation/digital-preservation-administration) processes. 
+- Monitoring changes in the technology environment and in the Designated Community’s service requirements and knowledge 
+    - Technology environment is actively monitored by the Digital Archivist, additional work needs to be done on articulating the Designated Community’s needs and knowledge.  
+- Designs Information Package templates and provides design assistance and review to specialize these templates into SIPs and AIPs for specific submissions 
+    - Accomplished by the Digital Archivist and documented in this manual and ancillary documentation.  
+- Develops detailed Migration plans, software prototypes and test plans to enable implementation of Administration migration goals 
+    - Instigated by the Digital Archivist in coordination with Systems Development, Systems Infrastructure, and relevant WVRHC employees.  
 
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_main_manual/image19.png" alt="OAIS access functional entity">
 
+The Access functional entity concerns actions related to providing the services and functions that support users/consumers in determining the existence, description, location and availability of information stored in the OAIS, and allowing users/consumers to request and receive information products. Broadly, these areas map to the processing, description, and access portions of the born digital archival processing cycle. Below is a detailed mapping of actions taken to adhere to these OAIS areas.  
+
+- Communicating with users/consumers to receive requests 
+    - Accomplished by Reference Staff or the Digital Archivist as part of standard processes outlined in Access procedures within each section of this document.  
+- Applying controls to limit access to specially protected information 
+    - Accomplished as part of [Processing procedures](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/processing/).  
+- Coordinating the execution of requests to successful completion 
+    - Accomplished by Reference Staff or the Digital Archivist as part of standard processes outlined in Access procedures within each section of this document. 
+- Generating responses (Dissemination Information Packages, query responses, reports) and delivering the responses to users/consumers 
+    - Accomplished by the Digital Archivist as part of standard processes outlined in Access procedures within each section of this document. Access copies are generated based upon the type of AIP. 
+
+In addition to the above functional entities, the information objects and packages must include the following aspects and information
+
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_main_manual/image1a.png" alt="OAIS archival information package detailed view">
 
-The above diagram maps to our information package structure, outlined in the Accessioning Media Workflow, used internally as follows:  
+The above diagram maps to our information package structure, outlined in the [Accessioning Media Workflow](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/accessioning/), used internally as follows:  
 
-Package Description: The information intended for use by Access Aids. 
+- __Package Description:__ The information intended for use by Access Aids. 
+    - This is the information uploaded to ArchivesSpace; information may be organized prior to being uploaded to ArchivesSpace using the [Born Digital Processing Checklist](https://elizajames.github.io/digital-preservation-documentation/assets/files/BornDigitalProcessingChecklist.docx). 
+- __Packaging Information:__ The information that is used to bind and identify the components of an Information Package. For example, it may be the ISO 9660 volume and directory information used on a CD-ROM to provide the content of several files containing Content Information and Preservation Description Information. 
+    - This information is initially documented in the [Digital Media Inventory Template](https://elizajames.github.io/digital-preservation-documentation/assets/files/DigitalMediaInventoryTemplate.xlsx)  and expanded in the Brunnhilde report stored in the Metadata folder in the collection folder.  
+- __Content Information:__ A set of information that is the original target of preservation or that includes part or all of that information. It is an Information Object composed of its Content Data Object and its Representation Information. 
+    - __Data Object:__ Either a Physical Object or a Digital Object. 
+        - This information is stored in the Content folder in the folder containing digital collections content and metadata on the Z: drive.  
+    - __Representation Information:__ The information that maps a Data Object into more meaningful concepts. One example is JPEG software which is used to render a JPEG file. 
+        - __Structure Information:__ The Representation Information that imparts meaning about how other information is organized. 
+            - Documented through description processes or self-documented through strategic file naming where applicable.  
+        - __Semantic Information:__ The Representation Information that further describes the meaning beyond that provided by the Structure Information. 
+            - Documented using Siegfried as part of Brunnhilde for file characterization and stored in the Metadata folder for the collection. 
+- __Preservation Description Information:__ The information which is necessary for adequate preservation of the Content Information. 
+    - __Reference Information:__ The information that is used as an identifier for the Content Information. 
+        - This information is initially documented at the media item or transfer level in the [Digital Media Inventory Template](https://elizajames.github.io/digital-preservation-documentation/assets/files/DigitalMediaInventoryTemplate.xlsx)  and included in ArchivesSpace;  single files are yet given individual identifiers beyond checksums. 
+    - __Provenance Information:__ The information that documents the history of the Content Information. 
+        - Documented in accession records in ArchivesSpace at the time of transfer of ownership. 
+    - __Context Information:__ The information that documents the relationships of the Content Information to its environment. This includes why the Content Information was created and how it relates to other Content Information objects. 
+        - Documented through processing and description processes and stored in ArchivesSpace. 
+    - __Fixity Information:__ The information which documents the mechanisms that ensure that the Content Information object has not been altered in an undocumented manner. 
+        - Documented through Siegfried as part of Brunnhilde and stored in the Metadata folder for the collection. 
+    - __Access Rights Information:__ The information that identifies the access restrictions pertaining to the Content Information, including the legal framework, licensing terms, and access control. 
+        - Documented in ArchivesSpace as part of processing and description processes.  
 
-This is the information uploaded to ArchivesSpace; information may be organized prior to being uploaded to ArchivesSpace using the Born Digital Processing Spreadsheet. 
-
-Packaging Information: The information that is used to bind and identify the components of an Information Package. For example, it may be the ISO 9660 volume and directory information used on a CD-ROM to provide the content of several files containing Content Information and Preservation Description Information. 
-
-This information is initially documented in the Digital Media Inventory Template and expanded in the Brunnhilde report stored in the Metadata folder in the collection folder.  
-
-Content Information: A set of information that is the original target of preservation or that includes part or all of that information. It is an Information Object composed of its Content Data Object and its Representation Information. 
-
-Data Object: Either a Physical Object or a Digital Object. 
-
-This information is stored in the Content folder in the folder containing digital collections content and metadata on the Z: drive.  
-
-Representation Information: The information that maps a Data Object into more meaningful concepts. One example is JPEG software which is used to render a JPEG file. 
-
-Structure Information: The Representation Information that imparts meaning about how other information is organized. 
-
-Documented through description processes or self-documented through strategic file naming where applicable.  
-
-Semantic Information: The Representation Information that further describes the meaning beyond that provided by the Structure Information. 
-
-Documented using Siegfried as part of Brunnhilde for file characterization and stored in the Metadata folder for the collection. 
-
-Preservation Description Information: The information which is necessary for adequate preservation of the Content Information. 
-
-Reference Information: The information that is used as an identifier for the Content Information. 
-
-This information is initially documented at the media item or transfer level in the Digital Media Inventory Template and included in ArchivesSpace;  single files are yet given individual identifiers beyond checksums. 
-
-Provenance Information: The information that documents the history of the Content Information. 
-
-Documented in accession records in ArchivesSpace at the time of transfer of ownership. 
-
-Context Information: The information that documents the relationships of the Content Information to its environment. This includes why the Content Information was created and how it relates to other Content Information objects. 
-
-Documented through processing and description processes and stored in ArchivesSpace. 
-
-Fixity Information: The information which documents the mechanisms that ensure that the Content Information object has not been altered in an undocumented manner. 
-
-Documented through Siegfried as part of Brunnhilde and stored in the Metadata folder for the collection. 
-
-Access Rights Information: The information that identifies the access restrictions pertaining to the Content Information, including the legal framework, licensing terms, and access control. 
-
-Documented in ArchivesSpace as part of processing and description processes.  
-
-As the digital preservation program is fairly new, only a high level overview of OAIS compliance is available. The portion of the OAIS standard related to repository responsibilities will be outlined in the Audit and Certification of Trustworthy Digital Repositories section, currently a work in progress. 
+As the digital preservation program is fairly new, only a high level overview of OAIS compliance is available. The portion of the OAIS standard related to repository responsibilities will be outlined in the [Audit and Certification of Trustworthy Digital Repositories](https://elizajames.github.io/digital-preservation-documentation/docs/Appendices/appendix4/#audit-and-certification-of-trustworthy-digital-repositories-future-area-of-work) section, currently a work in progress. 
 
 ## Audit and Certification of Trustworthy Digital Repositories (future area of work) 
 
