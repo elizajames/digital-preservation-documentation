@@ -55,7 +55,7 @@ The [NDSA Levels of Digital Preservation](https://ndsa.org/publications/levels-o
   <tr>
     <td>Storage </td>
     <td>Have three complete copies with at least one copy in a separate geographic location </td>
-    <td><span style="background-color: lightgoldenrodyellow">Two complete copies are stored at the Downtown Library (see the Storage &amp; Backups section). A third copy is planned to be deployed to Amazon Glacier but is in the planning stages.</span></td>
+    <td style="background-color: lightgoldenrodyellow">Two complete copies are stored at the Downtown Library (see the Storage &amp; Backups section). A third copy is planned to be deployed to Amazon Glacier but is in the planning stages.  </td>
   </tr>
   <tr>
     <td>Storage </td>
