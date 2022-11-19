@@ -364,7 +364,7 @@ The below table outlines steps to get to the subsequent level as progress toward
     <td>J. Metadata Management: Processes to create and maintain sufficient metadata to support preservation, discovery and use of preserved digital content. </td>
     <td> Awareness </td>
     <td>Optimized </td>
-    <td>Awareness-&gt;Basic <br>Completed (this document): An appropriate minimum descriptive metadata requirement exists. <br>Completed (this document): Metadata and documentation acquired with content is retained and preserved.  <br>To do (in progress, procedures created): Content is described at collection level in a digital asset register.  <br>To do (in progress, procedures created): Basic preservation metadata is captured at item level.  <br>Basic-&gt;Managed <br>Will be outlined once a Basic level is achieved. <br>Managed-&gt;Optimized <br>Will be outlined once a Managed level is achieved. </td>
+    <td><ol><li>Awareness-&gt;Basic</li><ul><li>Completed (this document): An appropriate minimum descriptive metadata requirement exists.</li><li>Completed (this document): Metadata and documentation acquired with content is retained and preserved.</li><li>To do (in progress, procedures created): Content is described at collection level in a digital asset register.  </li><li>To do (in progress, procedures created): Basic preservation metadata is captured at item level.  </li></ul><li>Basic-&gt;Managed</li><ul><li>Will be outlined once a Basic level is achieved.</li></ul><li>Managed-&gt;Optimized</li><ul><li>Will be outlined once a Managed level is achieved.</li></ol></td>
   </tr>
   <tr>
     <td>K. Discovery and Access: Processes to enable discovery of digital content and provide access for users. </td>

@@ -70,7 +70,7 @@ The WVRHC seeks to emphasize interoperable and shareable metadata. As such, the 
   <tr>
     <td><b>Usage Rights</b></td>
     <td>Information about rights held in and over the resource. Typically, rights information includes a statement about various property rights associated with the resource, including intellectual property rights.   </td>
-    <td>Select the relevant URI for the copyright status from <a href="https://rightsstatements.org/page/1.0/?language=en">https://rightsstatements.org/page/1.0/?language=en</a>. The <a href="https://conservancy.umn.edu/handle/11299/226279">Rights Review: An approach to applying Rights Statements from RightsStatements.org</a> document from the University of Minnesota may be helpful as well as the Copyright section of the <a href="https://westvirginiauniversity.sharepoint.com/:w:/s/DigitalArchivesWork/EZKIL3x1cHBOl1hrXTn4InUBW2wqASzgt7Hq0OI8qfODag?e=8PGwEA">Digitization Project Planning Document</a>. <br> <br>Example: <br>http://rightsstatements.org/vocab/InC/1.0/ </td>
+    <td>Select the relevant URI for the copyright status from <a href="https://rightsstatements.org/page/1.0/?language=en">https://rightsstatements.org/page/1.0/?language=en</a>. The <a href="https://conservancy.umn.edu/handle/11299/226279">Rights Review: An approach to applying Rights Statements from RightsStatements.org</a> document from the University of Minnesota may be helpful as well as the Copyright section of the <a href="https://elizajames.github.io/digital-preservation-documentation/assets/files/DigitizationPlanningForm.docx">Digitization Project Planning Document</a>. <br> <br>Example: <br>http://rightsstatements.org/vocab/InC/1.0/ </td>
   </tr>
   <tr>
     <td>Subject  </td>
