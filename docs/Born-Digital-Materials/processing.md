@@ -136,7 +136,7 @@ Once all materials have been processed, run the following command on the entire 
 brunnhilde.py - n [input directory, or entire collection folder] [output directory, or Administration folder for the collection]   
 ```
 
-Save the output in a folder named as the A&M number for the collection followed by _processed in the Administration folder for the collection. 
+Save the output in a folder named as the A&M number for the collection followed by _processed in the Metadata folder in the Administration folder for the collection. 
 
 *Future goals: bag and validate these materials using bagit https://github.com/LibraryOfCongress/bagit-python and consider options for file format migration*
 

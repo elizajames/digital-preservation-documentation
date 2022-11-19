@@ -42,7 +42,7 @@ In the directory structure outlined below, bolded terms represent folders and no
         - Example: __Accession-[accession number] _DigTran_01__
             - Files and any structural metadata (may be embedded into file names, may be a CUE sheet) required to use the files 
     - __Digitized Content (if applicable)__
-        - Digitized files from the collection go here and are named according to the File Naming Conventions portion of this document. 
+        - Digitized files from the collection go here and are named according to the [File Naming Conventions](https://elizajames.github.io/digital-preservation-documentation/docs/Reformatting-And-Digitizing-Materials/digitization-workflows/#file-naming-conventions) portion of this document. 
     - __Administration__ 
         - [Audiovisual Media Inventory Template](https://elizajames.github.io/digital-preservation-documentation/assets/files/AudiovisualMediaInventoryTemplate.xlsx)  
         - [Born Digital Processing Checklist](https://elizajames.github.io/digital-preservation-documentation/assets/files/BornDigitalProcessingChecklist.docx)

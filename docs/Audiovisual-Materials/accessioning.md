@@ -6,13 +6,6 @@ nav_order: 1
 ---
 
 # Accessioning and Appraisal
-{: .fs-6 .fw-300 }
-
-## On this page
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 Accessioning includes actions to examine, stabilize, and document information about a collection upon receipt to establish administrative control. Like born digital materials, this means an enhanced approach to accessioning is required. As part of accessioning procedures for audiovisual materials, the Digital Archivist or authorized person will document audiovisual media at as close to the item level as possible. The act of prioritization for digitization involves actions related to the process of appraisal, and the usually discrete actions of accessioning and appraisal are combined in a single step for audiovisual materials to minimize the repeated handling of materials.  
 
@@ -113,10 +106,10 @@ The output of appraisal will consist of a total numeric score from 0-9, with eac
     - 0 (lowest value): Content is widely available.  
 
 Higher scores indicate a more immediate need to address the preservation concerns of the materials. The below ranges can be used for reference: 
-    - 8-9 - Extreme danger—digitize ASAP (realistically within 2 years) 
-    - 6-7 - Danger ahead—digitize within 2-5 years 
-    - 4-5 - Caution, moderate risk—digitize within 5-7 years  
-    - 0-3 - Lowest priority, digitize within 10-15 years  
+- 8-9 - Extreme danger—digitize ASAP (realistically within 2 years) 
+- 6-7 - Danger ahead—digitize within 2-5 years 
+- 4-5 - Caution, moderate risk—digitize within 5-7 years  
+- 0-3 - Lowest priority, digitize within 10-15 years  
 
 Ultimately, it is an unfortunate reality that some content will be lost before materials can be reformatted due to inadequate staffing and resource levels. Prioritization allows us to address the content most in need as funding and time are available.  
 

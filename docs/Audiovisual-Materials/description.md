@@ -46,11 +46,11 @@ In addition to standard collection descriptive practices, the following audiovis
 
 ## Upload to Digital Repository and Link to ArchivesSpace
 
-Cannot complete the upload portion of this section yet as the digital repository is still in development by Systems Development. 
+_Cannot complete the upload portion of this section yet as the digital repository is still in development by Systems Development._ 
 
-Once an item has been added to the digital repository it must be linked to ArchivesSpace—cannot do this portion of the workflow yet as the digital repository is not operational. Example of process here: [Creating digital objects in ArchivesSpace and Islandora - ArchivesSpace Online Forum 2021](https://www.youtube.com/watch?v=1eX3ryz6TxU&t=2s)
+_Once an item has been added to the digital repository it must be linked to ArchivesSpace—cannot do this portion of the workflow yet as the digital repository is not operational. Example of process here: [Creating digital objects in ArchivesSpace and Islandora - ArchivesSpace Online Forum 2021](https://www.youtube.com/watch?v=1eX3ryz6TxU&t=2s)_
 
-Initial ArchivesSpace instructions so that users know what items we have digitized: 
+_Initial ArchivesSpace instructions so that users know what items we have digitized:_ 
 
 For audiovisual materials with digitized versions, create a digital object in ArchivesSpace attached to the existing archival object containing digitized material using the following instructions: 
 
