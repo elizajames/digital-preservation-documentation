@@ -516,6 +516,7 @@ The below table outlines steps to get to the subsequent level as progress toward
   </tr>
 </tbody>
 </table>
+<br>
 
 ## Reference Model for an Open Archival Information System (OAIS) 
 
