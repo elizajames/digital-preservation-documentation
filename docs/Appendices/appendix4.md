@@ -289,10 +289,10 @@ The below table outlines steps to get to the subsequent level as progress toward
 </thead>
 <tbody>
   <tr>
-    <td>  </td>
-    <td>Current Level</td>
-    <td>Desired Level</td>
-    <td>Steps to Get to Desired Level</td>
+    <td></td>
+    <td><b>Current Level</b></td>
+    <td><b>Desired Level</b></td>
+    <td><b>Steps to Get to Desired Level</b></td>
   </tr>
   <tr>
     <td>A. Organizational viability: Governance, organizational structure, staffing and resourcing of digital preservation activities. </td>
@@ -431,16 +431,16 @@ The below table outlines steps to get to the subsequent level as progress toward
     </td>
   </tr>
   <tr>
-    <td>Service Capabilities</td>
-    <td>  </td>
-    <td> </td>
-    <td> </td>
+    <td><b>Service Capabilities</b></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>  </td>
-    <td>Current Level</td>
-    <td>Desired Level</td>
-    <td> </td>
+    <td><b>Current Level</b></td>
+    <td><b>Desired Level</b></td>
+    <td><b>Steps to Get to Desired Level</b></td>
   </tr>
   <tr>
     <td>G. Acquisition, Transfer and Ingest: Processes to acquire or transfer content and ingest it into a digital archive. </td>
