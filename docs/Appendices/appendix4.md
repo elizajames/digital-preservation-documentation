@@ -300,17 +300,21 @@ The below table outlines steps to get to the subsequent level as progress toward
     <td>Optimized </td>
     <td>
         <ol>
-        <li>Awareness-&gt;Basic<li>
-        <ul>
-        <li>To do: Demonstrate some engagement by administration.</li>
-        <li>To do: Ensure staff have assigned responsibilities and the time to undertake them.</li>
-        <li>To do: Allocate a budget for digital preservation.</li> 
-        <li>To do: Identify staff development requirements.</li>
-        </ul>
+        <li>Awareness-&gt;Basic</li>
+            <ul>
+                <li>To do: Demonstrate some engagement by administration.</li>
+                <li>To do: Ensure staff have assigned responsibilities and the time to undertake them.</li>
+                <li>To do: Allocate a budget for digital preservation.</li> 
+                <li>To do: Identify staff development requirements.</li>
+            </ul>
         <li>Basic-&gt;Managed</li>
-        <ul><li>Will be outlined once a Basic level is achieved.</li></ul>
+            <ul>
+                <li>Will be outlined once a Basic level is achieved.</li>
+            </ul>
         <li>Managed-&gt;Optimized</li>
-        <ul><li>Will be outlined once a Managed level is achieved.</li></ul>
+            <ul>
+                <li>Will be outlined once a Managed level is achieved.</li>
+            </ul>
         </ol>
     </td>
   </tr>
@@ -319,16 +323,20 @@ The below table outlines steps to get to the subsequent level as progress toward
     <td> Basic </td>
     <td>Optimized </td>
     <td>
-    <ol>
-    <li>Basic-&gt;Managed
-    <ul><li>Completed: A digital preservation policy is aligned to organizational policies and is reviewed on an agreed upon schedule.</li>  
-    <li>Completed: A suite of documented processes and procedures for managing, and providing access to, content within the digital archive exists.</li>
-    <li>To do (in progress): Policy and procedure takes into account any relevant ethical issues.</li>  
-    <li>To do (in progress): All relevant staff are aware of digital preservation policies, strategies, and procedures.</li> 
-    <li>To do (in progress): Knowledge of current and future use cases for content informs policy and procedure (for example on collecting, preservation approaches, metadata and access).</li></ul>  
-    <li>Managed-&gt;Optimized</li>
-    <ul><li>Will be outlined once a Managed level is achieved.</li></ul> 
-    </ol>
+        <ol>
+            <li>Basic-&gt;Managed</li>
+                <ul>
+                    <li>Completed: A digital preservation policy is aligned to organizational policies and is reviewed on an agreed upon schedule.</li>  
+                    <li>Completed: A suite of documented processes and procedures for managing, and providing access to, content within the digital archive exists.</li>
+                    <li>To do (in progress): Policy and procedure takes into account any relevant ethical issues.</li>  
+                    <li>To do (in progress): All relevant staff are aware of digital preservation policies, strategies, and procedures.</li> 
+                    <li>To do (in progress): Knowledge of current and future use cases for content informs policy and procedure (for example on collecting, preservation approaches, metadata and access).</li>
+                </ul>  
+            <li>Managed-&gt;Optimized</li>
+                <ul>
+                    <li>Will be outlined once a Managed level is achieved.</li>
+                </ul> 
+        </ol>
     </td>
   </tr>
   <tr>
@@ -336,16 +344,22 @@ The below table outlines steps to get to the subsequent level as progress toward
     <td> Awareness </td>
     <td>Optimized </td>
     <td>
-    <ol>
-    <li>Awareness-&gt;Basic</li>
-    <ul><li>To do: Key legal rights and responsibilities, together with their owners, have been identified and documented.</li>  
-    <li>To do: Templates exist for necessary legal agreements and licenses.</li>
-    <li>To do: Relevant codes of conduct related to professional ethics are adhered to.</li></ul>
-    <li>Basic-&gt;Managed</li>
-    <ul><li>Will be outlined once a Basic level is achieved.</li></ul>
-    <li>Managed-&gt;Optimized</li>
-    <ul><li>Will be outlined once a Managed level is achieved.</li></ul> 
-    </ol>
+        <ol>
+            <li>Awareness-&gt;Basic</li>
+                <ul>
+                    <li>To do: Key legal rights and responsibilities, together with their owners, have been identified and documented.</li>  
+                    <li>To do: Templates exist for necessary legal agreements and licenses.</li>
+                    <li>To do: Relevant codes of conduct related to professional ethics are adhered to.</li>
+                </ul>
+            <li>Basic-&gt;Managed</li>
+                <ul>
+                    <li>Will be outlined once a Basic level is achieved.</li>
+                </ul>
+            <li>Managed-&gt;Optimized</li>
+                <ul>
+                    <li>Will be outlined once a Managed level is achieved.</li>
+                </ul> 
+        </ol>
     </td>
   </tr>
   <tr>
@@ -355,16 +369,18 @@ The below table outlines steps to get to the subsequent level as progress toward
     <td>
     <ol>
         <li>Basic-&gt;Managed</li>
-        <ul>
-            <li>Completed (by Systems Infrastructure, Systems Development, and the Digital Archivist where applicable): IT systems are regularly patched and updated.</li>
-            <li>Completed (current practice, processes can be improved): New tools and systems are deployed when required.</li>
-            <li>To do: Adequate IT support is available to the digital archive.</li>
-            <li>To do: IT roles and responsibilities are documented and regularly reviewed.</li>
-            <li>To do (done via this manual for software and some systems, needs improvement): IT systems are comprehensively documented.</li>
-            <li>To do: contracts and services with third party service providers are well managed and documented.</li>
-        </ul>
+            <ul>
+                <li>Completed (by Systems Infrastructure, Systems Development, and the Digital Archivist where applicable): IT systems are regularly patched and updated.</li>
+                <li>Completed (current practice, processes can be improved): New tools and systems are deployed when required.</li>
+                <li>To do: Adequate IT support is available to the digital archive.</li>
+                <li>To do: IT roles and responsibilities are documented and regularly reviewed.</li>
+                <li>To do (done via this manual for software and some systems, needs improvement): IT systems are comprehensively documented.</li>
+                <li>To do: contracts and services with third party service providers are well managed and documented.</li>
+            </ul>
         <li>Managed-&gt;Optimized</li>
-        <ul><li>Will be outlined once a Managed level is achieved.</li></ul>
+            <ul>
+                <li>Will be outlined once a Managed level is achieved.</li>
+            </ul>
     </ol> 
     </td>
   </tr>
