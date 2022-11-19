@@ -282,22 +282,22 @@ The below table outlines steps to get to the subsequent level as progress toward
 <thead>
   <tr>
     <th>Organizational Capabilities </th>
-    <th>  </th>
-    <th> </th>
-    <th> </th>
+    <th></th>
+    <th></th>
+    <th></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>  </td>
-    <td>Current Level </td>
-    <td>Desired Level </td>
-    <td>Steps to Get to Desired Level </td>
+    <td>Current Level</td>
+    <td>Desired Level</td>
+    <td>Steps to Get to Desired Level</td>
   </tr>
   <tr>
-    <td>A. Organizational viability: Governance, organizational structure, staffing and resourcing of digital  <br>preservation activities. </td>
-    <td> Awareness </td>
-    <td>Optimized </td>
+    <td>A. Organizational viability: Governance, organizational structure, staffing and resourcing of digital preservation activities. </td>
+    <td>Awareness</td>
+    <td>Optimized</td>
     <td>
         <ol>
         <li>Awareness-&gt;Basic</li>
@@ -320,8 +320,8 @@ The below table outlines steps to get to the subsequent level as progress toward
   </tr>
   <tr>
     <td>B. Policy and strategy: Policies, strategies, and procedures which govern the operation and management of the digital archive. </td>
-    <td> Basic </td>
-    <td>Optimized </td>
+    <td> Basic</td>
+    <td>Optimized</td>
     <td>
         <ol>
             <li>Basic-&gt;Managed</li>
@@ -341,8 +341,8 @@ The below table outlines steps to get to the subsequent level as progress toward
   </tr>
   <tr>
     <td>C. Legal basis: Management of legal rights and responsibilities, compliance with relevant regulation and adherence to ethical codes related to acquiring, preserving and providing access to digital content. </td>
-    <td> Awareness </td>
-    <td>Optimized </td>
+    <td> Awareness</td>
+    <td>Optimized</td>
     <td>
         <ol>
             <li>Awareness-&gt;Basic</li>
@@ -363,9 +363,9 @@ The below table outlines steps to get to the subsequent level as progress toward
     </td>
   </tr>
   <tr>
-    <td>D. IT capability: Information Technology capabilities for supporting digital preservation activities. </td>
-    <td> Basic </td>
-    <td>Managed </td>
+    <td>D. IT capability: Information Technology capabilities for supporting digital preservation activities.</td>
+    <td> Basic</td>
+    <td>Managed</td>
     <td>
     <ol>
         <li>Basic-&gt;Managed</li>
@@ -386,8 +386,8 @@ The below table outlines steps to get to the subsequent level as progress toward
   </tr>
   <tr>
     <td>E. Continuous Improvement: Processes for the assessment of current digital preservation capabilities, the definition of goals and the monitoring of progress </td>
-    <td> Awareness </td>
-    <td>Optimized </td>
+    <td>Awareness</td>
+    <td>Optimized</td>
     <td>
         <ol>
             <li>Awareness-&gt;Basic</li>
@@ -402,15 +402,15 @@ The below table outlines steps to get to the subsequent level as progress toward
             </ul>
         <li>Managed-&gt;Optimized</li>
             <ul>
-                <li>Will be outlined once a Managed level is achieved.<li>
+                <li>Will be outlined once a Managed level is achieved.</li>
             </ul>
         </ol>
     </td>
   </tr>
   <tr>
     <td>F. Community: Engagement with and contribution to the wider digital preservation community. </td>
-    <td> Awareness </td>
-    <td>Managed </td>
+    <td> Awareness</td>
+    <td>Managed</td>
     <td>
         <ol>
             <li>Awareness-&gt;Basic</li>
@@ -431,21 +431,21 @@ The below table outlines steps to get to the subsequent level as progress toward
     </td>
   </tr>
   <tr>
-    <td>Service Capabilities </td>
+    <td>Service Capabilities</td>
     <td>  </td>
     <td> </td>
     <td> </td>
   </tr>
   <tr>
     <td>  </td>
-    <td>Current Level </td>
-    <td>Desired Level </td>
+    <td>Current Level</td>
+    <td>Desired Level</td>
     <td> </td>
   </tr>
   <tr>
     <td>G. Acquisition, Transfer and Ingest: Processes to acquire or transfer content and ingest it into a digital archive. </td>
-    <td> Awareness </td>
-    <td>Optimized </td>
+    <td> Awareness</td>
+    <td>Optimized</td>
     <td>
         <ol>
             <li>Awareness-&gt;Basic</li> 
@@ -469,12 +469,12 @@ The below table outlines steps to get to the subsequent level as progress toward
     </td>
   </tr>
   <tr>
-    <td>H. Bitstream Preservation: Processes to ensure the storage and integrity of digital content to be preserved. </td>
-    <td> Awareness </td>
-    <td>Optimized </td>
+    <td>H. Bitstream Preservation: Processes to ensure the storage and integrity of digital content to be preserved.</td>
+    <td>Awareness</td>
+    <td>Optimized</td>
     <td>
         <ol>
-            <li>Awareness-&gt;Basic<li>
+            <li>Awareness-&gt;Basic</li>
                 <ul>
                     <li>Completed (see this manual): Dedicated storage is available to meet current preservation needs.</li>  
                     <li>Completed (see this manual): Staff know where content is stored.</li>  
@@ -486,7 +486,7 @@ The below table outlines steps to get to the subsequent level as progress toward
                 <ul>
                     <li>Will be outlined once a Basic level is achieved.</li>
                 </ul>  
-            <li>Managed-&gt;Optimized<li> 
+            <li>Managed-&gt;Optimized</li> 
                 <ul>
                     <li>Will be outlined once a Managed level is achieved.</li>
                 </ul> 
@@ -494,9 +494,9 @@ The below table outlines steps to get to the subsequent level as progress toward
     </td>
   </tr>
   <tr>
-    <td>I. Content Preservation: Processes to preserve the meaning or functionality of the digital content and ensure its continued accessibility and usability over time. </td>
-    <td> Awareness </td>
-    <td>Optimized </td>
+    <td>I. Content Preservation: Processes to preserve the meaning or functionality of the digital content and ensure its continued accessibility and usability over time.</td>
+    <td>Awareness</td>
+    <td>Optimized</td>
     <td>
         <ol>
         <li>Awareness-&gt;Basic</li>
@@ -518,32 +518,32 @@ The below table outlines steps to get to the subsequent level as progress toward
   </tr>
   <tr>
     <td>J. Metadata Management: Processes to create and maintain sufficient metadata to support preservation, discovery and use of preserved digital content. </td>
-    <td> Awareness </td>
-    <td>Optimized </td>
+    <td>Awareness</td>
+    <td>Optimized</td>
     <td>
         <ol>
             <li>Awareness-&gt;Basic</li>
                 <ul>
                     <li>Completed (this document): An appropriate minimum descriptive metadata requirement exists.</li>
                     <li>Completed (this document): Metadata and documentation acquired with content is retained and preserved.</li>
-                    <li>To do (in progress, procedures created): Content is described at collection level in a digital asset register.  </li>
+                    <li>To do (in progress, procedures created): Content is described at collection level in a digital asset register.</li>
                     <li>To do (in progress, procedures created): Basic preservation metadata is captured at item level.</li>
                 </ul>
-        <li>Basic-&gt;Managed</li>
-            <ul>
-            <li>Will be outlined once a Basic level is achieved.</li>
-            </ul>
-        <li>Managed-&gt;Optimized</li>
-            <ul>
-            <li>Will be outlined once a Managed level is achieved.</li>
-            </ul>
+            <li>Basic-&gt;Managed</li>
+                <ul>
+                <li>Will be outlined once a Basic level is achieved.</li>
+                </ul>
+            <li>Managed-&gt;Optimized</li>
+                <ul>
+                <li>Will be outlined once a Managed level is achieved.</li>
+                </ul>
         </ol>
     </td>
   </tr>
   <tr>
     <td>K. Discovery and Access: Processes to enable discovery of digital content and provide access for users. </td>
-    <td>Awareness </td>
-    <td>Optimized </td>
+    <td>Awareness</td>
+    <td>Optimized</td>
     <td>
         <ol>
             <li>Awareness-&gt;Basic</li>
