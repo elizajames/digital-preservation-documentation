@@ -43,6 +43,63 @@ The [NDSA Levels of Digital Preservation](https://ndsa.org/publications/levels-o
 
 ### Level 2 – Protector your content 
 
+<table>
+<thead>
+  <tr>
+    <th><br><br><br><br><br><br>Functional Area </th>
+    <th><br><br><br><br>Action </th>
+    <th><br><br><br><br>Notes </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><br><br><br><br>Storage </td>
+    <td><br><br>Have three complete copies with at least one copy in a separate geographic location </td>
+    <td><br><br>Two complete copies are stored at the Downtown Library (see the Storage &amp; Backups section). A third copy is planned to be deployed to Amazon Glacier but is in the planning stages.  </td>
+  </tr>
+  <tr>
+    <td><br><br><br><br>Storage </td>
+    <td><br><br>Document storage and storage media indicating the resources and dependencies they require to function </td>
+    <td><br><br>Resource and dependency information is maintained by Systems Infrastructure. Changes or issues are conveyed to the Digital Archivist and addressed in tandem. </td>
+  </tr>
+  <tr>
+    <td><br><br><br><br>Integrity </td>
+    <td><br><br>Verify integrity information when moving or copying content </td>
+    <td><br><br>Integrity information is verified when copying or moving content using Teracopy. A record of the verified checksums is stored in the logs folder for a collection. </td>
+  </tr>
+  <tr>
+    <td><br><br><br><br>Integrity </td>
+    <td><br><br>Use write-blockers when working with original media </td>
+    <td><br><br>Write blockers are used with media upon content extraction.  </td>
+  </tr>
+  <tr>
+    <td><br><br><br><br>Integrity </td>
+    <td><br><br>Back up integrity information and store copy in a separate location from the content </td>
+    <td><br><br>A detailed inventory of file-level information, including integrity information, is currently not stored separately from content. Options for separate storage are being examined as of 10/2022.   </td>
+  </tr>
+  <tr>
+    <td><br><br><br><br>Control </td>
+    <td><br><br>Document the human and software agents authorized to read, write, move, and delete content and apply these </td>
+    <td><br><br>A permissions document consolidates who has read and write (including move and delete) permissions. The Digital Archivist authorizes the use permissions given to new users. </td>
+  </tr>
+  <tr>
+    <td><br><br><br><br>Metadata </td>
+    <td><br><br>Store enough metadata to know what the content is (this might include some combination of administrative, technical, descriptive, preservation, and structural) </td>
+    <td><br><br>Metadata stored on Z: includes information not only about the files, but also about the media carriers, including technical, preservation, descriptive, and structural metadata. Additional administrative and descriptive metadata is stored in ArchivesSpace.  </td>
+  </tr>
+  <tr>
+    <td><br><br><br><br>Content </td>
+    <td><br><br>Verify file formats and other essential content characteristics </td>
+    <td><br><br>File formats are verified and any issues are currently flagged by siegfried. Issues are currently addressed at the time of scheduled access by a user, though options for addressing issues with file formats are currently being explored as part of processing.  </td>
+  </tr>
+  <tr>
+    <td><br><br><br><br>Content </td>
+    <td><br><br>Build relationships with content creators to encourage sustainable file choices </td>
+    <td><br><br>This document includes a section on preferred file formats for donors. Where possible, discussions with content creators occur prior to transfer and accession using these preferred file formats. </td>
+  </tr>
+</tbody>
+</table>
+
 ### Level 3 – Monitor your content 
 
 ### Level 4 – Sustain your content 
