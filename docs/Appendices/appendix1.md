@@ -63,6 +63,6 @@ nav_order: 1
 
 [“Reference Model for an Open Archival Information System (OAIS)”](https://public.ccsds.org/pubs/650x0m2.pdf)  
 
-[“Audit and Certification of Trustworthy Digital Repositories”}(https://public.ccsds.org/pubs/652x0m1.pdf)
+[“Audit and Certification of Trustworthy Digital Repositories”](https://public.ccsds.org/pubs/652x0m1.pdf)
 
 [The Center for Research Libraries, “Trustworthy Repositories Audit & Certification: Criteria and Checklist”](https://www.crl.edu/sites/default/files/d6/attachments/pages/trac_0.pdf) 

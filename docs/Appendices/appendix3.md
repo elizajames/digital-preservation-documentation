@@ -28,9 +28,9 @@ The WVRHC seeks to emphasize interoperable and shareable metadata. As such, the 
 </thead>
 <tbody>
   <tr>
-    <td>Collection  </td>
+    <td><b>Collection</b></td>
     <td>Collection from which the resource originated. Use the name of the collection on the finding aid and preface the name with the four-digit accession number and a colon </td>
-    <td>A&amp;M 4050, Senator John D. (Jay) Rockefeller IV papers <br>A&amp;M 1887, West Virginia Human Rights Commission Archives  </td>
+    <td>A&amp;M 4050: Senator John D. (Jay) Rockefeller IV papers <br>A&amp;M 1887: West Virginia Human Rights Commission Archives  </td>
   </tr>
   <tr>
     <td>Creator  </td>
@@ -53,14 +53,14 @@ The WVRHC seeks to emphasize interoperable and shareable metadata. As such, the 
     <td>Examples:  <br>47 min. <br>177 pages.  <br>12x20 cm. <br>2:36 <br>100 MB </td>
   </tr>
   <tr>
-    <td>Institution  </td>
+    <td><b>Institution</b></td>
     <td>Institution from which the collection originates.  </td>
     <td>Default value: West Virginia &amp; Regional History Center </td>
   </tr>
   <tr>
-    <td>Identifier  </td>
+    <td><b>Identifier</b></td>
     <td>An unambiguous reference to the resource within a given context. Recommended best practice is to identify the resource by means of a string conforming to a formal identification system. </td>
-    <td>The file name for the item, minus the file extension. <br>am4050_card_0001 <br>3470_disc1_track1 <br>For materials being described at the folder level, use an identifier for the folder according to the <a href="bookmark://_File_Naming_Conventions">file naming conventions</a>. </td>
+    <td>The file name for the item, minus the file extension. <br>am4050_card_0001 <br>3470_disc1_track1 <br>For materials being described at the folder level, use an identifier for the folder according to the <a href="https://elizajames.github.io/digital-preservation-documentation/docs/Reformatting-And-Digitizing-Materials/digitization-workflows/#file-naming-conventions">file naming conventions</a>. </td>
   </tr>
   <tr>
     <td>Language  </td>
@@ -68,7 +68,7 @@ The WVRHC seeks to emphasize interoperable and shareable metadata. As such, the 
     <td>Use <a href="https://iso639-3.sil.org/code_tables/639/data?title=eng&field_iso639_cd_st_mmbrshp_639_1_tid=All&name_3=&field_iso639_element_scope_tid=All&field_iso639_language_type_tid=All&items_per_page=200">ISO-639-3 codes:</a>  <br>eng  <br>spa </td>
   </tr>
   <tr>
-    <td>Usage Rights  </td>
+    <td><b>Usage Rights</b></td>
     <td>Information about rights held in and over the resource. Typically, rights information includes a statement about various property rights associated with the resource, including intellectual property rights.   </td>
     <td>Select the relevant URI for the copyright status from <a href="https://rightsstatements.org/page/1.0/?language=en">https://rightsstatements.org/page/1.0/?language=en</a>. The <a href="https://conservancy.umn.edu/handle/11299/226279">Rights Review: An approach to applying Rights Statements from RightsStatements.org</a> document from the University of Minnesota may be helpful as well as the Copyright section of the <a href="https://westvirginiauniversity.sharepoint.com/:w:/s/DigitalArchivesWork/EZKIL3x1cHBOl1hrXTn4InUBW2wqASzgt7Hq0OI8qfODag?e=8PGwEA">Digitization Project Planning Document</a>. <br> <br>Example: <br>http://rightsstatements.org/vocab/InC/1.0/ </td>
   </tr>
@@ -78,7 +78,7 @@ The WVRHC seeks to emphasize interoperable and shareable metadata. As such, the 
     <td>Example:   <br>United States--Congress--Senate. <br>Railroads <br>Rockefeller, John D., IV (John Davison), 1937- <br>Revercomb, William Chapman, 1895-1979 <br>United States. Congress. Senate. Committee on Veterans’ Affairs <br>West Virginia. Governor's Task Force on Mountaintop Mining and Related Practices <br> </td>
   </tr>
   <tr>
-    <td>Title  </td>
+    <td><b>Title</b></td>
     <td>A name given to the resource, such as the title of a painting, photo, or document. Titles are assigned depending upon the information resource.  </td>
     <td>“A formal title is one that appears prominently on or in the materials being described…In the absence of a meaningful formal title, a title must be devised.”  <br> <br>“A devised title is one provided by the archivist when there is no formal title or the materials being described or when the formal title is misleading or inadequate." <br> <br>Devised titles are created based on the following:   <br>The format of the work  <br>The people, places, or things that are the subject of the work <br> <br>Examples:  <br>Senator John D. (Jay) Rockefeller at the Senate Swearing-In Ceremony <br>West Virginia Folk Music: A Descriptive Guide to Field Recordings in the West Virginia and Regional History Collection <br>Handmade paper valentine <br>Manuscript on the three states of matter </td>
   </tr>
