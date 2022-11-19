@@ -31,7 +31,7 @@ The [NDSA Levels of Digital Preservation](https://ndsa.org/publications/levels-o
 <table>
 <thead>
   <tr>
-    <th><b>Functional Area</b></th>
+    <th>Functional Area</th>
     <th>Action </th>
     <th>Notes </th>
   </tr>
@@ -40,52 +40,52 @@ The [NDSA Levels of Digital Preservation](https://ndsa.org/publications/levels-o
   <tr>
     <td>Storage </td>
     <td>Have two complete copies in separate locations  </td>
-    <td>As documented in the <a href="bookmark://_Storage_&_Backups">Storage &amp; Backups</a> section, backups of the Z: drive are also stored at HSL.  </td>
+    <td style="background-color: lightgreen">As documented in the <a href="https://elizajames.github.io/digital-preservation-documentation/docs/Digital-Preservation-Administration/storage-and-backups/">Storage &amp; Backups</a> section, backups of the Z: drive are also stored at HSL.  </td>
   </tr>
   <tr>
     <td>Storage </td>
     <td>Document all storage media where content is stored </td>
-    <td>This document outlines the processes for documenting incoming storage media and transmitting content to the Z: drive. Documentation and content is stored on the Z: drive.  </td>
+    <td style="background-color: lightgreen">This document outlines the processes for documenting incoming storage media and transmitting content to the Z: drive. Documentation and content is stored on the Z: drive.  </td>
   </tr>
   <tr>
     <td>Storage </td>
     <td>Put content into a stable storage </td>
-    <td>Content is extracted from all unstable media where possible in-house; media that cannot be transferred is documented and used to advocate for additional equipment.  </td>
+    <td style="background-color: lightgreen">Content is extracted from all unstable media where possible in-house; media that cannot be transferred is documented and used to advocate for additional equipment.  </td>
   </tr>
   <tr>
     <td>Integrity </td>
     <td>Verify integrity information if it has been provided with the content  </td>
-    <td>Integrity information will be verified whenever it is provided using Teracopy. </td>
+    <td style="background-color: lightgreen">Integrity information will be verified whenever it is provided using Teracopy. </td>
   </tr>
   <tr>
     <td>Integrity </td>
     <td>Generate integrity information if not provided with the content </td>
-    <td>Integrity information using md5 checksums is generated for content using siegfried upon accession.  </td>
+    <td style="background-color: lightgreen">Integrity information using md5 checksums is generated for content using siegfried upon accession.  </td>
   </tr>
   <tr>
     <td>Integrity </td>
     <td>Virus check all content; isolate content for quarantine as needed </td>
-    <td>All content is scanned using clamAV upon accession, which includes content ingest from storage media. Content flagged is quarantined and monitored by the Digital Archivist before being uploaded to secure storage.  </td>
+    <td style="background-color: lightgreen">All content is scanned using clamAV upon accession, which includes content ingest from storage media. Content flagged is quarantined and monitored by the Digital Archivist before being uploaded to secure storage.  </td>
   </tr>
   <tr>
     <td>Control </td>
     <td>Determine the human and software agents that should be authorized to read, write, move, and delete content </td>
-    <td>A <a href="https://westvirginiauniversity.sharepoint.com/:w:/s/DigitalArchivesWork/Eeegdrrm1w5NuRiQQLtE6dYBWK9P-qTYRyGT3PjCvsTzFQ?e=fQ5bMy">permissions document</a> consolidates who has read and write (including move and delete) permissions. The Digital Archivist authorizes the use permissions given to new users.  </td>
+    <td style="background-color: lightgreen">A <a href="https://elizajames.github.io/digital-preservation-documentation/docs/Appendices/appendix2/#permissions-list">permissions document</a> consolidates who has read and write (including move and delete) permissions. The Digital Archivist authorizes the use permissions given to new users.  </td>
   </tr>
   <tr>
     <td>Metadata </td>
     <td>Create inventory of content, also documenting current storage locations </td>
-    <td>Content inventories are stored with content in a metadata folder and generated using siegfried. Storage locations are isolated to a single location: the Z: drive.  </td>
+    <td style="background-color: lightgreen">Content inventories are stored with content in a metadata folder and generated using siegfried. Storage locations are isolated to a single location: the Z: drive.  </td>
   </tr>
   <tr>
     <td>Metadata </td>
     <td>Backup inventory and store at least one copy separately from content  </td>
-    <td>An inventory of storage media, not necessarily a detailed listing of the files contained on that media (pending processing level), is in ArchivesSpace. A detailed inventory of file-level information is currently not stored separately from content, but options are being examined as of 10/2022. </td>
+    <td style="background-color: lightgoldenrodyellow">An inventory of storage media, not necessarily a detailed listing of the files contained on that media (pending processing level), is in ArchivesSpace. A detailed inventory of file-level information is currently not stored separately from content, but options are being examined as of 10/2022. </td>
   </tr>
   <tr>
     <td>Content </td>
     <td>Document file formats and other essential content characteristics including how and when these were identified  </td>
-    <td>File formats and characteristics are generated using siegfried and are stored in a metadata folder with the content. The date is stored as part of the brunnhilde report generated at the same time.  </td>
+    <td style="background-color: lightgreen">File formats and characteristics are generated using siegfried and are stored in a metadata folder with the content. The date is stored as part of the brunnhilde report generated at the same time.  </td>
   </tr>
 </tbody>
 </table>
@@ -104,47 +104,47 @@ The [NDSA Levels of Digital Preservation](https://ndsa.org/publications/levels-o
   <tr>
     <td>Storage </td>
     <td>Have three complete copies with at least one copy in a separate geographic location </td>
-    <td style="background-color: lightgoldenrodyellow">Two complete copies are stored at the Downtown Library (see the Storage &amp; Backups section). A third copy is planned to be deployed to Amazon Glacier but is in the planning stages.  </td>
+    <td style="background-color: lightgoldenrodyellow">Two complete copies are stored at the Downtown Library (see the <a href="https://elizajames.github.io/digital-preservation-documentation/docs/Digital-Preservation-Administration/storage-and-backups/">Storage &amp; Backups section</a>). A third copy is planned to be deployed to Amazon Glacier but is in the planning stages.  </td>
   </tr>
   <tr>
     <td>Storage </td>
     <td>Document storage and storage media indicating the resources and dependencies they require to function </td>
-    <td>Resource and dependency information is maintained by Systems Infrastructure. Changes or issues are conveyed to the Digital Archivist and addressed in tandem. </td>
+    <td style="background-color: lightgreen">Resource and dependency information is maintained by Systems Infrastructure. Changes or issues are conveyed to the Digital Archivist and addressed in tandem. </td>
   </tr>
   <tr>
     <td>Integrity </td>
     <td>Verify integrity information when moving or copying content </td>
-    <td>Integrity information is verified when copying or moving content using Teracopy. A record of the verified checksums is stored in the logs folder for a collection. </td>
+    <td style="background-color: lightgreen">Integrity information is verified when copying or moving content using Teracopy. A record of the verified checksums is stored in the logs folder for a collection. </td>
   </tr>
   <tr>
     <td>Integrity </td>
     <td>Use write-blockers when working with original media </td>
-    <td>Write blockers are used with media upon content extraction.  </td>
+    <td style="background-color: lightgreen">Write blockers are used with media upon content extraction.  </td>
   </tr>
   <tr>
     <td>Integrity </td>
     <td>Back up integrity information and store copy in a separate location from the content </td>
-    <td>A detailed inventory of file-level information, including integrity information, is currently not stored separately from content. Options for separate storage are being examined as of 10/2022.   </td>
+    <td style="background-color: lightgoldenrodyellow">A detailed inventory of file-level information, including integrity information, is currently not stored separately from content. Options for separate storage are being examined as of 10/2022.   </td>
   </tr>
   <tr>
     <td>Control </td>
     <td>Document the human and software agents authorized to read, write, move, and delete content and apply these </td>
-    <td>A permissions document consolidates who has read and write (including move and delete) permissions. The Digital Archivist authorizes the use permissions given to new users. </td>
+    <td style="background-color: lightgreen">A  <a href="https://elizajames.github.io/digital-preservation-documentation/docs/Appendices/appendix2/#permissions-list">permissions document</a> consolidates who has read and write (including move and delete) permissions. The Digital Archivist authorizes the use permissions given to new users. </td>
   </tr>
   <tr>
     <td>Metadata </td>
     <td>Store enough metadata to know what the content is (this might include some combination of administrative, technical, descriptive, preservation, and structural) </td>
-    <td>Metadata stored on Z: includes information not only about the files, but also about the media carriers, including technical, preservation, descriptive, and structural metadata. Additional administrative and descriptive metadata is stored in ArchivesSpace.  </td>
+    <td style="background-color: lightgreen">Metadata stored on Z: includes information not only about the files, but also about the media carriers, including technical, preservation, descriptive, and structural metadata. Additional administrative and descriptive metadata is stored in ArchivesSpace.  </td>
   </tr>
   <tr>
     <td>Content </td>
     <td>Verify file formats and other essential content characteristics </td>
-    <td>File formats are verified and any issues are currently flagged by siegfried. Issues are currently addressed at the time of scheduled access by a user, though options for addressing issues with file formats are currently being explored as part of processing.  </td>
+    <td style="background-color: lightgoldenrodyellow">File formats are verified and any issues are currently flagged by siegfried. Issues are currently addressed at the time of scheduled access by a user, though options for addressing issues with file formats are currently being explored as part of processing.  </td>
   </tr>
   <tr>
     <td>Content </td>
     <td>Build relationships with content creators to encourage sustainable file choices </td>
-    <td>This document includes a section on preferred file formats for donors. Where possible, discussions with content creators occur prior to transfer and accession using these preferred file formats. </td>
+    <td style="background-color: lightgreen">This document includes a section on preferred file formats for donors. Where possible, discussions with content creators occur prior to transfer and accession using these preferred file formats. </td>
   </tr>
 </tbody>
 </table>
@@ -163,52 +163,52 @@ The [NDSA Levels of Digital Preservation](https://ndsa.org/publications/levels-o
   <tr>
     <td>Storage </td>
     <td>Have at least one copy in a geographic location with a different disaster threat than the other copies </td>
-    <td>Implementation of Level 2 Storage actions as outlined in the Level 2 table will also meet this Level 3 Storage action. </td>
+    <td style="background-color: lightgoldenrodyellow">Implementation of Level 2 Storage actions as outlined in the Level 2 table will also meet this Level 3 Storage action. </td>
   </tr>
   <tr>
     <td>Storage </td>
     <td>Have at least one copy on a different storage media type </td>
-    <td>Implementation of Level 2 Storage actions as outlined in the Level 2 table will also meet this Level 3 Storage action. </td>
+    <td style="background-color: lightgoldenrodyellow">Implementation of Level 2 Storage actions as outlined in the Level 2 table will also meet this Level 3 Storage action. </td>
   </tr>
   <tr>
     <td>Storage </td>
     <td>Track the obsolescence of storage and media </td>
-    <td>Server hardware migrations and management is maintained by Systems Infrastructure. Changes, such as migrating to new servers and refreshing server hardware, are conveyed to the Digital Archivist and addressed in tandem according to a predetermined schedule. Collections content is extracted from all unstable storage media where possible in-house; media that cannot be transferred is documented and used to advocate for additional equipment. </td>
+    <td style="background-color:  lightgreen">>Server hardware migrations and management is maintained by Systems Infrastructure. Changes, such as migrating to new servers and refreshing server hardware, are conveyed to the Digital Archivist and addressed in tandem according to a predetermined schedule. Collections content is extracted from all unstable storage media where possible in-house; media that cannot be transferred is documented and used to advocate for additional equipment. </td>
   </tr>
   <tr>
     <td>Integrity </td>
     <td>Verify integrity information of content at fixed intervals </td>
-    <td>Action will be implemented in the future—currently, collection processing and generation of checksums must occur before verifying integrity information.  </td>
+    <td style="background-color: lightcoral">>Action will be implemented in the future—currently, collection processing and generation of checksums must occur before verifying integrity information.  </td>
   </tr>
   <tr>
     <td>Integrity </td>
     <td>Document integrity information verification processes and outcomes </td>
-    <td>Action will be implemented in the future—currently, collection processing and generation of checksums must occur before verifying integrity information. </td>
+    <td style="background-color: lightcoral">>Action will be implemented in the future—currently, collection processing and generation of checksums must occur before verifying integrity information. </td>
   </tr>
   <tr>
     <td>Integrity </td>
     <td>Perform audit of integrity information on demand </td>
-    <td>Integrity information is verified on demand using Teracopy. A record of the verified checksums is stored in the logs folder for a collection. </td>
+    <td style="background-color: lightgreen">Integrity information is verified on demand using Teracopy. A record of the verified checksums is stored in the logs folder for a collection. </td>
   </tr>
   <tr>
     <td>Control </td>
     <td>Maintain logs and identify the human and software agents that performed actions on content </td>
-    <td>Action will be implemented in the future—this information is currently held by Systems Infrastructure. </td>
+    <td style="background-color: lightcoral">>Action will be implemented in the future—this information is currently held by Systems Infrastructure. </td>
   </tr>
   <tr>
     <td>Metadata </td>
     <td>Determine what metadata standards to apply  </td>
-    <td>Metadata standards and implementations are outlined in the <a href="bookmark://_Description__1">Description section</a> for born digital materials in this document. </td>
+    <td style="background-color:  lightgreen">Metadata standards and implementations are outlined in the <a href="https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/description/">Description section</a> for born digital materials in this document. </td>
   </tr>
   <tr>
     <td>Metadata </td>
     <td>Find and fill gaps in your metadata to meet those standards </td>
-    <td>Currently in progress—legacy processed collections are being reprocessed and new collections processed according to the metadata standards and implementations outlined in the <a href="bookmark://_Description__1">Description section</a> for born digital materials in this document. </td>
+    <td style="background-color: lightgoldenrodyellow">Currently in progress—legacy processed collections are being reprocessed and new collections processed according to the metadata standards and implementations outlined in the <a href="https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/description/">Description section</a> for born digital materials in this document. </td>
   </tr>
   <tr>
     <td>Content </td>
     <td>Monitor for obsolescence, and changes in technologies on which content is dependent </td>
-    <td>Action will be implemented in the future. </td>
+    <td style="background-color: lightcoral">Action will be implemented in the future. </td>
   </tr>
 </tbody>
 </table>
@@ -227,47 +227,47 @@ The [NDSA Levels of Digital Preservation](https://ndsa.org/publications/levels-o
   <tr>
     <td>Storage </td>
     <td>Have at least three copies in geographic locations, each with a different disaster threat </td>
-    <td>Implementation toward Level 2 and Level 3 Storage actions will occur before Level 4. </td>
+    <td style="background-color: lightcoral">Implementation toward Level 2 and Level 3 Storage actions will occur before Level 4. </td>
   </tr>
   <tr>
     <td>Storage </td>
     <td>Maximize storage diversification to avoid single points of failure </td>
-    <td>Implementation toward Level 2 and Level 3 Storage actions will occur before Level 4. </td>
+    <td style="background-color: lightcoral">Implementation toward Level 2 and Level 3 Storage actions will occur before Level 4. </td>
   </tr>
   <tr>
     <td>Storage </td>
     <td>Have a plan and execute actions to address obsolescence of storage hardware, software, and media </td>
-    <td>Server hardware migrations and management is maintained by Systems Infrastructure. Changes, such as migrating to new servers and refreshing server hardware, are conveyed to the Digital Archivist and addressed in tandem according to a predetermined schedule. Collections content is extracted from all unstable storage media where possible in-house; media that cannot be transferred is documented and used to advocate for additional equipment.  </td>
+    <td style="background-color:  lightgreen">Server hardware migrations and management is maintained by Systems Infrastructure. Changes, such as migrating to new servers and refreshing server hardware, are conveyed to the Digital Archivist and addressed in tandem according to a predetermined schedule. Collections content is extracted from all unstable storage media where possible in-house; media that cannot be transferred is documented and used to advocate for additional equipment.  </td>
   </tr>
   <tr>
     <td>Integrity </td>
     <td>Verify integrity information in response to specific events or activities </td>
-    <td>Integrity information is verified on demand using Teracopy. A record of the verified checksums is stored in the logs folder for a collection. </td>
+    <td style="background-color:  lightgreen">Integrity information is verified on demand using Teracopy. A record of the verified checksums is stored in the logs folder for a collection. </td>
   </tr>
   <tr>
     <td>Integrity </td>
     <td>Replace or repair corrupted content as necessary </td>
-    <td>Action will be implemented in the future. </td>
+    <td style="background-color: lightcoral">Action will be implemented in the future. </td>
   </tr>
   <tr>
     <td>Control </td>
     <td>Perform periodic review of actions/access logs  </td>
-    <td>Action will be implemented in the future.  </td>
+    <td style="background-color: lightcoral">Action will be implemented in the future.  </td>
   </tr>
   <tr>
     <td>Metadata </td>
     <td>Record preservation actions associated with content and when those actions occur </td>
-    <td>Preservation actions are documented in the <a href="https://westvirginiauniversity.sharepoint.com/:x:/s/DigitalArchivesWork/EeceAK3mBV1MvLJM3pqQjKcBd8YHKnUtzjnKUPspT2-hog?e=LlhHqg">PREMIS Spreadsheet</a> for a collection, stored in the administration folder for that collection.  </td>
+    <td style="background-color:  lightgreen">Preservation actions are documented in the <a href="https://elizajames.github.io/digital-preservation-documentation/assets/files/PREMISSpreadsheet.xlsx">PREMIS Spreadsheet</a> for a collection, stored in the administration folder for that collection.  </td>
   </tr>
   <tr>
     <td>Metadata </td>
     <td>Implement metadata standards chosen </td>
-    <td>Metadata standards and implementations are outlined in the <a href="bookmark://_Description__1">Description section</a> for born digital materials in this document.  </td>
+    <td style="background-color:  lightgreen">Metadata standards and implementations are outlined in the <a href="https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/description/">Description section</a> for born digital materials in this document.  </td>
   </tr>
   <tr>
     <td>Content </td>
     <td>Perform migrations, normalizations, emulation, and similar activities that ensure content can be accessed </td>
-    <td>Migrations, normalizations, emulations, and similar activities are primarily addressed at the time of scheduled access by a user. Typically, original files are retained to minimize irreversible interventions and support changing standards in providing access to file formats. </td>
+    <td style="background-color:  lightgreen">Migrations, normalizations, emulations, and similar activities are primarily addressed at the time of scheduled access by a user. Typically, original files are retained to minimize irreversible interventions and support changing standards in providing access to file formats. </td>
   </tr>
 </tbody>
 </table>
