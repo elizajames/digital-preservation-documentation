@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Continuity Planning and Roles and Responsibilities
-parent: Digital Preservation Administrations
+parent: Digital Preservation Administration
 nav_order: 5
 ---
 
