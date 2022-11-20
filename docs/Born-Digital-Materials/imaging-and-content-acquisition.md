@@ -137,7 +137,7 @@ If content acquisition for an item is unsuccessful or duplicate media items with
 
     <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image1d.png" alt="How to write protect a floppy disk">
 
-Image from [3.5" Floppy Disks](https://uisapp2.iu.edu/confluence-prd/pages/viewpage.action?pageId=623051010) 
+    <p>Image from <a href="https://uisapp2.iu.edu/confluence-prd/pages/viewpage.action?pageId=623051010">3.5" Floppy Disks</a></p> 
 
 2. Plug in the USB floppy disk drive. Insert the floppy disk into the drive with the label side up and metal bracket first, as seen in the following image.  
 
