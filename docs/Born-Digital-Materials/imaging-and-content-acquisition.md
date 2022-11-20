@@ -332,11 +332,12 @@ Note: The choice of source evidence type depends on context of acquisition, incl
     <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image38.png" alt="Imaging an item using FTK Imager">
 
     <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image3a.png" alt="Imaging an item using FTK Imager">
-
-- .iso or .001 - the disk image file for the item. This is a disk image for a disc rather than a hard drive, so it appears as an .iso. Other items may appear as .001
-- .cue.csv - list of files present in the disk image.  
-- .cue.txt - text file representing the structure of the disk 
-- .cue - used only for CD or DVD items, additional information about the structure of the compact disc 
+    <ul>
+    <li>.iso or .001 - the disk image file for the item. This is a disk image for a disc rather than a hard drive, so it appears as an .iso. Other items may appear as .001</li> 
+    <li>.cue.csv - list of files present in the disk image.</li>   
+    <li>.cue.txt - text file representing the structure of the disk</li>  
+    <li>.cue - used only for CD or DVD items, additional information about the structure of the compact disc</li> 
+    </ul>
 12. Move the files ending in .cue, .cue.csv, and .cue.txt to the identifier_metadata folder on the desktop.  
 
 #### Viewing a Disk Image or Media Item
@@ -376,7 +377,7 @@ Note: The choice of source evidence type depends on context of acquisition, incl
 
     <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image3b.png" alt="Identifying the format of a media item in IsoBuster">
 
-3. If the type of disc indicates CD or CD-DA, only contains audio files (see example audio icon next to “Track 01” below), only contains one session (see example below) and contains no filesystems, follow the instructions for CD-DA. Otherwise, follow the instructions for All Other CD and DVD Formats. 
+3. If the type of disc indicates CD or CD-DA, only contains audio files (see example audio icon next to “Track 01” below), only contains one session (see example below) and contains no filesystems, follow the [instructions for CD-DA](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/imaging-and-content-acquisition/#cd-da). Otherwise, follow the instructions for [All Other CD and DVD Formats](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/imaging-and-content-acquisition/#all-other-cd-and-dvd-formats). 
 
     <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image2b.png" alt="Identifying the format of a media item in IsoBuster">
 
@@ -399,9 +400,6 @@ Note: The choice of source evidence type depends on context of acquisition, incl
 #### Viewing a Disk Image or Media Item
 
 1. Open IsoBuster. If you are viewing a media item, continue to step two. If you are viewing a disk image, click __File -> Open Image File__ and select your image file.
-
-    <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image39.png" alt="Viewing a media item in IsoBuster">
-
 2. If viewing an item directly, in the drop-down menu on top (outlined by the blue box in the image below), select the drive you are using. Once the disc drive is selected, the disc’s directory structure will appear in the left-hand menu. 
     - The red arrow indicates the type of item. You can navigate through the disc structure by clicking on the directories in the left menu. The contents of the active directory (the one you most recently clicked on, marked in orange on the right) will appear on the right. In the below view, the directory “RINEBOLD” (in orange box on left) is active, and the right side displays the contents of that directory. The yellow box contains the file systems present on the disc.  
 
