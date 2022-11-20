@@ -299,8 +299,28 @@ Otherwise, if the content is identical in all file systems in Windows Explorer v
 3. Click __File__ then select __Create Disk Image..__ from the dropdown.  
 4. Select the __Source Evidence Type__. For typical purposes, select __Logical Drive__.  
 
-Note: The choice of source evidence type depends on context of acquisition, including whether environment and file structure matter. 
+<p>Note: The choice of source evidence type depends on context of acquisition, including whether environment and file structure matter.</p>
 
+<table>
+<thead> 
+<td>Source Evidence Type</td>
+<td>Summary</td>
+</thead>
+<tbody>
+<tr>
+<td>Physical Drive</td>
+<td>Captures every sector of the physical media including hidden and deleted files. Requires the most imaging time and storage space.</td>
+</tr>
+<tr>
+<td>Logical Drive</td>
+<td>Acquires image of a single logical volume (e.g. C:\). Does not capture hidden and deleted files.  This is the only available option for optical media.</td>
+</tr>
+<tr>
+<td>Contents of a Folder</td>
+<td>Acquires a logical image of a specific folder’s contents.</td>
+</tr>
+</tbody>
+</table>
 |       __Source Evidence Type__  |                                                                           __Reasoning__                                                                       |
 |-----------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |     Physical Drive          |   Captures every sector of the physical media including hidden and deleted files.  Requires the most imaging time and storage space                       |
