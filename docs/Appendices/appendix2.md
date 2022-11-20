@@ -63,7 +63,7 @@ Digitization Equipment Operation
 - Standards for preservation and access level digitization of various formats of materials.  
 
 ## Imaging and Born Digital Content Acquisition Procedures
-[Imaging and Born Digital Content Acquisition Procedures](https://elizajames.github.io/digital-preservation-documentation/assets/files/ImagingAndBornDigitalContentAcquisitionProcedures.docx) 
+[Imaging and Born Digital Content Acquisition Procedures](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/imaging-and-content-acquisition/)
 - Procedures to image or extract content from digital media items.  
 
 ## Permissions List 

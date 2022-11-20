@@ -581,7 +581,7 @@ Figure 4-1 has been included to demonstrate a simplified visual representation o
 The Ingest functional entity concerns actions related to formally accepting Submission Information Packages (SIPs) and generating Archival Information Packages (AIPs). Broadly, these areas map to the accession, appraisal, processing, and description portions of the born digital archival processing cycle outlined in this manual. Below is a detailed mapping of actions taken to adhere to these OAIS areas.  
 
 - Receive SIPs 
-    - Documented in [Imaging and Born Digital Content Acquisition Procedures](https://elizajames.github.io/digital-preservation-documentation/assets/files/ImagingAndBornDigitalContentAcquisitionProcedures.docx). 
+    - Documented in [Imaging and Born Digital Content Acquisition Procedures](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/imaging-and-content-acquisition/). 
 - Quality assurance on SIPs 
     - _Still establishing documentation for well-formed SIPs; currently SIPs are accepted as a simple file transfer of zipped materials to maintain as much file metadata as possible with minimal donor expertise required._ 
 - Generate compliant AIP 

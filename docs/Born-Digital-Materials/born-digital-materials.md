@@ -39,7 +39,7 @@ Questions to aid in this discussion may be found in the [Digital Materials Donor
 
 Please note that this form is intended primarily for significant born digital material donations in which the donor works extensively to create content in a digital environment. If a donor is intending to donate a few CDs, DVDs, memory cards, floppy disks, or similar material, this form may not be needed. 
 
-Guidance for small transfers of born digital materials via email or OneDrive (or similar service) can be found in the Donor Guidance section of the [Imaging and Born Digital Content Acquisition Procedures](https://elizajames.github.io/digital-preservation-documentation/assets/files/ImagingAndBornDigitalContentAcquisitionProcedures.docx). 
+Guidance for small transfers of born digital materials via email or OneDrive (or similar service) can be found in the Donor Guidance section of the [Imaging and Born Digital Content Acquisition Procedures](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/imaging-and-content-acquisition/). 
 
 ## Preferred File Formats
 

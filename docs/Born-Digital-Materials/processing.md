@@ -46,7 +46,7 @@ If disk imaging was required for an item, you will need to extract a copy of the
 
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_main_manual/image10.png" alt="Comparison of folder containing AIP and folder containing DIP in file explorer">
 
-To extract the content, follow the FTK Imager instructions for Extracting Content from a Disk Image or Media Item in the [Imaging and Born Digital Content Acquisition Procedures document](https://elizajames.github.io/digital-preservation-documentation/assets/files/ImagingAndBornDigitalContentAcquisitionProcedures.docx). Note: any disk images containing Mac file systems, such as Hierarchical File System  Plus (HFS+), Hierarchical File System (HFS), or Macintosh File System (MFS), cannot be extracted this way. Forward the Digital Archivist the identifier for the item containing those file systems.  
+To extract the content, follow the FTK Imager instructions for Extracting Content from a Disk Image or Media Item in the [Imaging and Born Digital Content Acquisition Procedures](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/imaging-and-content-acquisition/). Note: any disk images containing Mac file systems, such as Hierarchical File System  Plus (HFS+), Hierarchical File System (HFS), or Macintosh File System (MFS), cannot be extracted this way. Forward the Digital Archivist the identifier for the item containing those file systems.  
 
 Any processing activities that involve modifying the files in the _DIP in any way must be recorded in the PREMIS Spreadsheet.  
 
