@@ -279,7 +279,7 @@ Otherwise, if the content is identical in all file systems in Windows Explorer v
 3. Connect the two black power cables together and then attach the power cable to the Tableau and then plug the cable into an outlet. 
 4. Power on the Tableau using the power button, which features the following symbol. 
 
-    <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image27.png" alt="Power button symbol">
+    <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image25.png" alt="Power button symbol">
 
 5. The lights on the right side of the forensic bridge will indicate the power, connection to the device and workstation, and indicate that write-blocking is activated.  
 6. The external device will appear in Windows File Manager. 
@@ -303,8 +303,8 @@ Otherwise, if the content is identical in all file systems in Windows Explorer v
 
     <table>
     <thead> 
-    <td>Source Evidence Type</td>
-    <td>Summary</td>
+    <td><b>Source Evidence Type</b></td>
+    <td><b>Summary</b></td>
     </thead>
     <tbody>
     <tr>
