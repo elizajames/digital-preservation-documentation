@@ -321,11 +321,6 @@ Otherwise, if the content is identical in all file systems in Windows Explorer v
 </tr>
 </tbody>
 </table>
-|       __Source Evidence Type__  |                                                                           __Reasoning__                                                                       |
-|-----------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|     Physical Drive          |   Captures every sector of the physical media including hidden and deleted files.  Requires the most imaging time and storage space                       |
-|     Logical Drive           |   Acquires image of a single logical volume (e.g. C:\). Does not capture hidden and deleted files.  This is the only available option for optical media.  |
-|     Contents of a Folder    |   Acquires a logical image of a specific folder’s contents                                                                                                |
 
 5. Select the __Source Drive__ from the dropdown menu. The actual text will vary based on the item being imaged. For instance, a thumb drive may appear as: \\.\PHYSICALDRIVE1 - MUSHKIN MKNUFDVS64GB USB Device, indicating that the item is a 64GB USB drive, or a floppy disk might simply appear as A:\ Click __Finish__.  
 6. In the __Image Destination(s)__ window, click __Add...__ Select __Raw (dd)__ as the __Destination Image Type__. Click __Next__.  
