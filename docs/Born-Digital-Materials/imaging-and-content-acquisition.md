@@ -227,7 +227,7 @@ Currently, SATA (2.5 and 3.5 inch) and IDE (2.5 and 3.5 inch) connections are su
 
     <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image37.png" alt="Diagram of connecting internal hard drive to internal hard drive adapter">
 
-_Illustration taken from documentation for the adapter demonstrating the connection configurations for IDE and SATA drives._
+    <i>Illustration taken from documentation for the adapter demonstrating the connection configurations for IDE and SATA drives.</i>
 
 4. Create two folders on the desktop using the media item’s identifier identified in the digital media inventory: identifier_content and identifier_metadata. The word “identifier” should be the identifier for the item, not the word identifier.  Example: 2828_disc_1_content 
 5. Use the [FTK Imager instructions](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/imaging-and-content-acquisition/#imaging-an-item) to image the drive. 
