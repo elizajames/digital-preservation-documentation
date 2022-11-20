@@ -333,7 +333,7 @@ Otherwise, if the content is identical in all file systems in Windows Explorer v
 8. FTK Imager will now ask you for information about where to save the resulting disk image and metadata files. Enter the following and then select __Finish__:  
     - Image destination folder: Select the identifier_content folder on the desktop.  
     - Image filename: Enter the item's identifier. 
-9. Double-check to make sure that the Image Destination and settings appear correct. Click Start to begin the disk imaging process. 
+9. Double-check to make sure that the Image Destination and settings appear correct. Click __Start__ to begin the disk imaging process. 
     - These options will be checked by default when acquiring a logical image. You don’t need to change anything:  
         - Verify images after they are created  
         - Precalculate Progress Statistics  
