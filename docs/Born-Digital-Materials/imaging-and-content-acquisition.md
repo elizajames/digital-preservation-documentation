@@ -162,7 +162,7 @@ If content was retrievable:
     - brunnhilde.py -b -z --ssn_mode=2 [input directory] [output directory] 
     - Example: brunnhilde.py -b -z --ssn_mode=2 C:\Working Files\2828_disc_1_content C:\Working Files\2828_disc_1_metadata 
     - __Note:__ if an item is flagged as a virus by ClamAV (visible on the command line output), contact the Digital Archivist with the identifier for the item and immediately delete all content on the desktop and empty the Recycling Bin. Update the PREMIS spreadsheet in the Administrative folder within the folder for the collection or accession to include the event of Quarantine (if necessary) for the item. Do not continue to any additional steps. 
-2. Move the identifier_content folder to the Content folder for the collection or accession and the identifier_metadata folder to the Metadata folder within the Administration folder within the accession or collection folder using the TeraCopy instructions. Remove _content and _metadata from the folder names. 
+2. Move the identifier_content folder to the Content folder for the collection or accession and the identifier_metadata folder to the Metadata folder within the Administration folder within the accession or collection folder using the [TeraCopy instructions](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/imaging-and-content-acquisition/#teracopy). Remove _content and _metadata from the folder names. 
 3. Update the PREMIS spreadsheet in the Administrative folder within the folder for the collection or accession to include the events for Brunnhilde report, Imaging, and/or Quarantine (if necessary) for the item. 
 
 If content was unretrievable: 
