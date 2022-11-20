@@ -299,28 +299,28 @@ Otherwise, if the content is identical in all file systems in Windows Explorer v
 3. Click __File__ then select __Create Disk Image..__ from the dropdown.  
 4. Select the __Source Evidence Type__. For typical purposes, select __Logical Drive__.  
 
-<p>Note: The choice of source evidence type depends on context of acquisition, including whether environment and file structure matter.</p>
+    <p>Note: The choice of source evidence type depends on context of acquisition, including whether environment and file structure matter.</p>
 
-<table>
-<thead> 
-<td>Source Evidence Type</td>
-<td>Summary</td>
-</thead>
-<tbody>
-<tr>
-<td>Physical Drive</td>
-<td>Captures every sector of the physical media including hidden and deleted files. Requires the most imaging time and storage space.</td>
-</tr>
-<tr>
-<td>Logical Drive</td>
-<td>Acquires image of a single logical volume (e.g. C:\). Does not capture hidden and deleted files.  This is the only available option for optical media.</td>
-</tr>
-<tr>
-<td>Contents of a Folder</td>
-<td>Acquires a logical image of a specific folder’s contents.</td>
-</tr>
-</tbody>
-</table>
+    <table>
+    <thead> 
+    <td>Source Evidence Type</td>
+    <td>Summary</td>
+    </thead>
+    <tbody>
+    <tr>
+    <td>Physical Drive</td>
+    <td>Captures every sector of the physical media including hidden and deleted files. Requires the most imaging time and storage space.</td>
+    </tr>
+    <tr>
+    <td>Logical Drive</td>
+    <td>Acquires image of a single logical volume (e.g. C:\). Does not capture hidden and deleted files.  This is the only available option for optical media.</td>
+    </tr>
+    <tr>
+    <td>Contents of a Folder</td>
+    <td>Acquires a logical image of a specific folder’s contents.</td>
+    </tr>
+    </tbody>
+    </table>
 
 5. Select the __Source Drive__ from the dropdown menu. The actual text will vary based on the item being imaged. For instance, a thumb drive may appear as: \\.\PHYSICALDRIVE1 - MUSHKIN MKNUFDVS64GB USB Device, indicating that the item is a 64GB USB drive, or a floppy disk might simply appear as A:\ Click __Finish__.  
 6. In the __Image Destination(s)__ window, click __Add...__ Select __Raw (dd)__ as the __Destination Image Type__. Click __Next__.  
