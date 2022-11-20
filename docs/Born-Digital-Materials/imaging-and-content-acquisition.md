@@ -70,7 +70,7 @@ __Apple Users__
     - brunnhilde.py -b -z --ssn_mode=2 [input directory, or content folder for item] [output directory, or File Metadata folder for item]  
     - Example: brunnhilde.py -b -z --ssn_mode=2 C:\Working Files\2828_disc_1_content C:\Working Files\2828_disc_1_metadata 
     - __Note:__ if an item is flagged as a virus by ClamAV (visible on the command line output), contact the Digital Archivist with the identifier for the item and immediately delete all content on the desktop and empty the Recycling Bin. Update the PREMIS spreadsheet in the Administrative folder within the folder for the collection or accession to include the event of Quarantine (if necessary) for the item. Do not continue to any additional steps.  
-6. Move the identifier_content folder to the Content folder for the collection or accession and the identifier_metadata folder to the Metadata folder within the Administration folder within the accession or collection folder using the TeraCopy instructions. Remove _content and _metadata from the folder names. 
+6. Move the identifier_content folder to the Content folder for the collection or accession and the identifier_metadata folder to the Metadata folder within the Administration folder within the accession or collection folder using the [TeraCopy instructions](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/imaging-and-content-acquisition/#teracopy). Remove _content and _metadata from the folder names. 
 7. Update the PREMIS spreadsheet in the Administrative folder within the folder for the collection or accession to include the events for Brunnhilde report, Replication, and/or Quarantine (if necessary) for the item.  
 
 ### CDs and DVDs
@@ -83,9 +83,9 @@ If content acquisition for an item is unsuccessful or duplicate media items with
 
 #### CD-DA
 
-|       __Software__  |     Exact Audio Copy, Teracopy, Brunnhilde  |
+|       Software  |    Hardware   |
 |-----------------|:-------------------------------------------:|
-|     __Hardware__    |   External CD/DVD drive, internal CD/DVD drive                     |
+|     Exact Audio Copy, Teracopy, Brunnhilde    |   External CD/DVD drive, internal CD/DVD drive                     |
 
 1. Insert the disc into the external USB CD/DVD drive. 
 2. Create two folders on the desktop using the media item’s identifier identified in the digital media inventory: identifier_content and identifier_metadata. The word “identifier” should be the identifier for the item, not the word identifier.  Example: 2828_disc_1_content 
@@ -99,9 +99,10 @@ If content acquisition for an item is unsuccessful or duplicate media items with
 
 #### All Other CD and DVD Formats
 
-|       __Software__  |     Teracopy, optionally FTK Imager, Brunnhilde, IsoBuster   |
+
+|       Software  |    Hardware   |
 |-----------------|:-------------------------------------------:|
-|     __Hardware__    |   External CD/DVD drive, internal CD/DVD drive                     |
+|     Teracopy, optionally FTK Imager, Brunnhilde, IsoBuster    |   External CD/DVD drive, internal CD/DVD drive                     |
 
 1. Insert the disc into the external USB CD/DVD drive.  
 2. Create two folders on the desktop using the media item’s identifier identified in the digital media inventory: identifier_content and identifier_metadata. The word “identifier” should be the identifier for the item, not the word identifier.  Example: 2828_disc_1_content  
@@ -128,9 +129,9 @@ Floppy disks are a notoriously temperamental format. Exploration of other hardwa
 
 If content acquisition for an item is unsuccessful or duplicate media items within a single collection are present, forward the identifiers for these materials to the Digital Archivist. 
 
-|       __Software__  |     FTK Imager, IsoBuster, Brunnhilde, TeraCopy    |
+|       Software  |    Hardware   |
 |-----------------|:-------------------------------------------:|
-|     __Hardware__    |   USB floppy drive, Mitsubi legacy drive                     |
+|     FTK Imager, IsoBuster, Brunnhilde, TeraCopy    |   USB floppy drive, Mitsubi legacy drive                     |
 
 1. Write protect the floppy disk by sliding the tab to uncover the hole on the corner of the floppy disk opposite the shutter. An example of the write protected position can be seen in the top left zoomed in image below.  
 
@@ -188,9 +189,9 @@ __Note:__ Some thumb and hard drives may be too large to simply save to the desk
 
 #### Thumb Drives and External Hard Drives
 
-|       __Software__  |     FTK Imager, IsoBuster, Brunnhilde, TeraCopy    |
+|       Software  |    Hardware   |
 |-----------------|:-------------------------------------------:|
-|     __Hardware__    |   Tableau Forensic USB 3.0 Bridge                      |
+|     FTK Imager, IsoBuster, Brunnhilde, TeraCopy    |   Tableau Forensic USB 3.0 Bridge                     |
 
 1. Follow the [Tableau instructions](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/imaging-and-content-acquisition/#tableau-forensic-bridge) to plug in the drive for the item. 
 2. Check that there is sufficient space to process the content using the instructions in the beginning of the [Thumb drives, internal hard drives, external hard drives, and memory cards section](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/imaging-and-content-acquisition/#thumb-drives-internal-hard-drives-external-hard-drives-and-memory-cards). 
@@ -216,9 +217,9 @@ Otherwise, if the content is identical in all file systems in Windows Explorer v
 
 Currently, SATA (2.5 and 3.5 inch) and IDE (2.5 and 3.5 inch) connections are supported for internal hard drives.
 
-|       __Software__  |     FTK Imager, IsoBuster, Brunnhilde, TeraCopy    |
+|       Software  |    Hardware   |
 |-----------------|:-------------------------------------------:|
-|     __Hardware__    |   Tableau Forensic USB 3.0 Bridge, SATA and IDE adapter                      |
+|     FTK Imager, IsoBuster, Brunnhilde, TeraCopy    |   Tableau Forensic USB 3.0 Bridge, SATA and IDE adapter                     |
 
 1. Follow the [Tableau instructions](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/imaging-and-content-acquisition/#tableau-forensic-bridge) to plug in the drive for the item.  
 2. Check that there is sufficient space to process the content using the instructions in the beginning of the [Thumb drives, internal hard drives, external hard drives, and memory cards section](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/imaging-and-content-acquisition/#thumb-drives-internal-hard-drives-external-hard-drives-and-memory-cards).  
@@ -244,9 +245,9 @@ There are many types of memory cards and each requires a different type of card 
 
 If content acquisition for an item is unsuccessful or duplicate media items within a single collection are present, forward the identifiers for these materials to the Digital Archivist. 
 
-|       __Software__  |     FTK Imager, IsoBuster, Brunnhilde, TeraCopy    |
+|       Software  |    Hardware   |
 |-----------------|:-------------------------------------------:|
-|     __Hardware__    |   Tableau Forensic USB 3.0 Bridge, all-in-one memory card readers                      |
+|     FTK Imager, IsoBuster, Brunnhilde, TeraCopy    |   Tableau Forensic USB 3.0 Bridge, all-in-one memory card readers                     |
 
 1. Follow the [Tableau instructions](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/imaging-and-content-acquisition/#tableau-forensic-bridge) to plug in the drive for the item. 
 2. Check that there is sufficient space to process the content using the instructions in the beginning of the [Thumb drives, internal hard drives, external hard drives, and memory cards](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/imaging-and-content-acquisition/#thumb-drives-internal-hard-drives-external-hard-drives-and-memory-cards) section. 
