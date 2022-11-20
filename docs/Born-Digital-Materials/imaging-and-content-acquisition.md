@@ -478,7 +478,7 @@ _These instructions are applicable to TeraCopy 3.9.2._
 
     <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image33.png" alt="Using Teracopy to copy files">
 
-_The graphic above is a screenshot of TeraCopy. Each number in red corresponds to the steps outlined above and represents a button/area to check or click for steps 3-6. For instance, a red 3 means that the area should be checked/clicked in step 3._
+    _The graphic above is a screenshot of TeraCopy. Each number in red corresponds to the steps outlined above and represents a button/area to check or click for steps 3-6. For instance, a red 3 means that the area should be checked/clicked in step 3._
 
 7. Click the “Verify” button to verify the copying process was completed accurately. Click on the Log tab to double check that no errors occurred. 
 8. After transfer and verification is complete return to the File List tab and click on “Menu” and “Print/export…” and export a CSV file. The CSV File will be in the User/Documents/Teracopy/Reports folder with the file name as the date and time of transfer. Change the CSV file name to A&MNumber_YYYY-MM-DD_Log.csv and move the CSV to the logs folder within the administration folder of the folder for the collection on the Z: drive. 
@@ -496,6 +496,7 @@ _Steps 7 and 8 are marked above in red._
 #### Tree
 
 _Section in progress, baseline documentation below:_
+
 tree /a [input directory] > [output.txt or output.csv file]. An optional flag of /f may be used after /a (be sure to include a space between) to list all files if desired.  
 
 #### Brunnhilde
