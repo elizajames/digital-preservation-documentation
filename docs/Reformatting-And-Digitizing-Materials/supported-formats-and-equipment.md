@@ -3,7 +3,11 @@ layout: default
 title: Supported Formats and Equipment
 parent: Reformatting and Digitizing Materials
 nav_order: 1
+has_children: true
 ---
+
+
+
 
 # Supported Formats and Equipment
 
