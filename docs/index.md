@@ -9,7 +9,7 @@ permalink: /
 # West Virginia and Regional History Center Documentation
 ## For all things digital and audiovisual at the WVRHC.
 
-This site seeks to outline procedures, principles, and standards used for accessioning, appraising, accessioning, ingesting, processing, describing, stewarding, preserving, digitizing, and making accessible, digitized and born digital special collections and archival materials at the West Virginia and Regional History Center. It is used as a manual by various WVRHC employees and was first completed in October 2022 by Elizabeth James, Digital Archivist at the WVRHC, and added to Github in November 2022. 
+This site outlines procedures, principles, and standards used for accessioning, appraising, accessioning, ingesting, processing, describing, stewarding, preserving, digitizing, and making accessible, digitized and born digital special collections and archival materials at the West Virginia and Regional History Center. It is used as a manual by various WVRHC employees and was first completed in October 2022 by Elizabeth James, Digital Archivist at the WVRHC, and added to Github in November 2022. 
 
 ### Documentation Principles
 Digital archives work is done through a series of decisions and actions, made by humans over time and guided by principles, that coalesce into an approach for stewarding these formats and types and materials. Digital archives work emphasizes:  
