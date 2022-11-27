@@ -10,3 +10,5 @@ nav_order: 8
 # Maintenance
 
 Coming soon!
+
+Refer to https://bavc.github.io/bavc-resources/docs/Services/cleaningDecks.html for cleaning decks, cleaning tapes, and larger workflow considerations

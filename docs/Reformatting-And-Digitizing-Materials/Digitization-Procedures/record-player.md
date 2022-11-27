@@ -10,3 +10,5 @@ nav_order: 7
 # Record Player
 
 Coming soon!
+
+Refer to https://paradisec-archive.github.io/PARADISEC_workflows/10_quality_control.html for QC

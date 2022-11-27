@@ -11,3 +11,4 @@ nav_order: 4
 
 Coming soon!
 
+Refer to https://paradisec-archive.github.io/PARADISEC_workflows/10_quality_control.html for QC
