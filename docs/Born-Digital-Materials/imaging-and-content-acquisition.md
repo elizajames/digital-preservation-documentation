@@ -35,7 +35,7 @@ The following workflows outlines two transfer methods: Ideal and Acceptable.
 
 This section outlines an ideal workflow for donors with moderate technical expertise who are donating highly valuable content. 
 
-_A workflow using Exactly is in-progress_
+_A workflow using Bagger is in-progress_
 
 ##### Acceptable Workflow
 
@@ -449,33 +449,33 @@ _This section is in progress and will incorporate usage of HFS Explorer to addre
 1. Open Exact Audio Copy. 
 2. Confirm __Secure Mode__ by selecting __EAC__ and then __Drive Options__ from the dropdown. Secure mode must be confirmed at the beginning of each imaging session but does not need to be confirmed between discs. 
 
-    <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image2c.png" alt="Using Exactly to extract files">
+    <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image2c.png" alt="Using Exact Audio Copy to extract files">
 
 3. A warning may appear notifying you that secure mode options depend on your CD-ROM drive. Select __OK__ and proceed.  
 4. Select __Detect Read Features…__ A window will appear and detect CD-ROM drive features.  Once the analysis is complete select __Apply__ at the bottom of the window (see screenshot below). Select __OK__ if necessary.  
 
-    <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image2d.png" alt="Using Exactly to extract files">
+    <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image2d.png" alt="Using Exact Audio Copy to extract files">
 
 5. In the drop-down menu at the top of the program (outlined in red below), select the drive you are using. This is usually D: but can be another drive if you are using an external disc drive.  
 
-    <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image2e.png" alt="Using Exactly to extract files">
+    <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image2e.png" alt="Using Exact Audio Copy to extract files">
 
 6. Fill in __CD Title__ (seen below) with the item’s identifier. Delete the content from __CD Artist__. 
 
-    <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image2f.png" alt="Using Exactly to extract files">
+    <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image2f.png" alt="Using Exact Audio Copy to extract files">
 
 7. Click on the __Action__ menu and select __Detect Gaps__. Once detected, Exact Audio Copy should preserve these gaps; make sure “Append gaps to previous track” is checked to enable this (in red). The gaps may represent important timing information in art performances. 
 
-    <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image30.png" alt="Using Exactly to extract files">
+    <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image30.png" alt="Using Exact Audio Copy to extract files">
 
 8. On the left side menu, select the __Copy Image and Cue Sheet__ icon (seen below) and navigate to the identifier_content folder for storing content.  
 
-    <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image31.png" alt="Using Exactly to extract files">
+    <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image31.png" alt="Using Exact Audio Copy to extract files">
 
 9. Once copying is complete, select __OK__. 
 10. A dialog box will appear with __Status and Error Messages__. Select __Create Log__ at the bottom.  Save the log file with item’s identifier in the identifier_metadata folder for the item. 
 
-    <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image32.png" alt="Using Exactly to extract files">
+    <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/image32.png" alt="Using Exact Audio Copy to extract files">
 
 ### Teracopy
 
@@ -522,8 +522,7 @@ Create file manifest by opening the command prompt and run:
 
 Sf -csv [path to media] > [path to Metadata folder]\[CUID].csv 
 
-### Exactly
+### Bagger
 
 _Section in progress, evaluating:_
-- https://www.weareavp.com/wp-content/uploads/2018/06/Exactly-User-Guide_v.0.1.5.pdf 
 - https://archives.ncdcr.gov/government/digital-records/north-carolina-digital-repository/bagger-gui-user-guide
