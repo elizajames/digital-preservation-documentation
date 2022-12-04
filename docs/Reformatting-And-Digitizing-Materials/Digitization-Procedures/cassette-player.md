@@ -120,6 +120,3 @@ Once pressed, the tape deck will open. Insert the cassette tape with the open, m
 - If you are uploading to a cloud location, such as OneDrive, save to the desktop and then upload to the cloud location of your choice. Once you have verified the file is uploaded, be sure to delete the file from the desktop.  
 - If there is content on Side B/Side 2 of the tape, __Eject__ the tape, flip it to where Side B/Side 2 is facing you, insert it into the cassette deck, and repeat the capture and saving process. Sometimes there is no content on Side B/Side 2. To determine if there is content, play the first few minutes of the tape to listen for audio, fast forwarding to different parts of the tape and momentarily listening for audio if necessary.  
 - Once all portions of the tape have been captured, rewind the tape on Side A/Side 1 (instructions can be found in step 4 under __Physical setup__ above) and __Eject__ the tape. Remove the red and white cables from the front of the __Roland sound interface__ (being sure to leave the adapters plugged into the interface) and clip them on the wall where they were originally placed. 
-
-
-
