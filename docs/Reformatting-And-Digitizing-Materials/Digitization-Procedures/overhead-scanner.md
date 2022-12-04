@@ -80,18 +80,43 @@ the machine.
 
 ### Retrieval Option B: Image Treatment and Exporting
 
-Opus Freeflow offers in-program image editing such as __thumb removal__, __skew adjustments__, and __content clipping__. Specifics on each are below, as taken from the official manual.
+*__Note__: depending on the number of files and file size, this process can take quite some time to export. If you are on a tight time constraint, we recommend using Option A: Active Object Hive option above.*
 
-__Content location__
-Using the Content Location function will help the user to include or exclude portions of the image(s) in the content to be preserved. 
+Opus Freeflow offers in-program image editing such as __thumb removal__, __skew adjustments__, and __content clipping__. Specifics on each are below, as taken from the official manual. A number is below each icon. Use that number to refer to the relevant functionality in the following section.
 
-Click the ![Deskew and content selection](https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/OpusFreeFlowIcon1.png) icon and pages will appear with two boxes on them, one for the left page and one for the right page.
+![OpusFree Flow Image Treatment Icons](https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/OpusFreeFlowIcon1.png)
+
+__1. Content Location and Deskew__
+Using the Content Location and Deskew function will help the user to include or exclude portions of the image(s) in the content to be preserved. 
+
+Click the Content Location and Deskew icon (labeled as 1 in the image at the beginning of this section) and pages will appear with two boxes on them, one for the left page and one for the right page.
 
 It is important to note that by changing the clip size on one image, all the clips will be set to the same size throughout the object if they are set to be dependent.
 
 To apply the changes, click Perform IT on Current Image or All the Images. The results are displayed in the Export tab for review. To delete a clip, right click anywhere inside the clip. To create a clip, click and drag on the image where the clip is going to be placed. If the image is dependent and the user needs to create a clip, click on the image where the upper-left corner of the clip should be placed and a clip of the predetermined size will be displayed.
 
-__Skew__
-Click the icon. Skewed white boxes for the left and right pages will appear with four horizontal green lines each and Move Points at the ends of each line. Move the cursor over one of the Move Points. When it becomes a double arrow , hold down the left mouse key and move up to deskew the page clockwise and down to deskew the page counterclockwise.
+__2. Curvature Correction__
 
-Please Note: When deskewing pages, line up the green lines with lines of text or with the bottom or top of an image. This will act as a grid to aid in correctly deskewing the page.
+Click the Curvature Correction icon (labelled as 2 in the image at the beginning of this section). A blue line with multiple Move Points will appear on the top and bottom of the page where Opus finds book curvature. Move the cursor between two move points until a double arrow appears. Hold down the left mouse button and drag the line to the top or bottom where the user sees the biggest curve on the book.
+
+Position the curve along the text or content on the page. Move the cursor over the move points. When a four-arrow cursor appears, create an underline to the curve by dragging the points to the bottom of the line following the curve of the book. Right clicking on a move point will delete it, while right clicking on an empty area on the line will add a move point.
+
+__3. Finger Removal__
+
+Click the Finger Removal icon (labelled as 3 in the image at the beginning of this section). A yellow box with eight Move Points will be placed over fingers that have been found by Automatic Image Treatment. If one of these yellow boxes needs to be modified, Mouse over a Move Point until it becomes one of the two double arrows and resize it, leaving about 0.5 inches between the box and the content on the page. This enables the software to ‘fill in’ the newly removed area with surrounding background.
+
+If the user needs to delete a yellow box, right click on it. To create a yellow box, click and drag anywhere inside the clip. To move the yellow box, hover the mouse over it and when the cursor turns into click and drag the box to position it in the correct place.
+
+#### Exporting
+
+Once you've completed your image treatment, navigate to the __Export__ tab to save your files. Selecting "Export Images" will open a Derivative Settings window. 
+
+<img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/WL-DigitizingBooksandOversizedFlatItems-271122-0153-10_Page_5_Image_0001.jpg" alt="Exporting edited images view">
+
+Select your preferred file format using the checkmark boxes on the far left (more than one can be selected if desired).
+
+Selecting "Choose Base Output Directory" will allow you to choose the file destination. "Name Builder" in the top left will allow you to set up a naming scheme for the files.
+
+Once satisfied, click "OK" at the bottom to begin the exporting process.
+
+__Note__: The page not updating does not necessarily mean it is frozen. Transforming these images simply takes time.
