@@ -72,7 +72,6 @@ Once pressed, the tape deck will open. Insert the cassette tape with the open, m
 | Sampling Frequency  | 96 kHz                               | 48 kHz                               |
 | Bit Depth/Rate      | 24-bit                               | 24-bit                               |
 | Audio Channel       | Stereo                               | Stereo                               |
-
 2. With the settings you have identified in mind, open __Audacity__ by clicking the shortcut on the desktop. Select the button for __Edit__ on the toolbar, then select __Preferences__. Click __Quality__ on the left toolbar of the __Preferences__ settings box (see below) that appears. Use the dropdowns for __Default Sample Rate__ (aka Sampling Frequency) and __Default Sample Format__ (aka Bit Depth/Rate) to select the relevant settings for your project.  
 
 ![Preferences Quality screen](https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/WL-DigitizingCassetteTapes-271122-0153-14_Page_4_Image_0001.jpg)
