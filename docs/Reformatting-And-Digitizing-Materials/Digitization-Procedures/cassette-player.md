@@ -55,6 +55,7 @@ Because of the age and fragility of the format, it is important to inspect the i
 ![Plugged in cables for OctaCapture](https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/WL-DigitizingCassetteTapes-271122-0153-14_Page_2_Image_0001.jpg)
 3. Before inserting the tape into the player, look at your tape to determine if it needs to be rewound. You will know you need to rewind the tape if, with Side A or Side 1 of the tape facing you, there is brown or black opaque, non-transparent tape on the right reel inside the cassette tape. All tape needs to be on the left reel so that you may start from the beginning without missing audio. You can rewind your tape by following the instructions in step 4. 
 4. Press __Eject__.
+
 ![Eject button](https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/WL-DigitizingCassetteTapes-271122-0153-14_Page_2_Image_0002.jpg)
 Once pressed, the tape deck will open. Insert the cassette tape with the open, magnetic tape side down. To start on Side 1 or Side A, insert the tape with Side 1 or Side A facing you.  
 ![Orientation of cassette for insertion](https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/WL-DigitizingCassetteTapes-271122-0153-14_Page_3_Image_0001.jpg)
