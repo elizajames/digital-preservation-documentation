@@ -65,7 +65,7 @@ Because of the age and fragility of the format, it is important to inspect the i
     - __If obvious signs of binder degradation are present (such as flaky debris and squealing while playing the tape), the tape should not be played or should be immediately stopped, and you should reach out to digitizationlab@mail.wvu.edu to determine next steps.__
 
 ### Physical Setup
-- If you determined that you have a VHS-C tape in the Identification and introduction section, insert the tape into the adapter found on top of the VHS player. Instructions for using the adapter are on the adapter. 
+- If you determined that you have a VHS-C tape in the __Identification and Introduction__ section, insert the tape into the adapter found on top of the VHS player. Instructions for using the adapter are on the adapter. 
 - Verify that the VHS Player is plugged in to the surge protector below the desk. The cord is labeled as __VHS Player__. Turn on the VHS player by pressing the power button on the upper left portion of the device. 
 - Determine if you need to rewind the tape. If you are looking at the clear windows on the top of the tape, all black tape should be on the left spool. If some is on the right, press and hold __Rewind__. Depending on where the tape was stopped, this may take a moment. Rewinding will stop automatically.
 
@@ -75,7 +75,7 @@ Because of the age and fragility of the format, it is important to inspect the i
 
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/WL-DigitizingVHSandVHS-CTapes-271122-0154-20_Page_3_Image_0002.jpg" alt="VHS orientation">
 
-- Connect the yellow, white, and red cables on the Elgato capture device to the complementary yellow, white, and red VHS cables (as seen below). These cables are hanging on the cubicle wall and will be labeled with VHS Player. Plug in the USB on the Elgato to the computer if it is not already plugged in. 
+- Connect the yellow, white, and red cables on the __Elgato capture device__ to the complementary yellow, white, and red VHS cables (as seen below). These cables are hanging on the cubicle wall and will be labeled with __VHS Player__. Plug in the USB on the __Elgato__ to the computer if it is not already plugged in. 
 
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/WL-DigitizingVHSandVHS-CTapes-271122-0154-20_Page_3_Image_0002.jpg" alt="VHS orientation">
 
@@ -95,14 +95,13 @@ Because of the age and fragility of the format, it is important to inspect the i
 
 - The VHS digitization setup in the Lab can only capture at one quality. This quality is roughly equivalent to, but slightly better than, the access quality standard for VHS and VHS-C tapes outlined in the [Digitization Standards Document](https://elizajames.github.io/digital-preservation-documentation/docs/Appendices/appendix2/#digitization-standards-document). The exact settings for an item digitized at this quality, taken from an item digitized in the Lab, can be seen below. 
 
-| File Type           | .MPEG-4 (.MP4)             |
-|---------------------|----------------------------|
-| Video Codec         | H.264/AVC                  |
-| Frame Size          | 640x480                    |
-| Frame Rate          | 29.97fps                   |
-| Color Space         | YUV420p                    |
-| Chroma Subsampling  | 4:2:0                      |
-| Audio Rate          | 48kHz, 221kbs, 2 channels  |
+| __File Type__           | .MPEG-4 (.MP4)             |
+| __Video Codec__         | H.264/AVC                  |
+| __Frame Size__          | 640x480                    |
+| __Frame Rate__          | 29.97fps                   |
+| __Color Space__         | YUV420p                    |
+| __Chroma Subsampling__  | 4:2:0                      |
+| __Audio Rate__          | 48kHz, 221kbs, 2 channels  |
 
 ### Capture and Save Your Video
 

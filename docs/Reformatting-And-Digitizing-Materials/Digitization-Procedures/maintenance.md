@@ -56,7 +56,7 @@ Core programs installed, used in documentation, and added to the desktop include
 
 Additional links added to the desktop include: 
 
-- Equipment Procedures (linked here)
+- Equipment Procedures (seen on this site)
 - Report an Issue (internal use in Digitization Lab only)
 
 Maintenance needs may include: 

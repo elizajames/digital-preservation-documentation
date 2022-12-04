@@ -42,7 +42,9 @@ Because of the age and fragility of the format, it is important to inspect the i
         - Audio content is encoded on a magnetic tape layer sitting on top of the base tape layer, meaning that any flaking of the top layer results in a loss of content or quality. Be sure to monitor these tapes closely while conducting digitization and reach out to digitizationlab@mail.wvu.edu once digitization is complete or any issues are encountered so that the tape heads may be cleaned. 
     - Cassette tape is damaged 
         - Damage may include a cracked shell, cracked or missing cassette window, and a detached, off center, loose, or missing pressure pad (seen below, view from bottom of cassette tape)
-        ![Lower view of cassette](https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/WL-DigitizingCassetteTapes-271122-0153-14_Page_1_Image_0002.jpg)   
+
+        ![Lower view of cassette](https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/WL-DigitizingCassetteTapes-271122-0153-14_Page_1_Image_0002.jpg) 
+          
         - All of the above factors may result in a loss of content or tape quality unless the cassette tape case or pressure pad are replaced. The Digitization Lab does not have supplies immediately available to fix this issue, however, please reach out to digitizationlab@mail.wvu.edu so that the Lab can source materials and create procedures for this work in the future. If you choose to move forward with digitization, be sure to monitor these tapes closely while conducting digitization. 
 - Reel of tape inside casing is broken, torn, or wound inconsistently or incorrectly 
     - Incorrect or inconsistently wound tape can be corrected by [manually rewinding tape](https://www.youtube.com/watch?v=VtLpc_71vtA).  
