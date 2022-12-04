@@ -46,12 +46,12 @@ In the window that opens, name your project. Keep note of the ID number as it wi
 Go to the __Full Settings__ tab. Click the __Setup__ button to access the project's scan settings.
 
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/
-WL-DigitizingBooksandOversizedFlatItems-271122-0153-10_Page_2_Image_0002.jpg" alt="OpusFreeflow settings screen">
+WL-DigitizingBooksandOversizedFlatItems-271122-0153-10_Page_2_Image_0002.jpg"  alt="OpusFreeflow settings screen">
 
 Most settings can be left as-is. The most important setting is setting __Document Mode__ to __Flat__ if the object is flat. If digitizing a book or other item that uses the cradle, set to __Book__ or __V-Mode__.
 
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/
-WL-DigitizingBooksandOversizedFlatItems-271122-0153-10_Page_3_Image_0001.jpg" alt="OpusFreeflow settings screen">
+WL-DigitizingBooksandOversizedFlatItems-271122-0153-10_Page_3_Image_0001.jpg"  alt="OpusFreeflow settings screen">
 
 ### Scanning
 
