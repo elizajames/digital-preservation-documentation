@@ -69,13 +69,13 @@ Once pressed, the tape deck will open. Insert the cassette tape with the open, m
 ### Selecting the Settings
 - The settings chosen for digitization are based on whether digitization will be conducted at preservation or access quality. Preservation quality files are chosen when conducting digitization of materials for long-term retention and preservation and should be chosen when working with unique archival materials. The settings can be found under “Cassettes” in the [Digitization Standards Document](https://elizajames.github.io/digital-preservation-documentation/docs/Appendices/appendix2/#digitization-standards-document) and summarized here:
 
-|                     | Preservation Settings                | Access Settings                      |
+|                     | __Preservation Settings__                | __Access Settings__                      |
 |---------------------|--------------------------------------|--------------------------------------|
-| File Type           | .WAV                                 | .MP3                                 |
-| Encoding            | LPCM (Linear Pulse Code Modulation)  | LPCM (Linear Pulse Code Modulation)  |
-| Sampling Frequency  | 96 kHz                               | 48 kHz                               |
-| Bit Depth/Rate      | 24-bit                               | 24-bit                               |
-| Audio Channel       | Stereo                               | Stereo                               |
+| __File Type__           | .WAV                                 | .MP3                                 |
+| __Encoding__            | LPCM (Linear Pulse Code Modulation)  | LPCM (Linear Pulse Code Modulation)  |
+| __Sampling Frequency__  | 96 kHz                               | 48 kHz                               |
+| __Bit Depth/Rate__      | 24-bit                               | 24-bit                               |
+| __Audio Channel__       | Stereo                               | Stereo                               |
 
 - With the settings you have identified in mind, open __Audacity__ by clicking the shortcut on the desktop. Select the button for __Edit__ on the toolbar, then select __Preferences__. Click __Quality__ on the left toolbar of the __Preferences__ settings box (see below) that appears. Use the dropdowns for __Default Sample Rate__ (aka Sampling Frequency) and __Default Sample Format__ (aka Bit Depth/Rate) to select the relevant settings for your project.  
 
