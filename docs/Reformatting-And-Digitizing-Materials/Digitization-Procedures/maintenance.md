@@ -40,7 +40,7 @@ VHS tapes may need to be rehoused due to preservation concerns identified in the
 
 ## Turntable
 
-Follow the instructions in the turntable operating manual for information regarding stylus/needle replacement and calibrating the tone arm.
+Follow the instructions in the [turntable operating manual](https://elizajames.github.io/digital-preservation-documentation/assets/files/technic.pdf) for information regarding stylus/needle replacement and calibrating the tone arm.
 
 ## Computers
 
@@ -48,8 +48,60 @@ Follow the instructions in the turntable operating manual for information regard
 
 #### Main Computer
 
+Core programs installed, used in documentation, and added to the desktop include: 
+
+- [Epson Scan](https://epson.com/Support/Scanners/Expression-Series/Epson-Expression-10000XL---Photo/s/SPT_E10000XL-PH)
+- [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm)
+- [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/)
+
+Additional links added to the desktop include: 
+
+- Equipment Procedures (linked here)
+- Report an Issue (internal use in Digitization Lab only)
+
+Maintenance needs may include: 
+
+- Updating the core programs above is support for current versions is outdated. - Update any documentation for equipment that use the software if the software has changed substantially.
+- Deleting stray files periodically if necessary.
+
 #### Bookeye Computer
 
+Core programs installed and used in documentation include: 
+
+- [OpusFreeFlow](https://www.dlsg.com/opus-freeflow)
+
+Additional links added to the desktop include: 
+
+- A downloaded Word version of the equipment operations
+
+Maintenance needs may include: 
+
+- Deleting stray files periodically and emptying the recycling bin if necessary. This is especially a concern for the Bookeye computer where files are output to a static location and the computer is non-networked.
+
 ### Audio and Video Digitization Station
+
+Core programs installed and used in documentation include: 
+
+- [Audacity](https://www.audacityteam.org/)
+- [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/)
+- [Elgato Video Capture](https://www.elgato.com/en/video-capture/support)
+- [Exact Audio Copy](https://www.exactaudiocopy.de/)
+- [Handbrake](https://handbrake.fr/)
+- [VLC Media Player](https://www.videolan.org/)
+
+Programs that are installed for ancillary use if the Elgato Video Capture device is proving to not work with a specific VHS tape: 
+
+- Pinnacle Instant DVD Recorder (from disc in Pinnacle box, not online)
+- Pinnacle Studio (from disc in Pinnacle box, not online)
+
+Additional links added to the desktop include: 
+
+- Equipment Procedures (seen here)
+- Report an Issue (internal link for WVU employees)
+
+Maintenance needs may include: 
+
+- Updating the core programs above is support for current versions is outdated. Update any documentation for equipment that use the software if the software has changed substantially.
+- Deleting stray files periodically if necessary.
 
 *Future work: Refer to https://bavc.github.io/bavc-resources/docs/Services/cleaningDecks.html for cleaning decks, cleaning tapes, and larger workflow considerations*

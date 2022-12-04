@@ -16,9 +16,9 @@ nav_order: 2
 1. TOC
 {:toc}
 
-__Hardware__: [Bookeye 4](https://intranet.lib.wvu.edu/download/attachments/68551499/bookeye4v1a-operation-manual.pdf?version=1&modificationDate=1658686346846&api=v2)
+__Hardware__: [Bookeye 4](https://elizajames.github.io/digital-preservation-documentation/assets/files/bookeye4v1a-operation-manual.pdf)
 
-__Software__: [Opus FreeFlow](https://intranet.lib.wvu.edu/download/attachments/73990166/opus-freeflow-usermanual.pdf?version=1&modificationDate=1664376852012&api=v2)
+__Software__: [Opus FreeFlow](https://elizajames.github.io/digital-preservation-documentation/assets/files/opus-freeflow-user_manual.pdf)
 
 ## Digitizing Books and Oversized Flat Items
 

@@ -6,9 +6,6 @@ nav_order: 1
 has_children: true
 ---
 
-
-
-
 # Supported Formats and Equipment
 
 The following table outlines the formats supported for in-house digitization through the Digitization Lab and WVRHC department scanners. Included are the equipment types and specific models as well as the level of digitization supported. The available digitization level is defined by the terms "Preservation Copy" for equipment that can digitize according to the preservation standards outlined in the [Digitization Standards Document](https://elizajames.github.io/digital-preservation-documentation/assets/files/DigitzationStandards.docx) and "Access Copy" for equipment that does not meet preservation copy standards.   
