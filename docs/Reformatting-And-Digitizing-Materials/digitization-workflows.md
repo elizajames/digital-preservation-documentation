@@ -170,4 +170,6 @@ To verify the above for image files, tools such as going to File Explorer->View 
 
 For video and audio files, opening and verifying that files play and playback is correct is necessary. It is only possible to do this for a sample of items due to time constraints. Aim for approximately 10% of the total digitized files.  
 
+*Future area of work: utilize tools similar to the following - Refer to https://paradisec-archive.github.io/PARADISEC_workflows/10_quality_control.html for QC*
+
 Flag all errors to the Digital Archivist, being sure to include the name(s) of the impacted files as a reference to flag for re-digitization or troubleshooting. 

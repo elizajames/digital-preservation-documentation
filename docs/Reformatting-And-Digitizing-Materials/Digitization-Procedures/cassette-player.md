@@ -92,10 +92,34 @@ Once pressed, the tape deck will open. Insert the cassette tape with the open, m
 
 ![Headphones image](https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/WL-DigitizingCassetteTapes-271122-0153-14_Page_5_Image_0001.jpg)
 
-- Click the red Record button at the top of the screen. 
+- Click the red __Record__ button at the top of the screen. 
+
+![Red record button in audacity](https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/WL-DigitizingCassetteTapes-271122-0153-14_Page_5_Image_0002.jpg)
+
+- Press __Play__ on the tape deck.
+
+![Play button on the cassette tape deck](https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/WL-DigitizingCassetteTapes-271122-0153-14_Page_5_Image_0003.jpg)
+
+- In Audacity, you should see green bars moving across the numbers at the top, depicted below, as your tape is playing. This means audio is being “heard” by Audacity.
+
+![Audio bars in Audacity](https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/WL-DigitizingCassetteTapes-271122-0153-14_Page_5_Image_0004.jpg)
+
+- To adjust recording volume as needed, move the slider next to the microphone icon in the upper right corner of the screen toward the minus sign (softer) or the plus sign (louder), as shown below.  If the volume is already at the maximum and is still too soft, this can be managed once digitization is complete by following the [Audacity Increase Volume Tutorial](https://www.youtube.com/watch?v=BKHFHG0frEA).
+
+![Audio bar Audacity](https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/WL-DigitizingCassetteTapes-271122-0153-14_Page_5_Image_0005.jpg)
+
+- You should see activity in the window like that in the screenshot below. The size of the upper and lower peaks may be smaller or larger depending on the original item.
+
+![Audio bars on Audacity](https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/WL-DigitizingCassetteTapes-271122-0153-14_Page_6_Image_0001.jpg)
+
+- Save your file to your source media by going to the Audacity toolbar, clicking __File__, selecting __Export__ from the menu, and then __Export as WAV__.  
+- When you save the file, a window will appear for you to enter metadata (description info) about the file. If desired, include how the file was digitized and who owns the rights to the recording. This information will be embedded into the file and can be viewed by viewing the file’s properties in the future. Name the file something that indicates information about the cassette, such as the creator, title, or date cassette was recorded or published. 
+
+![Metadata screen in Audacity](https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/WL-DigitizingCassetteTapes-271122-0153-14_Page_6_Image_0002.jpg)
+
+- If you are uploading to a cloud location, such as OneDrive, save to the desktop and then upload to the cloud location of your choice. Once you have verified the file is uploaded, be sure to delete the file from the desktop.  
+- If there is content on Side B/Side 2 of the tape, __Eject__ the tape, flip it to where Side B/Side 2 is facing you, insert it into the cassette deck, and repeat the capture and saving process. Sometimes there is no content on Side B/Side 2. To determine if there is content, play the first few minutes of the tape to listen for audio, fast forwarding to different parts of the tape and momentarily listening for audio if necessary.  
+- Once all portions of the tape have been captured, rewind the tape on Side A/Side 1 (instructions can be found in step 4 under __Physical setup__ above) and __Eject__ the tape. Remove the red and white cables from the front of the __Roland sound interface__ (being sure to leave the adapters plugged into the interface) and clip them on the wall where they were originally placed. 
 
 
-Coming soon!
-
-Refer to https://paradisec-archive.github.io/PARADISEC_workflows/10_quality_control.html for QC
 
