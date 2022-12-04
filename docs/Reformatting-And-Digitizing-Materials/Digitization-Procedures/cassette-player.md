@@ -17,6 +17,8 @@ nav_order: 4
 {:toc}
 
 __Hardware__: TEAC Double Auto Reverse Cassette Deck W-890R MK II, Roland Octa-Capture 
+
+
 __Software__: Audacity
 
 ## Identification and Introduction
@@ -50,9 +52,25 @@ Because of the age and fragility of the format, it is important to inspect the i
 
 1. Verify that the Roland sound interface and cassette player are plugged in to the surge protector below the desk. The cords are labeled as Roland sound interface and cassette player respectively. Turn on the devices by pressing and briefly holding the power button on the upper right of the Roland sound interface. Turn on the cassette player by pressing the power button in the lower left—the power button should stay pressed once you let go.    
 2. Plug the red and white tipped cords for the cassette player, found hanging on the cubicle wall and labeled with __Cassette Player__, into the Roland sound interface (see image below). 
-
+![Plugged in cables for OctaCapture](https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/WL-DigitizingCassetteTapes-271122-0153-14_Page_2_Image_0001.jpg)
+3. Before inserting the tape into the player, look at your tape to determine if it needs to be rewound. You will know you need to rewind the tape if, with Side A or Side 1 of the tape facing you, there is brown or black opaque, non-transparent tape on the right reel inside the cassette tape. All tape needs to be on the left reel so that you may start from the beginning without missing audio. You can rewind your tape by following the instructions in step 4. 
+4. Press __Eject__.
+![Eject button](https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/WL-DigitizingCassetteTapes-271122-0153-14_Page_2_Image_0002.jpg)
+Once pressed, the tape deck will open. Insert the cassette tape with the open, magnetic tape side down. To start on Side 1 or Side A, insert the tape with Side 1 or Side A facing you.  
+![Orientation of cassette for insertion](https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/WL-DigitizingCassetteTapes-271122-0153-14_Page_3_Image_0001.jpg)
+5. Once the tape is in, if you determined in step 3 that your tape needs to be rewound, press the rewind button on the cassette player, shown boxed in red below. __Note: DO NOT PRESS RECORD BY ACCIDENT. This will record over your tape.__ The cassette deck will stop automatically once complete. While the tape is rewinding you can move on to the next section. 
+![Rewind button](https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/WL-DigitizingCassetteTapes-271122-0153-14_Page_3_Image_0002.jpg)
 
 ### Selecting the Settings
+1. The settings chosen for digitization are based on whether digitization will be conducted at preservation or access quality. Preservation quality files are chosen when conducting digitization of materials for long-term retention and preservation and should be chosen when working with unique archival materials. The settings can be found under “Cassettes” in the [Digitization Standards Document](https://elizajames.github.io/digital-preservation-documentation/docs/Appendices/appendix2/#digitization-standards-document) and summarized here:  
+|                     | Preservation Settings                | Access Settings                      |
+|---------------------|--------------------------------------|--------------------------------------|
+| File Type           | .WAV                                 | .MP3                                 |
+| Encoding            | LPCM (Linear Pulse Code Modulation)  | LPCM (Linear Pulse Code Modulation)  |
+| Sampling Frequency  | 96 kHz                               | 48 kHz                               |
+| Bit Depth/Rate      | 24-bit                               | 24-bit                               |
+| Audio Channel       | Stereo                               | Stereo                               |
+2. With the settings you have identified in mind, open __Audacity__ by clicking the shortcut on the desktop. Select the button for __Edit__ on the toolbar, then select __Preferences__. Click __Quality__ on the left toolbar of the __Preferences__ settings box (see below) that appears. Use the dropdowns for __Default Sample Rate__ (aka Sampling Frequency) and __Default Sample Format__ (aka Bit Depth/Rate) to select the relevant settings for your project.  
 
 ### Capture and Save Your Audio
 
