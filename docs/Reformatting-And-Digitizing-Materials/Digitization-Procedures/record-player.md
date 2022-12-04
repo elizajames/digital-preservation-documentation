@@ -76,8 +76,6 @@ The Digitization Lab can only handle 33 1/3 and 45 RPM speed records.
 
 - With the settings you have identified in mind, open __Audacity__ by clicking the shortcut on the desktop. Select the button for __Edit__ on the toolbar, then select __Preferences__. Click __Quality__ on the left toolbar of the __Preferences__ settings box (see below) that appears. Use the dropdowns for __Default Sample Rate__ (aka Sampling Frequency) and __Default Sample Format__ (aka Bit Depth/Rate) to select the relevant settings for your project.  
 
-![Record player RPM buttons](https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/WL-DigitizingVinylRecords-271122-0154-22_Page_3_Image_0002.jpg)
-
 ![Preferences Quality screen](https://elizajames.github.io/digital-preservation-documentation/assets/images/digitization/WL-DigitizingCassetteTapes-271122-0153-14_Page_4_Image_0001.jpg)
 
 - On the main Audacity screen, verify that you see “OCTA-CAPTURE” next to the microphone icon (boxed in red below) and “2 (Stereo) Recording Channel” next to that to make sure Audacity is connected to the Roland sound interface. If you don’t see it, verify that both the cassette player and Roland are on and exit out of and restart Audacity. You can also verify the sampling frequency in the lower left corner (boxed in red below). 
