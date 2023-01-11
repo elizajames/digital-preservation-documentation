@@ -38,6 +38,7 @@ For audiovisual materials with digitized versions, create a digital object in Ar
         * Number: Numeric value for quantity of files in GB 
         * Type, select: Gigabytes 
         * Container Summary: format as "1,000 files", using the number of files for the applicable item 
+    * Notes -> Physical Description: Add any additional information necessary to ensure a link between the physical content and digitized content. This is particularly useful for minimally processed collections. 
     * Digital Object Type: choose the appropriate type from the fixed menu 
     * Language: choose the correct language 
     * Date information includes:  
