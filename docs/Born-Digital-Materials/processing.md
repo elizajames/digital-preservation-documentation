@@ -133,7 +133,7 @@ If the files for any media items have been modified, including for materials whi
 Once all materials have been processed, run the following command on the entire folder for the collection, inclusive of the Administration, Born Digital Content, and Digitized Content folders.  
 
 ```py
-brunnhilde.py - n [input directory, or entire collection folder] [output directory, or Administration folder for the collection]   
+brunnhilde.py -n [input directory, or entire collection folder] [output directory, or Administration folder for the collection]   
 ```
 
 Save the output in a folder named as the A&M number for the collection followed by _processed in the Metadata folder in the Administration folder for the collection. 
