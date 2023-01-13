@@ -45,7 +45,7 @@ Regardless, it is helpful to examine the roles and responsibilities of individua
             - Executes digital archives workflows related to metadata creation and other description. 
         - Photographs Manager 
             - Works with the Digital Archivist to plan and implement digital archives workflows related to digitization. 
-        - Student Worker (10 hrs a week, assists Photographs Manager 
+        - Student Worker (10 hrs a week, assists Photographs Manager)
             - Executes digitization workflows. 
     - Administration 
         - Responsible for outlining the departmental strategy and the departmental ecosystem the program operates within as well as resource allocation to the program. Serves as an advocate for the program to WVU Administration.  
