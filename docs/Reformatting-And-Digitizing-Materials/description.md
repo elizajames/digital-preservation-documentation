@@ -32,7 +32,7 @@ For audiovisual materials with digitized versions, create a digital object in Ar
 5. In the Digital Object screen, enter the following (bolded fields are mandatory):  
     * __Title__: use the same title as the Archival Object 
     * __Identifier__: Use the base file name minus the file extension (e.g., 4050_vhs_001) 
-    * __Conditions Governing Access__: Researchers may access digitized materials by requesting to view the materials in person by appointment or remotely by contacting the West Virginia & Regional History Center reference department at wvrhcref@mail.wvu.edu. (This is for temporary use until we get a digital repository up and running) 
+    * __Conditions Governing Access__: Researchers may access digitized materials by requesting to view the materials in person by appointment or remotely by contacting the West Virginia & Regional History Center reference department at https://westvirginia.libanswers.com/wvrhc. (This is for temporary use until we get a digital repository up and running) 
     * __Extent__
         * Portion, select: Whole 
         * Number: Numeric value for quantity of files in GB 
