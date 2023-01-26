@@ -11,40 +11,40 @@ Digital preservation work requires many specialized command line or GUI-based to
 
 - [7-Zip](https://www.7-zip.org/) 
     - _Usage Notes:_ Supports unzipping more diverse formats than default Windows Explorer.
-    - _Install Notes:_ Standard install, no special instructions necessary.   
+    - _Install Notes:_ Standard install.   
 - [Brunnhilde](https://github.com/tw4l/brunnhilde)
     - _Usage Notes:_ A reporting tool for digital preservation which bundles usage of tools such as the following, some of which must be installed separately:   
-    - _Install Notes:_ Coming soon.
+    - _Install Notes:_ Run "pip install brunnhilde" after all dependencies seen below are installed.
     - [Siegfried](https://www.itforarchivists.com/siegfried/)   
         - _Usage Notes:_ A file signature-based file format identification tool. 
-        - _Install Notes:_ Coming soon.
+        - _Install Notes:_ Download and extract folder of files. Move folder to program files and add to PATH. Run sf -update before using brunnhilde.
     - [ClamAV](https://www.clamav.net/)   
         - _Usage Notes:_ Provides virus scanning for items being analyzed using Siegfried and Brunnhilde.
-        - _Install Notes:_ Download release and add extracted folder to Program Files. Add path to PATH. Move clamd.conf.sample and freshclam.conf.sample to root directory. Edit both files to remove .sample from the file name and delete the "Example" line of text. Run freshclam on command line as administrator to verify install and update database.
+        - _Install Notes:_ Download release and add extracted folder to Program Files. Add path to PATH. Move clamd.conf.sample and freshclam.conf.sample to root directory. Edit both files to remove .sample from the file name and delete the line of text reading "Example". Run freshclam on command line as administrator to verify install and update database.
     - [bulk_extractor](https://github.com/simsong/bulk_extractor)   
         - _Usage Notes:_ Supports identification of Personally Identifiable Information (PII) from files. 
-        - _Install Notes:_ Coming soon. 
+        - _Install Notes:_ Standard install, no special instructions. 
     - [The Sleuth Kit](https://www.sleuthkit.org/) (TSK)'s [tsk_recover](http://www.sleuthkit.org/sleuthkit/man/tsk_recover.html) 
         - _Usage Notes:_ Supports extraction of files from disk images.  
-        - _Install Notes:_ Coming soon.
+        - _Install Notes:_ Download, extract, and add to program files. Add bin subfolder path to PATH.
 - [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/)  
     - _Usage Notes:_ Supports renaming of files in bulk.
-    - _Install Notes:_ Coming soon.
+    - _Install Notes:_ Standard install.
 - [Exact Audio Copy](https://www.exactaudiocopy.de/)   
     - _Usage Notes:_ Supports extraction of audio files from CD-DA formatted discs.
-    - _Install Notes:_ Coming soon.
+    - _Install Notes:_ Standard install.
 - [Exiftool](https://exiftool.org/)      
     - _Usage Notes:_ Supports extraction of embedded Exif metadata in files.  
-    - _Install Notes:_ Coming soon.
+    - _Install Notes:_ Download Windows executable, add to Program Files, add to PATH.
 - [FastStone Image Viewer](https://www.faststone.org/) 
     - _Usage Notes:_ Supports viewing and batch operations on image files, including renaming, rotation, and file format conversion.  
-    - _Install Notes:_ Coming soon.
+    - _Install Notes:_ Standard install.
 - [FFmpeg](https://ffmpeg.org/)  
     - _Usage Notes:_ Used as an extension of Handbrake for commands Handbrake cannot support. The Association of Moving Image Archivists has a [helpful guide](https://amiaopensource.github.io/ffmprovisr/) to FFmpeg.
-    - _Install Notes:_ Coming soon.  
+    - _Install Notes:_ Download release, unzip folder, add to Program Files, and add the bin subfolder to the PATH.  
 - [FTK Imager](https://www.exterro.com/ftk-imager#:~:text=FTK%C2%AE%20Imager%20is%20a,(FTK%C2%AE)%20is%20warranted.)
     - _Usage Notes:_ Supports file system identification and analysis, disk imaging, and content extraction from items and disk images.  
-    - _Install Notes:_ Coming soon.
+    - _Install Notes:_ Standard install, but must enter email and name to download.
 - [Handbrake](https://handbrake.fr/) 
     - _Usage Notes:_ Supports reformatting and file conversion of various audiovisual files.  
 - [HFS Explorer](https://www.catacombae.org/hfsexplorer/) 
