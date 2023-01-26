@@ -47,36 +47,37 @@ Digital preservation work requires many specialized command line or GUI-based to
     - _Install Notes:_ Standard install, but must enter email and name to download.
 - [Handbrake](https://handbrake.fr/) 
     - _Usage Notes:_ Supports reformatting and file conversion of various audiovisual files.  
+    - _Install Notes:_ Standard install. Upon starting the program for the first time, you must follow the .NET install link to install .NET if it is not already installed. This only has to be done once.
 - [HFS Explorer](https://www.catacombae.org/hfsexplorer/) 
     - _Usage Notes:_ Supports reading of Mac-formatted hard disks and disk images.
-    - _Install Notes:_ Coming soon. 
+    - _Install Notes:_ Standard install, but must also install Java SE Development Kit before running the program.
 - [IsoBuster](https://www.isobuster.com/) (Free Version) 
     - _Usage Notes:_ Supports examination of media items, including file system identification and analysis.  
-    - _Install Notes:_ Coming soon.
+    - _Install Notes:_ Standard install. Must click Free funct. only when using IsoBuster for the first time.
 - [LibreOffice](https://www.libreoffice.org/)
     - _Usage Notes:_ Supports viewing and migrating a variety of file formats.
-    - _Install Notes:_ Coming soon.
+    - _Install Notes:_ Standard install.
 - [Spirion IdentityFinder](https://www.spirion.com/) 
     - _Usage Notes:_ Supports identifying and redacting PII from files.
-    - _Install Notes:_ Coming soon.  
+    - _Install Notes:_ N/A, installed on all university machines as it is part of a license. 
 - [Teracopy](https://www.codesector.com/teracopy)   
     - _Usage Notes:_ Supports copying, movement, and checksum generation and validation pre and post copying and movement of files. 
-    - _Install Notes:_ Coming soon.
+    - _Install Notes:_ Standard install.
 - [Universal Viewer](https://uvviewsoft.com/uviewer/download.htm) 
     - _Usage Notes:_ Supports viewing of diverse file formats for review and description.
-    - _Install Notes:_ Coming soon.
+    - _Install Notes:_ Must download, extract, and add to program files. No installer--simply add a shortcut to the Viewer file in the root directory for easy access from the desktop.
 - [Python](https://www.python.org/)
     - _Usage Notes:_ Programming language that, when used with external libraries, supports a variety of preservation activities. Python is a mandatory install for some of the programs mentioned here.
     - _Install Notes:_ Add to PATH.
 - [Visual Studio Code](https://code.visualstudio.com/) and the [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
     - _Usage Notes:_ Software to write, edit, and run code.
-    - _Install Notes:_ Coming soon. 
+    - _Install Notes:_ Standard install for VS Code. Once in VS Code, go to extensions, search "python", and select the Microsoft created python extension.
 - [VLC Media Player](https://www.videolan.org/)
     - _Usage Notes:_ Supports playback of nearly all audio and video formats.
-    - _Install Notes:_ Coming soon. 
+    - _Install Notes:_ Standard install.
 - [WizTree](https://diskanalyzer.com/) 
     - _Usage Notes:_ Supports GUI-based analysis of file systems and formats. 
-    - _Install Notes:_ Coming soon.
+    - _Install Notes:_ Standard install.
 
 Additionally, iteratively improving workflows and staying up to date on new tools is key to a successful digital preservation program. The following programs have yet to be added to the workstation and implemented as part of digital archives workflows, but are currently being assessed:  
 
