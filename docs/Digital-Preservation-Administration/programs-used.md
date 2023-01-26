@@ -13,14 +13,14 @@ Digital preservation work requires many specialized command line or GUI-based to
     - _Usage Notes:_ Supports unzipping more diverse formats than default Windows Explorer.
     - _Install Notes:_ Standard install, no special instructions necessary.   
 - [Brunnhilde](https://github.com/tw4l/brunnhilde)
-    - _Install Notes:_ Coming soon.
     - _Usage Notes:_ A reporting tool for digital preservation which bundles usage of tools such as the following, some of which must be installed separately:   
+    - _Install Notes:_ Coming soon.
     - [Siegfried](https://www.itforarchivists.com/siegfried/)   
         - _Usage Notes:_ A file signature-based file format identification tool. 
         - _Install Notes:_ Coming soon.
     - [ClamAV](https://www.clamav.net/)   
         - _Usage Notes:_ Provides virus scanning for items being analyzed using Siegfried and Brunnhilde.
-        - _Install Notes:_ Coming soon. 
+        - _Install Notes:_ Download release and add extracted folder to Program Files. Add path to PATH. Move clamd.conf.sample and freshclam.conf.sample to root directory. Edit both files to remove .sample from the file name and delete the "Example" line of text. Run freshclam on command line as administrator to verify install and update database.
     - [bulk_extractor](https://github.com/simsong/bulk_extractor)   
         - _Usage Notes:_ Supports identification of Personally Identifiable Information (PII) from files. 
         - _Install Notes:_ Coming soon. 
@@ -67,7 +67,7 @@ Digital preservation work requires many specialized command line or GUI-based to
     - _Install Notes:_ Coming soon.
 - [Python](https://www.python.org/)
     - _Usage Notes:_ Programming language that, when used with external libraries, supports a variety of preservation activities. Python is a mandatory install for some of the programs mentioned here.
-    - _Install Notes:_ Coming soon.  
+    - _Install Notes:_ Add to PATH.
 - [Visual Studio Code](https://code.visualstudio.com/) and the [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
     - _Usage Notes:_ Software to write, edit, and run code.
     - _Install Notes:_ Coming soon. 
