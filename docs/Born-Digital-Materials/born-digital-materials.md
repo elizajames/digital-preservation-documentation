@@ -21,7 +21,7 @@ According to the Society of American Archivists Dictionary of Archives Terminolo
 
 As noted on the [born digital definition page](https://dictionary.archivists.org/entry/born-digital.html), it is important to note that "Born digital information is distinguished from digitized, the latter describing a document created on paper that has been scanned (and possibly transformed into character data using OCR). A document created using a word processor may be described as born digital." Digitized materials also include analog audio and video formats that have been converted into a digital format. 
 
-This manual concerns both types of materials, and understanding the distinction is critical to effective resource allocation in a resource restricted environment. This section exclusively concerns born digital rather than digitized materials.  
+This manual concerns both types of materials, and understanding the distinction is critical to effective resource allocation in a resource restricted environment. This section exclusively concerns born digital rather than digitized materials, however, this section should be used for digital files created during digitization of items for loan or items damaged so severely that they cannot be re-digitized.   
 
 A [Born Digital Processing Checklist](https://elizajames.github.io/digital-preservation-documentation/assets/files/BornDigitalProcessingChecklist.docx) is used to guide the overall actions taken when processing born digital collections. 
 
