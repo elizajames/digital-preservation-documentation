@@ -103,11 +103,10 @@ Items should be labelled with their identifier. CDs and DVDs should be placed in
 
 This spreadsheet will be saved in the Administration folder of the previously mentioned directory structure as it is being completed. If the person completing the spreadsheet has to stop part way through completing an inventory and resume the inventory another day, the in-progress spreadsheet should be saved in the Administration folder for the collection. After completing the [Digital Media Inventory Spreadsheet](https://elizajames.github.io/digital-preservation-documentation/assets/files/DigitalMediaInventoryTemplate.xlsx), create a folder within the Born Digital Content folder for each media item recorded with the name of the folder being the same as the item’s identifier. Check off the appropriate task in the [Born Digital Processing Checklist](https://elizajames.github.io/digital-preservation-documentation/assets/files/BornDigitalProcessingChecklist.docx). 
 
-When the inventory spreadsheet is first used, Transfer and Accession event information should be recorded in the [PREMIS Spreadsheet](https://elizajames.github.io/digital-preservation-documentation/assets/files/PREMISSpreadsheet.xlsx), for which usage is outlined in the next paragraph. At this point, check off the appropriate task in the [Born Digital Processing Checklist](https://elizajames.github.io/digital-preservation-documentation/assets/files/BornDigitalProcessingChecklist.docx). Note: the [Digital Media Inventory Spreadsheet](https://elizajames.github.io/digital-preservation-documentation/assets/files/DigitalMediaInventoryTemplate.xlsx) is meant to serve as an initial inventory of the physical media that establishes identifier information and initial condition information. The [PREMIS Spreadsheet](https://elizajames.github.io/digital-preservation-documentation/assets/files/PREMISSpreadsheet.xlsx) uses the identifiers outlined in the Digital Media Inventory Spreadsheet to track what preservation and broader processing actions have been taken on what items.  
+Note: the [Digital Media Inventory Spreadsheet](https://elizajames.github.io/digital-preservation-documentation/assets/files/DigitalMediaInventoryTemplate.xlsx) is meant to serve as an initial inventory of the physical media that establishes identifier information and initial condition information. The [PREMIS Spreadsheet](https://elizajames.github.io/digital-preservation-documentation/assets/files/PREMISSpreadsheet.xlsx) uses the identifiers outlined in the Digital Media Inventory Spreadsheet to track what preservation and broader processing actions have been taken on what items.  
 
 As preservation and accessioning actions are completed, they will be recorded in the [PREMIS Spreadsheet](https://elizajames.github.io/digital-preservation-documentation/assets/files/PREMISSpreadsheet.xlsx) and saved within the Administration folder for the accession. The spreadsheet records all preservation actions, or [events](https://www.loc.gov/standards/premis/v3/preservation-events.pdf), in the [PREMIS data model](https://www.loc.gov/standards/premis/v3/preservation-events.pdf), taken on the collection. Actions are recorded and the success or failure of each action is outlined. Definitions of each event are included in the spreadsheet. Events that may be, but are not necessarily, related to the accessioning process include: 
 
-- Accession 
 - Brunnhilde report - completion includes the following events: 
     - Information package creation  
     - Format identification  
@@ -120,11 +119,11 @@ As preservation and accessioning actions are completed, they will be recorded in
 - Transfer 
 - Unquarantine
 
-At this point in the process, there should only be information about the Transfer and Accession events outlined. These two are done at the accession level, not the item level. Check off the appropriate task in the [Born Digital Processing Checklist](https://elizajames.github.io/digital-preservation-documentation/assets/files/BornDigitalProcessingChecklist.docx). 
-
 Once all media has been inventoried, each item must have the content removed from it or transferred if a digital transfer. Each carrier or method of transfer of born digital materials may require different imaging or other content acquisition techniques to ensure accurate content retrieval. The following list contains the general born digital carriers that are supported. All procedures are in the [Imaging and Born Digital Content Acquisition Procedures](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/imaging-and-content-acquisition/), with the following formats supported: 
 
-- 3.5 inch floppy disk 
+- 3.5 inch floppy disks
+- 5.25 inch floppy disks
+- Zip disks
 - Thumb drives, internal hard drives, external hard drives 
 - Memory cards 
 - CDs and DVDs 
