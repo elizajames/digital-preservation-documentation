@@ -178,20 +178,19 @@ The WVRHC does not have a case available for the 5.25 inch floppy disk drive and
 |     FC5025 (command line), Apple Commander, FTK Imager, Brunnhilde, Teracopy    |   TEAC 5.25 in drive, FC5025 Floppy Controller, SATA and IDE adapter                     |
 
 1. Set up the TEAC drive, FC5025 Floppy Controller, and SATA and IDE adapter as seen below. 
-
-<img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/5_25_floppy_setup.jpg" alt="View of a 5.25 inch floppy drive fully connected to a computer.">
-
+<img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/5_25_floppy_setup.jpg" alt="View of a 5.25 inch floppy drive fully connected to a computer.">. 
 2. Create two folders on the desktop using the media item’s identifier identified in the digital media inventory: identifier_content and identifier_metadata. The word “identifier” should be the identifier for the item, not the word identifier.  Example: 2828_5_25_fdisk_01
 3. Insert the item into the drive, oriented as seen in the image below:
-
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/5_25_floppy_insert.jpg" alt="Correct orientation for inserting a 5.25 inch floppy disk.">
-
 4. Lock the drive by flipping the switch on the front of the drive "up", as seen below: 
  
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/5_25_floppy_locked.jpg" alt="Image of drive in locked position.">
 
-5. The WVRHC uses the command line version of the FC5025 Floppy Controller software. Open the command line. 
-`` 
+5. The WVRHC uses the command line version of the FC5025 Floppy Controller software. Open the command line. With 5.25 inch disks, it is usually not possible to tell which file system or original operating system was used, meaning that trial and error is required to accurately image a disk. The FC5025 floppy controllers support many formats as a result. The following image commands and formats are supported: apple33 (Apple DOS 3.3 (16-sector)), apple32 (Apple DOS 3.2 (13-sector), applepro (Apple ProDos), c1541 (Commodore 1541), ti99 (TI-99/4A 90k), ti99ds180 (TI-99/4A 180k), ti99ds360 (TR-99/4A 360k), atari810 (Atari 810), msdos12 (MS-DOS 1200k), msdos360 (MS-DOS 360k), mdsad (North Star MDS-A-D 175k), mdsad350 (North Star MDS-A-D 350k), kaypro2 (Kaypro 2 CP/M 2.2), kaypro4(Kaypro 4 CP/M 2.2), vg4500 (CalComp Vistagraphics 4500), pmc (PMC MicroMate), coco (Tandy Color Computer Disc BASIC), versa (Motorola VersaDOS). __The most commonly used commands will likely be MSDOS and Apple. Those should be tried first.__ The following is a sample of commands showing the trial and error process, showing unsuccessful commands and the final successful command: 
+<img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/fc5025_command_line_sample.png" alt="Command line demonstrations showing non-functional and functional commands.">
+6.  __Important note: If the drive squeals during imaging, please check and see if any black residue is on the drive head. If so, gently clean the head of the drive with a q-tip and isopropyl alcohol, ensuring no residue or fibers remain on the head. Allow to dry at least thirty minutes before imaging another disk.__
+
+ 
 
 If content was unretrievable: 
 
