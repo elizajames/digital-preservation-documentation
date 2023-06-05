@@ -173,13 +173,37 @@ If content acquisition for an item is unsuccessful, record a failure for the Ima
 
 |       Software  |    Hardware   |
 |-----------------|:-------------------------------------------:|
-|     FTK Imager, IsoBuster, Brunnhilde, TeraCopy    |   iOmega Zip Disk Drive, SATA and IDE adapter                     |
+|     FC5025 (command line), Apple Commander, FTK Imager, Brunnhilde, Teracopy    |   TEAC 5.25 in drive, FC5025 Floppy Controller, SATA and IDE adapter                     |
+
+1. Set up the TEAC drive, FC5025 Floppy Controller, and SATA and IDE adapter as seen below. 
+
+<img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/5_25_floppy_setup.jpg" alt="View of a 5.25 inch floppy drive fully connected to a computer.">
+
+2. Create two folders on the desktop using the media item’s identifier identified in the digital media inventory: identifier_content and identifier_metadata. The word “identifier” should be the identifier for the item, not the word identifier.  Example: 2828_5_25_fdisk_01
+3. 
+
+If content was unretrievable: 
+
+If content acquisition for an item is unsuccessful, record a failure for the Imaging event in the PREMIS spreadsheet.  
+
 
 ### Zip Disks
 
 |       Software  |    Hardware   |
 |-----------------|:-------------------------------------------:|
-|     FC5025 (command line), Apple Commander, FTK Imager, Brunnhilde, Teracopy    |   TEAC 5.25 in drive, FC5025 Floppy Controller, SATA and IDE adapter                     |
+|     FTK Imager, Brunnhilde, Teracopy    |   iOmega Zip Disk Drive, SATA and IDE adapter                     |
+
+1. Set up the Zip Disk Drive and SATA and IDE adapter as seen below. 
+
+<img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/zip_disk_setup.jpg" alt="View of a Zip disk drive fully connected to a computer.">
+
+2. Create two folders on the desktop using the media item’s identifier identified in the digital media inventory: identifier_content and identifier_metadata. The word “identifier” should be the identifier for the item, not the word identifier.  Example: 2828_disc_1_content 
+3. 
+
+If content was unretrievable: 
+
+If content acquisition for an item is unsuccessful, record a failure for the Imaging event in the PREMIS spreadsheet.  
+
 
 ### Thumb Drives, Internal Hard Drives, External Hard Drives, and Memory Cards
 
