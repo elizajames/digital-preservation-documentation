@@ -169,6 +169,18 @@ If content was unretrievable:
 
 If content acquisition for an item is unsuccessful, record a failure for the Imaging event in the PREMIS spreadsheet.  
 
+### 5.25 Inch Floppy Disks
+
+|       Software  |    Hardware   |
+|-----------------|:-------------------------------------------:|
+|     FTK Imager, IsoBuster, Brunnhilde, TeraCopy    |   iOmega Zip Disk Drive, SATA and IDE adapter                     |
+
+### Zip Disks
+
+|       Software  |    Hardware   |
+|-----------------|:-------------------------------------------:|
+|     FC5025 (command line), Apple Commander, FTK Imager, Brunnhilde, Teracopy    |   TEAC 5.25 in drive, FC5025 Floppy Controller, SATA and IDE adapter                     |
+
 ### Thumb Drives, Internal Hard Drives, External Hard Drives, and Memory Cards
 
 Though each of the physical formats described here use the same software for content acquisition, the hardware needed to access that content differs significantly.  
