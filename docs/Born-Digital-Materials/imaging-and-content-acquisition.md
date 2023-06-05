@@ -171,6 +171,8 @@ If content acquisition for an item is unsuccessful, record a failure for the Ima
 
 ### 5.25 Inch Floppy Disks
 
+The WVRHC does not have a case available for the 5.25 inch floppy disk drive and uses it upside down, as is similarly documented at the [University of Michigan](https://digipreslab.lib.umich.edu/wp-content/uploads/sites/8/2018/08/UMich-Public5-25imagingManual_v2-0.pdf).
+
 |       Software  |    Hardware   |
 |-----------------|:-------------------------------------------:|
 |     FC5025 (command line), Apple Commander, FTK Imager, Brunnhilde, Teracopy    |   TEAC 5.25 in drive, FC5025 Floppy Controller, SATA and IDE adapter                     |
@@ -180,7 +182,16 @@ If content acquisition for an item is unsuccessful, record a failure for the Ima
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/5_25_floppy_setup.jpg" alt="View of a 5.25 inch floppy drive fully connected to a computer.">
 
 2. Create two folders on the desktop using the media item’s identifier identified in the digital media inventory: identifier_content and identifier_metadata. The word “identifier” should be the identifier for the item, not the word identifier.  Example: 2828_5_25_fdisk_01
-3. 
+3. Insert the item into the drive, oriented as seen in the image below:
+
+<img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/5_25_floppy_insert.jpg" alt="Correct orientation for inserting a 5.25 inch floppy disk.">
+
+4. Lock the drive by flipping the switch on the front of the drive "up", as seen below: 
+ 
+<img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/5_25_floppy_locked.jpg" alt="Image of drive in locked position.">
+
+5. The WVRHC uses the command line version of the FC5025 Floppy Controller software. Open the command line. 
+`` 
 
 If content was unretrievable: 
 
@@ -198,7 +209,9 @@ If content acquisition for an item is unsuccessful, record a failure for the Ima
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/zip_disk_setup.jpg" alt="View of a Zip disk drive fully connected to a computer.">
 
 2. Create two folders on the desktop using the media item’s identifier identified in the digital media inventory: identifier_content and identifier_metadata. The word “identifier” should be the identifier for the item, not the word identifier.  Example: 2828_disc_1_content 
-3. 
+3. Insert the item into the drive, oriented as seen in the image below:
+
+<img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/zip_disk_insert.jpg" alt="Correct orientation for inserting a Zip disk.">
 
 If content was unretrievable: 
 
