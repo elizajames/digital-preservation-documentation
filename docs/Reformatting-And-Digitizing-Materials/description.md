@@ -7,19 +7,21 @@ nav_order: 4
 
 # Description
 
-For items that are going to be made publicly available and uploaded to the relevant section of WVU Digital Collections, metadata is assigned according to the metadata profile in [Appendix 3](https://elizajames.github.io/digital-preservation-documentation/docs/Appendices/appendix3/). Description may be completed at the item, folder, or collection level as determined by the [Digitization Project Planning document](https://elizajames.github.io/digital-preservation-documentation/assets/files/DigitizationPlanningForm.docx) for the collection being digitized.  
+For items that are going to be made publicly available and uploaded to the relevant section of WVU Digital Collections, metadata is assigned according to the metadata profile in [Appendix 3](https://elizajames.github.io/digital-preservation-documentation/docs/Appendices/appendix3/). Description may be completed at the item, folder, or collection level as determined by the [Digitization Project Planning document](https://elizajames.github.io/digital-preservation-documentation/assets/files/DigitizationPlanningForm.docx) for the collection being digitized. Metadata may be input directly into the WVRHC digital repository or, in the case of collections where materials may benefit from batch uploading, can be input into the [Digital Repository Metadata Spreadsheet](https://elizajames.github.io/digital-preservation-documentation/assets/files/Digital_Repository_Metadata_Template.xlsx).----
 
-Metadata may be input directly into the WVRHC digital repository or, in the case of collections where materials may benefit from batch uploading, can be input into the [Digital Repository Metadata Spreadsheet](https://elizajames.github.io/digital-preservation-documentation/assets/files/Digital_Repository_Metadata_Template.xlsx).  
+For items that are going to be made publicly accessible through description in ArchivesSpace----- 
 
-If an item is only being digitized for a reference request, the metadata implicit in the file name outlined in the [File Naming Conventions](https://elizajames.github.io/digital-preservation-documentation/docs/Reformatting-And-Digitizing-Materials/digitization-workflows/#file-naming-conventions) section is sufficient. 
+If an item is only being digitized for a reference request or are not being uploaded to the digital repository because of various restrictions, follow the----
 
-## Upload to Digital Repository and Link to ArchivesSpace 
+## Upload to Digital Repository 
 
 _Cannot complete the upload portion of this section yet as the digital repository is still in development by Systems Development._ 
 
 _Relevant sections: metadata in [Appendix 3](https://elizajames.github.io/digital-preservation-documentation/docs/Appendices/appendix3/)_ 
 
-_Once an item has been added to the digital repository it must be linked to ArchivesSpace—cannot do this portion of the workflow yet as the digital repository is not operational. Example of process here:  [Creating digital objects in ArchivesSpace and Islandora - ArchivesSpace Online Forum 2021](https://www.youtube.com/watch?v=1eX3ryz6TxU&t=2s)_
+_Once an item has been added to the digital repository it must be linked to ArchivesSpace as documented in the subsequen section—cannot do this portion of the workflow yet as the digital repository is not operational. Example of process here:  [Creating digital objects in ArchivesSpace and Islandora - ArchivesSpace Online Forum 2021](https://www.youtube.com/watch?v=1eX3ryz6TxU&t=2s)_
+
+## Create Digital Objects in ArchivesSpace 
 
 Initial ArchivesSpace instructions so that users know what items we have digitized: 
 
