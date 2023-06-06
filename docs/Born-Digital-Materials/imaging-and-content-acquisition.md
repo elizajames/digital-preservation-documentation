@@ -178,18 +178,23 @@ The WVRHC does not have a case available for the 5.25 inch floppy disk drive and
 |     FC5025 (command line), Apple Commander, FTK Imager, Brunnhilde, Teracopy    |   TEAC 5.25 in drive, FC5025 Floppy Controller, SATA and IDE adapter                     |
 
 1. Set up the TEAC drive, FC5025 Floppy Controller, and SATA and IDE adapter as seen below. 
-<img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/5_25_floppy_setup.jpg" alt="View of a 5.25 inch floppy drive fully connected to a computer.">. 
+<img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/5_25_floppy_setup.jpg" alt="View of a 5.25 inch floppy drive fully connected to a computer."> 
 2. Create two folders on the desktop using the media item’s identifier identified in the digital media inventory: identifier_content and identifier_metadata. The word “identifier” should be the identifier for the item, not the word identifier.  Example: 2828_5_25_fdisk_01
 3. Insert the item into the drive, oriented as seen in the image below:
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/5_25_floppy_insert.jpg" alt="Correct orientation for inserting a 5.25 inch floppy disk.">
-4. Lock the drive by flipping the switch on the front of the drive "up", as seen below: 
- 
+4. Lock the drive by flipping the switch on the front of the drive "up", as seen below:
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/5_25_floppy_locked.jpg" alt="Image of drive in locked position.">
-
 5. The WVRHC uses the command line version of the FC5025 Floppy Controller software. Open the command line. With 5.25 inch disks, it is usually not possible to tell which file system or original operating system was used, meaning that trial and error is required to accurately image a disk. The FC5025 floppy controllers support many formats as a result. The following image commands and formats are supported: apple33 (Apple DOS 3.3 (16-sector)), apple32 (Apple DOS 3.2 (13-sector), applepro (Apple ProDos), c1541 (Commodore 1541), ti99 (TI-99/4A 90k), ti99ds180 (TI-99/4A 180k), ti99ds360 (TR-99/4A 360k), atari810 (Atari 810), msdos12 (MS-DOS 1200k), msdos360 (MS-DOS 360k), mdsad (North Star MDS-A-D 175k), mdsad350 (North Star MDS-A-D 350k), kaypro2 (Kaypro 2 CP/M 2.2), kaypro4(Kaypro 4 CP/M 2.2), vg4500 (CalComp Vistagraphics 4500), pmc (PMC MicroMate), coco (Tandy Color Computer Disc BASIC), versa (Motorola VersaDOS). __The most commonly used commands will likely be MSDOS and Apple. Those should be tried first.__ The following is a sample of commands showing the trial and error process, showing unsuccessful commands and the final successful command boxed in green. Note that the successful command had to be tried twice due to drive calibaration issues: 
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/fc5025_command_line_sample.png" alt="Command line demonstrations showing non-functional and functional commands.">
-6.  __Important note: If the drive squeals during imaging, please check and see if any black residue is on the drive head. If so, gently clean the head of the drive with a q-tip and isopropyl alcohol, ensuring no residue or fibers remain on the head. Allow to dry at least thirty minutes before imaging another disk.__ An image of the location of the drive head and a photo of the clean drive head is below. 
- 
+6. __Important note: If the drive squeals during imaging, please check and see if any black residue is on the drive head. If so, gently clean the head of the drive with a q-tip and isopropyl alcohol, ensuring no residue or fibers remain on the head. Allow to dry at least thirty minutes before imaging another disk.__ An image of the location of the drive head is boxed in the first photo and a photo of the clean drive head is in the second photo below. 
+<img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/5_25_drive_with_head.jpg" alt="Location of drive head is denoted with a box.">
+<img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/5_25_drive_head_zoomed.jpg" alt="Clean head on 5.25 inch floppy disk drive.">
+7. Once all content is in the identifier_content folder, run the following command on the command line, being sure that the input directory is the identifier_content folder and the output directory is the identifier_metadata folder. 
+    - `brunnhilde.py -b -z --ssn_mode=2 [input directory, or content folder for item] [output directory, or File Metadata folder for item]`  
+    - Example: `brunnhilde.py -b -z --ssn_mode=2 C:\Working Files\2828_disc_1_content C:\Working Files\2828_disc_1_metadata` 
+    - __Note:__ if an item is flagged as a virus by ClamAV (visible on the command line output), contact the Digital Archivist with the identifier for the item and immediately delete all content on the desktop and empty the Recycling Bin. Update the PREMIS spreadsheet in the Administrative folder within the folder for the collection or accession to include the event of Quarantine (if necessary) for the item. Do not continue to any additional steps.
+8. Move the identifier_content folder to the Content folder for the collection or accession and the identifier_metadata folder to the Metadata folder within the Administration folder within the accession or collection folder using the [TeraCopy instructions](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/imaging-and-content-acquisition/#teracopy). Remove _content and _metadata from the folder names. 
+9. Update the PREMIS spreadsheet in the Administrative folder within the folder for the collection or accession to include the events for Brunnhilde report, Imaging, and/or Quarantine (if necessary) for the item. 
 
 If content was unretrievable: 
 
@@ -203,13 +208,26 @@ If content acquisition for an item is unsuccessful, record a failure for the Ima
 |     FTK Imager, Brunnhilde, Teracopy    |   iOmega Zip Disk Drive, SATA and IDE adapter                     |
 
 1. Set up the Zip Disk Drive and SATA and IDE adapter as seen below. 
-
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/zip_disk_setup.jpg" alt="View of a Zip disk drive fully connected to a computer.">
-
 2. Create two folders on the desktop using the media item’s identifier identified in the digital media inventory: identifier_content and identifier_metadata. The word “identifier” should be the identifier for the item, not the word identifier.  Example: 2828_disc_1_content 
 3. Insert the item into the drive, oriented as seen in the image below:
-
 <img src="https://elizajames.github.io/digital-preservation-documentation/assets/images/media_imaging_manual/zip_disk_insert.jpg" alt="Correct orientation for inserting a Zip disk.">
+4. Next, examine the contents of the item without opening any files. To access the content of the item via Windows Explorer, go to File Explorer->This PC->Devices and Drives and select the relevant drive by right clicking on the device or drive and selecting Open in New Window. Examine the item in IsoBuster by following [Viewing a Disk Image or Media Item in IsoBuster](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/imaging-and-content-acquisition/#viewing-a-disk-image-or-media-item-1) instructions. 
+5. If the drive:  
+    - Has Mac file systems such as Hierarchical File System Plus (HFS+), Hierarchical File System (HFS), or Macintosh File System (MFS)  
+    - Is formatted as multiple drives that show separately on IsoBuster 
+    - Has content that is not identical in Windows Explorer and IsoBuster 
+ 
+    <p>Use the <a href="https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/imaging-and-content-acquisition/#imaging-an-item">FTK Imager instructions to image the drive</a>. For items formatted with multiple drives, be sure to capture each sub-drive with the FTK Imager instructions to image the item.</p>
+
+    <p>Otherwise, if the content is identical in all file systems in Windows Explorer vs. IsoBuster, follow the <a href="https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/imaging-and-content-acquisition/#teracopy">Teracopy</a> instructions to copy all items from the drive to the identifier_content folder on the desktop. If the content does not match, follow the <a href="https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/imaging-and-content-acquisition/#extracting-content-from-a-disk-image-or-media-item">FTK Imager instructions for content extraction</a> to accomplish the same task.</p>
+
+6. Once all content is in the identifier_content folder, run the following command on the command line, being sure that the input directory is the identifier_content folder and the output directory is the identifier_metadata folder. 
+     - `brunnhilde.py -b -z --ssn_mode=2 [input directory, or content folder for item] [output directory, or File Metadata folder for item]`  
+    - Example: `brunnhilde.py -b -z --ssn_mode=2 C:\Working Files\2828_disc_1_content C:\Working Files\2828_disc_1_metadata` 
+    - __Note:__ if an item is flagged as a virus by ClamAV (visible on the command line output), contact the Digital Archivist with the identifier for the item and immediately delete all content on the desktop and empty the Recycling Bin. Update the PREMIS spreadsheet in the Administrative folder within the folder for the collection or accession to include the event of Quarantine (if necessary) for the item. Do not continue to any additional steps. 
+7. Move the identifier_content folder to the Content folder for the collection or accession and the identifier_metadata folder to the Metadata folder within the Administration folder within the accession or collection folder using the [TeraCopy instructions](https://elizajames.github.io/digital-preservation-documentation/docs/Born-Digital-Materials/imaging-and-content-acquisition/#teracopy). Remove _content and _metadata from the folder names. 
+8. Update the PREMIS spreadsheet in the Administrative folder within the folder for the collection or accession to include the events for Brunnhilde report, Imaging (if necessary), Replication (if necessary), and/or Quarantine (if necessary) for the item. 
 
 If content was unretrievable: 
 
