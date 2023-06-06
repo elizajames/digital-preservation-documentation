@@ -13,9 +13,9 @@ For items that are going to be made publicly accessible through description in A
 
 If an item is only being digitized for a reference request or are not being uploaded to the digital repository because of various restrictions, follow the----
 
-## Upload to Digital Repository 
+## Upload to Digital Repository
 
-_Cannot complete the upload portion of this section yet as the digital repository is still in development by Systems Development._ 
+_Cannot complete the upload portion of this section yet as the replacement digital repository is still in development by Systems Development._ 
 
 _Relevant sections: metadata in [Appendix 3](https://elizajames.github.io/digital-preservation-documentation/docs/Appendices/appendix3/)_ 
 
