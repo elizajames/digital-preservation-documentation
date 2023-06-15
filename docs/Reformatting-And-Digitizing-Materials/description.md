@@ -44,8 +44,6 @@ For instance, if you have digitized an entire collection consisting of ten items
 
 __Note:__ If you want to create a Digital Object with more than one level of description, use the bulk importer or create the Digital Object using the instructions below and go back and edit and add the additional levels of description.
 
-For audiovisual materials with digitized versions, create a digital object in ArchivesSpace attached to the existing archival object containing digitized material using the following instructions: 
-
 1. Navigate to the appropriate Resource record for the collection or Archival Object for folder or item as relevant. 
 2. Click Edit.  
 3. Under Instances, click "Add Digital Object." 
@@ -54,7 +52,7 @@ For audiovisual materials with digitized versions, create a digital object in Ar
     * __Title__: use the same title as the Archival Object or Collection or generate a short title indicative of what has been digitized.
     * __Identifier__: Use the folder name for the identifier (e.g., 4050_vhs_001).  
       * If you have consolidated several similar items, either consolidate the identifier as 4050_vhs_001-010 (read this as: collection 4050, VHS numbers 1 through 10) being sure to use a General Note to outline what precisely has been digitized or 4050_vhs with additional component sub-digital objects for each VHS (bulk upload is helpful here!). If you’ve digitized the entire collection, use 4050_entirecollection.
-    * __Conditions Governing Access__*(pick from one of the following as appropriate)*:
+    * __Conditions Governing Access__*(pick from one of the following as appropriate) Be sure that “Publish” is checked.*:
       * Use where all materials are available in MFCS/online only: Researchers may access digitized materials materials by visiting the link attached to each item or by requesting to view the materials in person by appointment or remotely by contacting the West Virginia & Regional History Center reference department at https://westvirginia.libanswers.com/wvrhc.
       * Use where availability of materials is mixed (some in MFCS and on server): Researchers may access digitized materials materials by visiting the link attached to each item or by requesting to view the materials in person by appointment or remotely by contacting the West Virginia & Regional History Center reference department at https://westvirginia.libanswers.com/wvrhc.
       * Use where materials are on server only: Researchers may access digitized materials materials by requesting to view the materials in person by appointment or remotely by contacting the West Virginia & Regional History Center reference department at https://westvirginia.libanswers.com/wvrhc.
@@ -64,7 +62,7 @@ For audiovisual materials with digitized versions, create a digital object in Ar
               * If the files are in MB or KB, use the [MB to GB](https://www.unitconverters.net/data-storage/mb-to-gb.htm) converter or [KB to GB](https://www.unitconverters.net/data-storage/kb-to-gb.htm) converter as relevant. Round to two decimal places or, for smaller collections, the first non-zero digit if beyond two digits (example: 0.00003 GB).  
         * Type, select: Gigabytes 
         * Container Summary: format as "1,000 .tif files", using the number and format of files for the applicable item. Audio and video files would use their respective file formats.
-    * Notes -> General Content: Add any additional information necessary to ensure that it’s clear what has been digitized. This is particularly useful for minimally processed collections. Examples: “Box 3 folder 4 has been digitized.”, “Two letters from box 5 folder 2 have been digitized; the rest of the material in the folder has not been digitized.”, “The source locations for these materials were not noted.” 
+    * Notes -> General Content: Add any additional information necessary to ensure that it’s clear what has been digitized. This is particularly useful for minimally processed collections. Examples: “Box 3 folder 4 has been digitized.”, “Two letters from box 5 folder 2 have been digitized; the rest of the material in the folder has not been digitized.”, “The source locations for these materials were not noted.” Be sure that “Publish” is checked.
     * Digital Object Type: choose the appropriate type from the fixed menu. Note that you are describing the original object, not the file format. For instance, a digitized letter would be “text” rather than “still image.”
     * Language: choose the correct language 
     * Date information includes:  
@@ -74,3 +72,7 @@ For audiovisual materials with digitized versions, create a digital object in Ar
     * Agent Links: link the appropriate agent and role (usually creator) 
     * File Versions -> File URI (Only use for materials that are able to be linked to online.): Paste the URL for an item or a URL that links to search results for a group of items from a collection. Example: https://wvhistoryonview.org/?utf8=%E2%9C%93&search_field=all_fields&q=%22A%26M+9%22
 6. Click Save on the Digital Object box. Then click save on the main Resource Record or Archival Object Record. If you don’t click save on the Resource Record or Archival Object Record the Digital Object will be created but not be correctly linked to the record and you’ll have to go back and relink the Digital Object.
+7. At the Resource Record level, add the relevant Conditions Governing Access (described in step 5 in more detail). This is so researchers can know digitized materials are available even if just skimming a record.
+8. __Quality Control:__ 
+     * Go to the main Resource Record and verify the Conditions Governing Access note is present. 
+     * Go to the Digital Object and ensure the object is linked to the Resource Record or Archival Object as applicable. Ensure the minimum required fields are present and publicly visible.
